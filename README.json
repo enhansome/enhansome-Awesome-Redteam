@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "Threekiii",
                 "repo": "Awesome-Redteam",
-                "stars": 4333,
+                "stars": 4334,
                 "topics": [
                   "command-and-control",
                   "execution",
@@ -58,7 +58,7 @@
                 "open_issues": 2,
                 "owner": "Threekiii",
                 "repo": "Awesome-Redteam",
-                "stars": 4333,
+                "stars": 4334,
                 "topics": [
                   "command-and-control",
                   "execution",
@@ -95,7 +95,7 @@
                 "open_issues": 2,
                 "owner": "Threekiii",
                 "repo": "Awesome-Redteam",
-                "stars": 4333,
+                "stars": 4334,
                 "topics": [
                   "command-and-control",
                   "execution",
@@ -136,11 +136,11 @@
                     "id": 74962515,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-23T13:29:47Z",
-                    "open_issues": 585,
+                    "last_commit": "2026-09-25T17:50:51Z",
+                    "open_issues": 584,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 35943,
+                    "stars": 35957,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -169,7 +169,7 @@
                     "open_issues": 11,
                     "owner": "bee-san",
                     "repo": "Ciphey",
-                    "stars": 21630,
+                    "stars": 21633,
                     "topics": [
                       "artificial-intelligence",
                       "cipher",
@@ -277,7 +277,7 @@
                     "open_issues": 72,
                     "owner": "any86",
                     "repo": "any-rule",
-                    "stars": 8644,
+                    "stars": 8643,
                     "topics": [
                       "awsome",
                       "express",
@@ -369,7 +369,7 @@
                     "open_issues": 410,
                     "owner": "guanzhi",
                     "repo": "GmSSL",
-                    "stars": 6158,
+                    "stars": 6157,
                     "topics": [
                       "crypto",
                       "encryption",
@@ -438,7 +438,7 @@
                     "open_issues": 2,
                     "owner": "cipher387",
                     "repo": "Dorks-collections-list",
-                    "stars": 2749,
+                    "stars": 2753,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -487,7 +487,7 @@
                     "open_issues": 0,
                     "owner": "six2dez",
                     "repo": "dorks_hunter",
-                    "stars": 345,
+                    "stars": 346,
                     "topics": [
                       "bugbounty",
                       "dorks",
@@ -618,7 +618,7 @@
                     "open_issues": 1,
                     "owner": "ffffffff0x",
                     "repo": "1earn",
-                    "stars": 5721,
+                    "stars": 5720,
                     "topics": [
                       "blueteam",
                       "collection",
@@ -664,7 +664,7 @@
                     "open_issues": 15,
                     "owner": "Ignitetechnologies",
                     "repo": "Mindmap",
-                    "stars": 9269,
+                    "stars": 9275,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -752,7 +752,7 @@
                     "open_issues": 0,
                     "owner": "Purp1eW0lf",
                     "repo": "Blue-Team-Notes",
-                    "stars": 1774,
+                    "stars": 1776,
                     "topics": [
                       "blueteam",
                       "cybersecurity",
@@ -786,7 +786,7 @@
                     "open_issues": 0,
                     "owner": "WesleyWong420",
                     "repo": "OPSEC-Tradecraft",
-                    "stars": 334,
+                    "stars": 336,
                     "topics": [
                       "adversary-simulation",
                       "opsec",
@@ -814,8 +814,8 @@
                     "id": 218938061,
                     "language": "PHP",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-09-22T16:36:39Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-09-25T14:13:44Z",
+                    "open_issues": 9,
                     "owner": "echoCTF",
                     "repo": "echoCTF.RED",
                     "stars": 150,
@@ -840,11 +840,11 @@
                     "id": 181042062,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-24T15:38:17Z",
-                    "open_issues": 1096,
+                    "last_commit": "2026-09-25T01:53:47Z",
+                    "open_issues": 1095,
                     "owner": "utmapp",
                     "repo": "UTM",
-                    "stars": 35617,
+                    "stars": 35636,
                     "topics": [
                       "apple",
                       "emulation",
@@ -871,11 +871,11 @@
                     "id": 5383731,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-24T20:35:43Z",
+                    "last_commit": "2026-09-25T22:14:12Z",
                     "open_issues": 0,
                     "owner": "qemu",
                     "repo": "qemu",
-                    "stars": 13759,
+                    "stars": 13764,
                     "topics": [
                       "emulation",
                       "qemu",
@@ -918,7 +918,7 @@
                 "open_issues": 243,
                 "owner": "owasp-amass",
                 "repo": "amass",
-                "stars": 15216,
+                "stars": 15225,
                 "topics": [
                   "attack-surfaces",
                   "dns",
@@ -953,7 +953,7 @@
                 "open_issues": 17,
                 "owner": "shadow1ng",
                 "repo": "fscan",
-                "stars": 14585,
+                "stars": 14587,
                 "topics": [
                   "fscan",
                   "scanner",
@@ -981,7 +981,7 @@
                 "open_issues": 108,
                 "owner": "shmilylty",
                 "repo": "OneForAll",
-                "stars": 10089,
+                "stars": 10091,
                 "topics": [
                   "altname",
                   "bugbounty",
@@ -1023,7 +1023,7 @@
                 "open_issues": 23,
                 "owner": "TideSec",
                 "repo": "TscanPlus",
-                "stars": 4398,
+                "stars": 4399,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -1044,7 +1044,7 @@
                 "open_issues": 52,
                 "owner": "lcvvvv",
                 "repo": "kscan",
-                "stars": 4297,
+                "stars": 4298,
                 "topics": [
                   "brute-force",
                   "bruteforce",
@@ -1271,7 +1271,7 @@
                     "id": 398282332,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T16:45:30Z",
+                    "last_commit": "2026-09-25T04:01:19Z",
                     "open_issues": 0,
                     "owner": "0x727",
                     "repo": "FingerprintHub",
@@ -1350,7 +1350,7 @@
                     "open_issues": 23,
                     "owner": "zhzyker",
                     "repo": "dismap",
-                    "stars": 2163,
+                    "stars": 2164,
                     "topics": [
                       "cybersecurity",
                       "detection",
@@ -1386,7 +1386,7 @@
                     "open_issues": 19,
                     "owner": "EASY233",
                     "repo": "Finger",
-                    "stars": 1723,
+                    "stars": 1724,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -1456,7 +1456,7 @@
                     "open_issues": 0,
                     "owner": "EnableSecurity",
                     "repo": "wafw00f",
-                    "stars": 6557,
+                    "stars": 6562,
                     "topics": [
                       "fingerprint",
                       "waf",
@@ -1510,7 +1510,7 @@
                     "open_issues": 47,
                     "owner": "MISP",
                     "repo": "misp-warninglists",
-                    "stars": 651,
+                    "stars": 652,
                     "topics": [
                       "dfir",
                       "false-positive",
@@ -1581,11 +1581,11 @@
                         "id": 127519518,
                         "language": "Go",
                         "license": "MIT",
-                        "last_commit": "2026-09-24T04:57:38Z",
-                        "open_issues": 6,
+                        "last_commit": "2026-09-25T04:17:58Z",
+                        "open_issues": 3,
                         "owner": "projectdiscovery",
                         "repo": "subfinder",
-                        "stars": 14500,
+                        "stars": 14504,
                         "topics": [
                           "bugbounty",
                           "hacking",
@@ -1614,7 +1614,7 @@
                         "open_issues": 30,
                         "owner": "knownsec",
                         "repo": "ksubdomain",
-                        "stars": 2398,
+                        "stars": 2399,
                         "topics": [
                           "enumeration",
                           "hacking-tool",
@@ -1645,10 +1645,10 @@
                         "language": "Go",
                         "license": "Apache-2.0",
                         "last_commit": "2026-09-09T04:03:37Z",
-                        "open_issues": 24,
+                        "open_issues": 25,
                         "owner": "OJ",
                         "repo": "gobuster",
-                        "stars": 14157,
+                        "stars": 14161,
                         "topics": [
                           "dns",
                           "go",
@@ -1675,7 +1675,7 @@
                         "open_issues": 118,
                         "owner": "xmendez",
                         "repo": "wfuzz",
-                        "stars": 6581,
+                        "stars": 6583,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -1696,7 +1696,7 @@
                         "open_issues": 24,
                         "owner": "s0md3v",
                         "repo": "Arjun",
-                        "stars": 6400,
+                        "stars": 6402,
                         "topics": [
                           "api-fuzzer",
                           "api-fuzzing",
@@ -1748,7 +1748,7 @@
                         "open_issues": 57,
                         "owner": "jaeles-project",
                         "repo": "gospider",
-                        "stars": 2997,
+                        "stars": 2998,
                         "topics": [
                           "bugbounty",
                           "crawler",
@@ -1779,10 +1779,10 @@
                         "language": "Go",
                         "license": "MIT",
                         "last_commit": "2026-09-24T12:35:26Z",
-                        "open_issues": 231,
+                        "open_issues": 233,
                         "owner": "ffuf",
                         "repo": "ffuf",
-                        "stars": 16714,
+                        "stars": 16718,
                         "topics": [
                           "fuzzer",
                           "infosec",
@@ -1804,11 +1804,11 @@
                         "id": 9774482,
                         "language": "Python",
                         "license": null,
-                        "last_commit": "2026-09-24T21:34:58Z",
+                        "last_commit": "2026-09-25T07:29:21Z",
                         "open_issues": 24,
                         "owner": "maurosoria",
                         "repo": "dirsearch",
-                        "stars": 14753,
+                        "stars": 14756,
                         "topics": [
                           "appsec",
                           "brute",
@@ -1850,7 +1850,7 @@
                         "open_issues": 41,
                         "owner": "H4ckForJob",
                         "repo": "dirmap",
-                        "stars": 3377,
+                        "stars": 3376,
                         "topics": [
                           "dirscanner",
                           "pentest-tool",
@@ -1883,7 +1883,7 @@
                         "open_issues": 50,
                         "owner": "vanhauser-thc",
                         "repo": "thc-hydra",
-                        "stars": 12304,
+                        "stars": 12311,
                         "topics": [
                           "brute-force",
                           "brute-force-attacks",
@@ -1921,7 +1921,7 @@
                         "open_issues": 1,
                         "owner": "evilsocket",
                         "repo": "legba",
-                        "stars": 1944,
+                        "stars": 1945,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -1966,11 +1966,11 @@
                         "id": 47409672,
                         "language": "C",
                         "license": null,
-                        "last_commit": "2026-09-24T19:04:32Z",
-                        "open_issues": 311,
+                        "last_commit": "2026-09-25T20:23:44Z",
+                        "open_issues": 312,
                         "owner": "hashcat",
                         "repo": "hashcat",
-                        "stars": 26854,
+                        "stars": 26865,
                         "topics": [
                           "c",
                           "cracking",
@@ -1997,10 +1997,10 @@
                         "language": "C",
                         "license": "NOASSERTION",
                         "last_commit": "2026-08-01T22:19:56Z",
-                        "open_issues": 519,
+                        "open_issues": 520,
                         "owner": "openwall",
                         "repo": "john",
-                        "stars": 13673,
+                        "stars": 13679,
                         "topics": [
                           "assembler",
                           "c",
@@ -2038,7 +2038,7 @@
                         "open_issues": 7,
                         "owner": "bee-san",
                         "repo": "Name-That-Hash",
-                        "stars": 1669,
+                        "stars": 1670,
                         "topics": [
                           "ctf",
                           "ctf-tools",
@@ -2122,7 +2122,7 @@
                         "open_issues": 75,
                         "owner": "ticarpi",
                         "repo": "jwt_tool",
-                        "stars": 6763,
+                        "stars": 6765,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -2281,11 +2281,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-09-24T11:16:16Z",
-                        "open_issues": 10,
+                        "last_commit": "2026-09-25T11:16:23Z",
+                        "open_issues": 9,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73702,
+                        "stars": 73728,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -2302,11 +2302,11 @@
                         "id": 2293158,
                         "language": "Ruby",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-09-24T19:34:42Z",
-                        "open_issues": 615,
+                        "last_commit": "2026-09-25T09:59:54Z",
+                        "open_issues": 618,
                         "owner": "rapid7",
                         "repo": "metasploit-framework",
-                        "stars": 39053,
+                        "stars": 39058,
                         "topics": [
                           "hacktoberfest"
                         ]
@@ -2388,7 +2388,7 @@
                         "open_issues": 0,
                         "owner": "gh0stkey",
                         "repo": "Web-Fuzzing-Box",
-                        "stars": 2799,
+                        "stars": 2798,
                         "topics": [
                           "bugbounty",
                           "fuzz",
@@ -2458,7 +2458,7 @@
                         "open_issues": 1,
                         "owner": "evilc0deooo",
                         "repo": "PentesterSpecialDict",
-                        "stars": 1915,
+                        "stars": 1916,
                         "topics": [
                           "blast",
                           "boom",
@@ -2486,7 +2486,7 @@
                         "open_issues": 3,
                         "owner": "assetnote",
                         "repo": "wordlists",
-                        "stars": 1732,
+                        "stars": 1731,
                         "topics": [
                           "bruteforce",
                           "bruteforce-wordlist",
@@ -2540,7 +2540,7 @@
                         "open_issues": 118,
                         "owner": "xmendez",
                         "repo": "wfuzz",
-                        "stars": 6581,
+                        "stars": 6583,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -2561,7 +2561,7 @@
                         "open_issues": 2,
                         "owner": "lutfumertceylan",
                         "repo": "top25-parameter",
-                        "stars": 1845,
+                        "stars": 1846,
                         "topics": [
                           "bugbounty",
                           "bugbountytips",
@@ -2595,11 +2595,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-09-24T11:16:16Z",
-                        "open_issues": 10,
+                        "last_commit": "2026-09-25T11:16:23Z",
+                        "open_issues": 9,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73702,
+                        "stars": 73728,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -2620,7 +2620,7 @@
                         "open_issues": 24,
                         "owner": "google",
                         "repo": "fuzzing",
-                        "stars": 3781,
+                        "stars": 3782,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -2641,7 +2641,7 @@
                         "open_issues": 1,
                         "owner": "six2dez",
                         "repo": "OneListForAll",
-                        "stars": 3246,
+                        "stars": 3247,
                         "topics": [
                           "bugbounty",
                           "fuzzing",
@@ -2735,7 +2735,7 @@
                         "open_issues": 0,
                         "owner": "zzzteph",
                         "repo": "weakpass",
-                        "stars": 736,
+                        "stars": 737,
                         "topics": [
                           "password",
                           "password-generator",
@@ -2794,7 +2794,7 @@
                         "open_issues": 13,
                         "owner": "LandGrey",
                         "repo": "pydictor",
-                        "stars": 3651,
+                        "stars": 3653,
                         "topics": [
                           "brute-force",
                           "bruteforce",
@@ -2866,7 +2866,7 @@
                     "open_issues": 0,
                     "owner": "ihebski",
                     "repo": "DefaultCreds-cheat-sheet",
-                    "stars": 6754,
+                    "stars": 6758,
                     "topics": [
                       "blueteam",
                       "blueteam-tools",
@@ -2913,10 +2913,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-09-21T21:20:59Z",
-                    "open_issues": 9,
+                    "open_issues": 11,
                     "owner": "laramies",
                     "repo": "theHarvester",
-                    "stars": 17592,
+                    "stars": 17613,
                     "topics": [
                       "blueteam",
                       "discovery",
@@ -2952,10 +2952,10 @@
                     "language": "Go",
                     "license": "NOASSERTION",
                     "last_commit": "2024-09-23T04:24:43Z",
-                    "open_issues": 761,
+                    "open_issues": 762,
                     "owner": "gophish",
                     "repo": "gophish",
-                    "stars": 14249,
+                    "stars": 14257,
                     "topics": [
                       "golang",
                       "gophish",
@@ -3022,7 +3022,7 @@
                     "open_issues": 7,
                     "owner": "digininja",
                     "repo": "DVWA",
-                    "stars": 13721,
+                    "stars": 13725,
                     "topics": [
                       "dvwa",
                       "hacking",
@@ -3051,7 +3051,7 @@
                     "open_issues": 35,
                     "owner": "WebGoat",
                     "repo": "WebGoat",
-                    "stars": 9352,
+                    "stars": 9354,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -3191,7 +3191,7 @@
                     "open_issues": 19,
                     "owner": "c0ny1",
                     "repo": "vulstudy",
-                    "stars": 2453,
+                    "stars": 2455,
                     "topics": [
                       "docker-image-builder",
                       "vulnerability"
@@ -3274,10 +3274,10 @@
                     "language": "PowerShell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-03-12T06:57:44Z",
-                    "open_issues": 154,
+                    "open_issues": 150,
                     "owner": "Orange-Cyberdefense",
                     "repo": "GOAD",
-                    "stars": 8374,
+                    "stars": 8377,
                     "topics": [
                       "active-directory",
                       "ansible",
@@ -3305,7 +3305,7 @@
                     "open_issues": 8,
                     "owner": "davidprowe",
                     "repo": "BadBlood",
-                    "stars": 2266,
+                    "stars": 2268,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -3333,7 +3333,7 @@
                     "open_issues": 28,
                     "owner": "madhuakula",
                     "repo": "kubernetes-goat",
-                    "stars": 5793,
+                    "stars": 5795,
                     "topics": [
                       "blueteam",
                       "cloud-native",
@@ -3374,7 +3374,7 @@
                     "open_issues": 23,
                     "owner": "RhinoSecurityLabs",
                     "repo": "cloudgoat",
-                    "stars": 3736,
+                    "stars": 3737,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -3395,7 +3395,7 @@
                     "open_issues": 5,
                     "owner": "iknowjason",
                     "repo": "Awesome-CloudSec-Labs",
-                    "stars": 2195,
+                    "stars": 2196,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -3416,7 +3416,7 @@
                     "open_issues": 12,
                     "owner": "ine-labs",
                     "repo": "AWSGoat",
-                    "stars": 2045,
+                    "stars": 2046,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -3548,11 +3548,11 @@
                     "id": 454015416,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T12:46:55Z",
+                    "last_commit": "2026-09-25T12:24:03Z",
                     "open_issues": 21,
                     "owner": "trickest",
                     "repo": "cve",
-                    "stars": 8090,
+                    "stars": 8096,
                     "topics": [
                       "cve",
                       "cve-poc",
@@ -3587,11 +3587,11 @@
                     "id": 226668668,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-24T19:45:43Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-09-25T19:45:10Z",
+                    "open_issues": 17,
                     "owner": "nomi-sec",
                     "repo": "PoC-in-GitHub",
-                    "stars": 8084,
+                    "stars": 8088,
                     "topics": [
                       "cve",
                       "exploit",
@@ -3618,7 +3618,7 @@
                     "open_issues": 0,
                     "owner": "Mr-xn",
                     "repo": "Penetration_Testing_POC",
-                    "stars": 7498,
+                    "stars": 7500,
                     "topics": [
                       "authentication-bypass",
                       "bypass",
@@ -3699,11 +3699,11 @@
                     "id": 357437766,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-25T00:00:07Z",
+                    "last_commit": "2026-09-26T00:00:08Z",
                     "open_issues": 1,
                     "owner": "ycdxsb",
                     "repo": "PocOrExp_in_Github",
-                    "stars": 1206,
+                    "stars": 1208,
                     "topics": [
                       "cve",
                       "exploit",
@@ -3795,11 +3795,11 @@
                     "id": 253044228,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T08:26:12Z",
-                    "open_issues": 99,
+                    "last_commit": "2026-09-25T09:30:05Z",
+                    "open_issues": 101,
                     "owner": "projectdiscovery",
                     "repo": "nuclei-templates",
-                    "stars": 13019,
+                    "stars": 13022,
                     "topics": [
                       "bugbounty",
                       "exploit-development",
@@ -3866,11 +3866,11 @@
                 "id": 252813491,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-24T19:46:20Z",
-                "open_issues": 107,
+                "last_commit": "2026-09-25T19:58:15Z",
+                "open_issues": 111,
                 "owner": "projectdiscovery",
                 "repo": "nuclei",
-                "stars": 31493,
+                "stars": 31524,
                 "topics": [
                   "attack-surface",
                   "cve-scanner",
@@ -3903,7 +3903,7 @@
                 "open_issues": 70,
                 "owner": "chaitin",
                 "repo": "xray",
-                "stars": 11752,
+                "stars": 11751,
                 "topics": [
                   "passive-vulnerability-scanner",
                   "poc",
@@ -3928,11 +3928,11 @@
                 "id": 463027648,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-23T15:27:41Z",
+                "last_commit": "2026-09-25T02:50:05Z",
                 "open_issues": 111,
                 "owner": "zan8in",
                 "repo": "afrog",
-                "stars": 4419,
+                "stars": 4420,
                 "topics": [
                   "afrog",
                   "bug-bounty",
@@ -3959,7 +3959,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2023-04-26T06:40:48Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "zhzyker",
                 "repo": "vulmap",
                 "stars": 3516,
@@ -4109,7 +4109,7 @@
                     "open_issues": 47,
                     "owner": "frohoff",
                     "repo": "ysoserial",
-                    "stars": 9065,
+                    "stars": 9067,
                     "topics": [
                       "deserialization",
                       "exploit",
@@ -4140,7 +4140,7 @@
                     "open_issues": 5,
                     "owner": "mbechler",
                     "repo": "marshalsec",
-                    "stars": 3714,
+                    "stars": 3715,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -4376,7 +4376,7 @@
                     "open_issues": 22,
                     "owner": "ambionics",
                     "repo": "phpggc",
-                    "stars": 3891,
+                    "stars": 3893,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -4438,7 +4438,7 @@
                     "open_issues": 29,
                     "owner": "cinience",
                     "repo": "RedisStudio",
-                    "stars": 1543,
+                    "stars": 1544,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -4597,7 +4597,7 @@
                     "open_issues": 4,
                     "owner": "4ra1n",
                     "repo": "mysql-fake-server",
-                    "stars": 835,
+                    "stars": 834,
                     "topics": [
                       "fake-server",
                       "jdbc",
@@ -4739,7 +4739,7 @@
                 "open_issues": 484,
                 "owner": "gitleaks",
                 "repo": "gitleaks",
-                "stars": 29469,
+                "stars": 29486,
                 "topics": [
                   "ai-powered",
                   "ci-cd",
@@ -4777,11 +4777,11 @@
                 "id": 77726177,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-24T19:35:29Z",
-                "open_issues": 552,
+                "last_commit": "2026-09-25T22:23:13Z",
+                "open_issues": 554,
                 "owner": "trufflesecurity",
                 "repo": "trufflehog",
-                "stars": 28040,
+                "stars": 28054,
                 "topics": [
                   "credentials",
                   "devsecops",
@@ -4815,7 +4815,7 @@
                 "open_issues": 10,
                 "owner": "arthaud",
                 "repo": "git-dumper",
-                "stars": 2668,
+                "stars": 2670,
                 "topics": [
                   "git",
                   "security",
@@ -4865,7 +4865,7 @@
                 "open_issues": 11,
                 "owner": "kost",
                 "repo": "dvcs-ripper",
-                "stars": 1786,
+                "stars": 1788,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -5333,7 +5333,7 @@
                 "open_issues": 17,
                 "owner": "feihong-cs",
                 "repo": "ShiroExploit-Deprecated",
-                "stars": 1956,
+                "stars": 1957,
                 "topics": [
                   "shiro",
                   "shiro-exp",
@@ -5424,7 +5424,7 @@
                 "open_issues": 4,
                 "owner": "shack2",
                 "repo": "Struts2VulsTools",
-                "stars": 430,
+                "stars": 431,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -5541,7 +5541,7 @@
                 "open_issues": 15,
                 "owner": "wyzxxz",
                 "repo": "heapdump_tool",
-                "stars": 1455,
+                "stars": 1456,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -5658,7 +5658,7 @@
                 "open_issues": 16,
                 "owner": "Lotus6",
                 "repo": "ThinkphpGUI",
-                "stars": 1596,
+                "stars": 1597,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -5679,7 +5679,7 @@
                 "open_issues": 8,
                 "owner": "bewhale",
                 "repo": "thinkphp_gui_tools",
-                "stars": 790,
+                "stars": 791,
                 "topics": [
                   "getshell",
                   "gui",
@@ -5770,7 +5770,7 @@
                 "open_issues": 4,
                 "owner": "0xn0ne",
                 "repo": "weblogicScanner",
-                "stars": 2074,
+                "stars": 2075,
                 "topics": [
                   "cve-2016-0638",
                   "cve-2016-3510",
@@ -5875,7 +5875,7 @@
                 "open_issues": 38,
                 "owner": "websockets",
                 "repo": "wscat",
-                "stars": 2781,
+                "stars": 2783,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -5924,7 +5924,7 @@
                 "open_issues": 0,
                 "owner": "W01fh4cker",
                 "repo": "VcenterKit",
-                "stars": 1272,
+                "stars": 1273,
                 "topics": [
                   "cve-2021-21972",
                   "cve-2021-21985",
@@ -5991,7 +5991,7 @@
                 "open_issues": 129,
                 "owner": "yaklang",
                 "repo": "yakit",
-                "stars": 7759,
+                "stars": 7761,
                 "topics": [
                   "blueteam",
                   "burpsuite",
@@ -6030,10 +6030,10 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-09-23T10:31:33Z",
-                    "open_issues": 393,
+                    "open_issues": 391,
                     "owner": "immersive-translate",
                     "repo": "immersive-translate",
-                    "stars": 19023,
+                    "stars": 19042,
                     "topics": [
                       "chrome-extension",
                       "safari-extension",
@@ -6105,7 +6105,7 @@
                     "open_issues": 70,
                     "owner": "Moustachauve",
                     "repo": "cookie-editor",
-                    "stars": 1707,
+                    "stars": 1709,
                     "topics": [
                       "android",
                       "browser-extension",
@@ -6222,7 +6222,7 @@
                     "open_issues": 1,
                     "owner": "0140454",
                     "repo": "hackbar",
-                    "stars": 581,
+                    "stars": 583,
                     "topics": [
                       "chrome",
                       "chrome-extension",
@@ -6279,7 +6279,7 @@
                     "open_issues": 0,
                     "owner": "overspace-labs",
                     "repo": "HaE",
-                    "stars": 4393,
+                    "stars": 4391,
                     "topics": [
                       "bughunter",
                       "burpsuite",
@@ -6371,7 +6371,7 @@
                     "open_issues": 8,
                     "owner": "f0ng",
                     "repo": "autoDecoder",
-                    "stars": 1429,
+                    "stars": 1430,
                     "topics": [
                       "burp",
                       "burp-plugin",
@@ -6417,7 +6417,7 @@
                     "open_issues": 12,
                     "owner": "whwlsfb",
                     "repo": "Log4j2Scan",
-                    "stars": 832,
+                    "stars": 833,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -6506,7 +6506,7 @@
                     "open_issues": 5,
                     "owner": "knownsec",
                     "repo": "404StarLink",
-                    "stars": 11264,
+                    "stars": 11270,
                     "topics": [
                       "opensource",
                       "security",
@@ -6591,10 +6591,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-23T00:57:31Z",
-                    "open_issues": 299,
+                    "open_issues": 300,
                     "owner": "ohmyzsh",
                     "repo": "ohmyzsh",
-                    "stars": 189918,
+                    "stars": 189930,
                     "topics": [
                       "cli",
                       "cli-app",
@@ -6631,7 +6631,7 @@
                     "open_issues": 256,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162503,
+                    "stars": 162517,
                     "topics": [
                       "bash",
                       "documentation",
@@ -6655,11 +6655,11 @@
                     "id": 77213120,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T23:10:15Z",
-                    "open_issues": 2786,
+                    "last_commit": "2026-09-25T04:08:34Z",
+                    "open_issues": 2807,
                     "owner": "Eugeny",
                     "repo": "tabby",
-                    "stars": 74674,
+                    "stars": 74679,
                     "topics": [
                       "serial",
                       "ssh-client",
@@ -6683,10 +6683,10 @@
                     "language": "Rust",
                     "license": "Unlicense",
                     "last_commit": "2026-08-04T13:59:44Z",
-                    "open_issues": 202,
+                    "open_issues": 204,
                     "owner": "BurntSushi",
                     "repo": "ripgrep",
-                    "stars": 68581,
+                    "stars": 68606,
                     "topics": [
                       "cli",
                       "command-line",
@@ -6714,11 +6714,11 @@
                     "id": 384219990,
                     "language": "Rust",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-24T20:32:54Z",
-                    "open_issues": 5295,
+                    "last_commit": "2026-09-25T22:51:35Z",
+                    "open_issues": 5304,
                     "owner": "warpdotdev",
                     "repo": "warp",
-                    "stars": 65159,
+                    "stars": 65161,
                     "topics": [
                       "bash",
                       "linux",
@@ -6744,11 +6744,11 @@
                     "id": 292014229,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T16:52:13Z",
-                    "open_issues": 1939,
+                    "last_commit": "2026-09-25T11:45:17Z",
+                    "open_issues": 1935,
                     "owner": "zellij-org",
                     "repo": "zellij",
-                    "stars": 35530,
+                    "stars": 35546,
                     "topics": [
                       "multiplexer",
                       "terminal",
@@ -6773,7 +6773,7 @@
                     "open_issues": 1,
                     "owner": "chrisant996",
                     "repo": "clink",
-                    "stars": 5515,
+                    "stars": 5513,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -6794,7 +6794,7 @@
                     "open_issues": 19,
                     "owner": "hanslub42",
                     "repo": "rlwrap",
-                    "stars": 3141,
+                    "stars": 3143,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -6815,7 +6815,7 @@
                     "open_issues": 8,
                     "owner": "tomnomnom",
                     "repo": "anew",
-                    "stars": 1662,
+                    "stars": 1663,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -6841,7 +6841,7 @@
                         "open_issues": 83,
                         "owner": "jaywcjlove",
                         "repo": "linux-command",
-                        "stars": 36958,
+                        "stars": 36977,
                         "topics": [
                           "bash",
                           "chrome",
@@ -6934,7 +6934,7 @@
                     "open_issues": 25,
                     "owner": "0dayCTF",
                     "repo": "reverse-shell-generator",
-                    "stars": 4064,
+                    "stars": 4065,
                     "topics": [
                       "ctf",
                       "generator",
@@ -6991,11 +6991,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T07:25:25Z",
+                "last_commit": "2026-09-25T15:01:11Z",
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38510,
+                "stars": 38520,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -7062,7 +7062,7 @@
                     "open_issues": 4,
                     "owner": "devploit",
                     "repo": "nomore403",
-                    "stars": 1881,
+                    "stars": 1885,
                     "topics": [
                       "403",
                       "403-bypass",
@@ -7098,7 +7098,7 @@
                     "open_issues": 11,
                     "owner": "Dheerajmadhukar",
                     "repo": "4-ZERO-3",
-                    "stars": 1672,
+                    "stars": 1673,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -7152,7 +7152,7 @@
                 "open_issues": 1,
                 "owner": "mzfr",
                 "repo": "liffy",
-                "stars": 993,
+                "stars": 994,
                 "topics": [
                   "hac",
                   "lfi",
@@ -7179,7 +7179,7 @@
                 "open_issues": 1,
                 "owner": "hansmach1ne",
                 "repo": "LFImap",
-                "stars": 338,
+                "stars": 339,
                 "topics": [
                   "command-injection",
                   "exploitation",
@@ -7220,7 +7220,7 @@
                 "open_issues": 11,
                 "owner": "tarunkant",
                 "repo": "Gopherus",
-                "stars": 3417,
+                "stars": 3420,
                 "topics": [
                   "fastcgi",
                   "github-rce",
@@ -7285,7 +7285,7 @@
                     "open_issues": 14,
                     "owner": "wux1an",
                     "repo": "wxapkg",
-                    "stars": 4181,
+                    "stars": 4183,
                     "topics": [
                       "decompile",
                       "decrypt",
@@ -7405,7 +7405,7 @@
                     "open_issues": 77,
                     "owner": "iBotPeaches",
                     "repo": "Apktool",
-                    "stars": 25659,
+                    "stars": 25668,
                     "topics": [
                       "9patch",
                       "android",
@@ -7510,7 +7510,7 @@
                 "open_issues": 36,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 81178,
+                "stars": 81210,
                 "topics": [
                   "bounty",
                   "bugbounty",
@@ -7624,11 +7624,11 @@
                 "id": 35866694,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T23:08:00Z",
-                "open_issues": 4107,
+                "last_commit": "2026-09-25T23:35:25Z",
+                "open_issues": 4129,
                 "owner": "RocketChat",
                 "repo": "Rocket.Chat",
-                "stars": 46169,
+                "stars": 46177,
                 "topics": [
                   "chat",
                   "collaboration",
@@ -7657,11 +7657,11 @@
                 "id": 37448451,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T23:23:06Z",
-                "open_issues": 1016,
+                "last_commit": "2026-09-25T23:36:54Z",
+                "open_issues": 1028,
                 "owner": "mattermost",
                 "repo": "mattermost",
-                "stars": 39172,
+                "stars": 39189,
                 "topics": [
                   "collaboration",
                   "golang",
@@ -7687,10 +7687,10 @@
                 "language": "Go",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-21T06:15:15Z",
-                "open_issues": 147,
+                "open_issues": 143,
                 "owner": "cloudreve",
                 "repo": "cloudreve",
-                "stars": 28760,
+                "stars": 28766,
                 "topics": [
                   "cloud",
                   "cloud-storage",
@@ -7743,7 +7743,7 @@
                 "id": 177987738,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-24T05:14:09Z",
+                "last_commit": "2026-09-25T14:11:53Z",
                 "open_issues": 302,
                 "owner": "hedgedoc",
                 "repo": "hedgedoc",
@@ -7779,7 +7779,7 @@
                 "open_issues": 14,
                 "owner": "sc0tfree",
                 "repo": "updog",
-                "stars": 3412,
+                "stars": 3413,
                 "topics": [
                   "file-sharing",
                   "file-upload",
@@ -7806,7 +7806,7 @@
                 "open_issues": 1,
                 "owner": "ffffffff0x",
                 "repo": "f8x",
-                "stars": 2164,
+                "stars": 2166,
                 "topics": [
                   "bash",
                   "bash-script",
@@ -7837,7 +7837,7 @@
                 "open_issues": 0,
                 "owner": "hwdsl2",
                 "repo": "openvpn-install",
-                "stars": 1742,
+                "stars": 1745,
                 "topics": [
                   "bash",
                   "centos",
@@ -8010,10 +8010,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-23T13:01:42Z",
-                    "open_issues": 315,
+                    "open_issues": 318,
                     "owner": "fortra",
                     "repo": "impacket",
-                    "stars": 16121,
+                    "stars": 16125,
                     "topics": [
                       "dcerpc",
                       "dcom",
@@ -8045,7 +8045,7 @@
                     "open_issues": 18,
                     "owner": "AlessandroZ",
                     "repo": "LaZagne",
-                    "stars": 10991,
+                    "stars": 10993,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -8066,7 +8066,7 @@
                     "open_issues": 52,
                     "owner": "skelsec",
                     "repo": "pypykatz",
-                    "stars": 3358,
+                    "stars": 3359,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -8087,7 +8087,7 @@
                     "open_issues": 2,
                     "owner": "login-securite",
                     "repo": "lsassy",
-                    "stars": 2210,
+                    "stars": 2211,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -8129,7 +8129,7 @@
                     "open_issues": 22,
                     "owner": "login-securite",
                     "repo": "DonPAPI",
-                    "stars": 1423,
+                    "stars": 1424,
                     "topics": [
                       "dpapi",
                       "password"
@@ -8199,7 +8199,7 @@
                     "open_issues": 6,
                     "owner": "itm4n",
                     "repo": "PPLdump",
-                    "stars": 889,
+                    "stars": 890,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -8248,11 +8248,11 @@
                     "id": 273132277,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-09-01T01:34:31Z",
-                    "open_issues": 33,
+                    "last_commit": "2026-09-25T05:44:31Z",
+                    "open_issues": 31,
                     "owner": "moonD4rk",
                     "repo": "HackBrowserData",
-                    "stars": 14552,
+                    "stars": 14555,
                     "topics": [
                       "browser",
                       "browser-extension",
@@ -8284,7 +8284,7 @@
                     "open_issues": 1,
                     "owner": "unode",
                     "repo": "firefox_decrypt",
-                    "stars": 2480,
+                    "stars": 2481,
                     "topics": [
                       "command-line-tool",
                       "extract-passwords",
@@ -8576,11 +8576,11 @@
                     "id": 2293158,
                     "language": "Ruby",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-24T19:34:42Z",
-                    "open_issues": 615,
+                    "last_commit": "2026-09-25T09:59:54Z",
+                    "open_issues": 618,
                     "owner": "rapid7",
                     "repo": "metasploit-framework",
-                    "stars": 39053,
+                    "stars": 39058,
                     "topics": [
                       "hacktoberfest"
                     ]
@@ -8600,10 +8600,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-23T13:01:42Z",
-                    "open_issues": 315,
+                    "open_issues": 318,
                     "owner": "fortra",
                     "repo": "impacket",
-                    "stars": 16121,
+                    "stars": 16125,
                     "topics": [
                       "dcerpc",
                       "dcom",
@@ -8635,7 +8635,7 @@
                     "open_issues": 102,
                     "owner": "PowerShellMafia",
                     "repo": "PowerSploit",
-                    "stars": 13078,
+                    "stars": 13079,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -8656,7 +8656,7 @@
                     "open_issues": 22,
                     "owner": "samratashok",
                     "repo": "nishang",
-                    "stars": 10115,
+                    "stars": 10119,
                     "topics": [
                       "activedirectory",
                       "hacking",
@@ -8684,10 +8684,10 @@
                     "language": "Python",
                     "license": "BSD-2-Clause",
                     "last_commit": "2023-12-06T17:09:42Z",
-                    "open_issues": 67,
+                    "open_issues": 66,
                     "owner": "byt3bl33d3r",
                     "repo": "CrackMapExec",
-                    "stars": 9160,
+                    "stars": 9163,
                     "topics": [
                       "active-directory",
                       "networks",
@@ -8711,11 +8711,11 @@
                     "id": 689013903,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-09-24T21:05:26Z",
+                    "last_commit": "2026-09-25T14:24:09Z",
                     "open_issues": 159,
                     "owner": "Pennyw0rth",
                     "repo": "NetExec",
-                    "stars": 5882,
+                    "stars": 5887,
                     "topics": [
                       "active-directory",
                       "hacking",
@@ -8752,7 +8752,7 @@
                     "open_issues": 44,
                     "owner": "k8gege",
                     "repo": "Ladon",
-                    "stars": 5327,
+                    "stars": 5329,
                     "topics": [
                       "brute-force",
                       "exp",
@@ -8792,7 +8792,7 @@
                     "open_issues": 48,
                     "owner": "GhostPack",
                     "repo": "Rubeus",
-                    "stars": 5172,
+                    "stars": 5174,
                     "topics": [
                       "kerberos"
                     ]
@@ -8815,7 +8815,7 @@
                     "open_issues": 7,
                     "owner": "Kevin-Robertson",
                     "repo": "Powermad",
-                    "stars": 1505,
+                    "stars": 1506,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -8836,7 +8836,7 @@
                     "open_issues": 1,
                     "owner": "XiaoliChan",
                     "repo": "wmiexec-Pro",
-                    "stars": 1298,
+                    "stars": 1299,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -8853,7 +8853,7 @@
                     "id": 730472744,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-24T11:46:10Z",
+                    "last_commit": "2026-09-25T11:51:19Z",
                     "open_issues": 0,
                     "owner": "ghost-ng",
                     "repo": "slinger",
@@ -8888,7 +8888,7 @@
                         "open_issues": 0,
                         "owner": "zer0yu",
                         "repo": "Awesome-CobaltStrike",
-                        "stars": 4449,
+                        "stars": 4451,
                         "topics": [
                           "cobalt-strike",
                           "redteam",
@@ -8936,7 +8936,7 @@
                         "open_issues": 4,
                         "owner": "FunnyWolf",
                         "repo": "pystinger",
-                        "stars": 1425,
+                        "stars": 1426,
                         "topics": [
                           "cobalt-strike",
                           "regeorg",
@@ -9038,7 +9038,7 @@
                     "open_issues": 29,
                     "owner": "GTFOBins",
                     "repo": "GTFOBins.github.io",
-                    "stars": 13691,
+                    "stars": 13692,
                     "topics": [
                       "binaries",
                       "bind-shell",
@@ -9106,7 +9106,7 @@
                     "open_issues": 0,
                     "owner": "tennc",
                     "repo": "webshell",
-                    "stars": 10781,
+                    "stars": 10784,
                     "topics": [
                       "asp",
                       "aspx",
@@ -9312,7 +9312,7 @@
                     "open_issues": 179,
                     "owner": "rebeyond",
                     "repo": "Behinder",
-                    "stars": 6198,
+                    "stars": 6199,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -9333,7 +9333,7 @@
                     "open_issues": 47,
                     "owner": "BeichenDream",
                     "repo": "Godzilla",
-                    "stars": 4466,
+                    "stars": 4467,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -9439,7 +9439,7 @@
                     "open_issues": 68,
                     "owner": "calebstewart",
                     "repo": "pwncat",
-                    "stars": 2913,
+                    "stars": 2915,
                     "topics": [
                       "enumeration",
                       "implant-deployment",
@@ -9500,11 +9500,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-24T01:05:55Z",
+                    "last_commit": "2026-09-25T23:47:20Z",
                     "open_issues": 2,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20569,
+                    "stars": 20574,
                     "topics": [
                       "bash",
                       "batch",
@@ -9541,11 +9541,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-24T01:05:55Z",
+                    "last_commit": "2026-09-25T23:47:20Z",
                     "open_issues": 2,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20569,
+                    "stars": 20574,
                     "topics": [
                       "bash",
                       "batch",
@@ -9586,7 +9586,7 @@
                     "open_issues": 25,
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8036,
+                    "stars": 8039,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -9607,7 +9607,7 @@
                     "open_issues": 3,
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6196,
+                    "stars": 6200,
                     "topics": [
                       "ctf",
                       "enumeration",
@@ -9659,11 +9659,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-24T01:05:55Z",
+                    "last_commit": "2026-09-25T23:47:20Z",
                     "open_issues": 2,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20569,
+                    "stars": 20574,
                     "topics": [
                       "bash",
                       "batch",
@@ -9704,7 +9704,7 @@
                     "open_issues": 102,
                     "owner": "PowerShellMafia",
                     "repo": "PowerSploit",
-                    "stars": 13078,
+                    "stars": 13079,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -9725,7 +9725,7 @@
                     "open_issues": 3,
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "WinPwn",
-                    "stars": 3694,
+                    "stars": 3695,
                     "topics": [
                       "adsecurity",
                       "automation",
@@ -9757,7 +9757,7 @@
                     "open_issues": 21,
                     "owner": "dafthack",
                     "repo": "MailSniper",
-                    "stars": 3278,
+                    "stars": 3279,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -9774,11 +9774,11 @@
                     "id": 269634237,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-24T05:04:11Z",
+                    "last_commit": "2026-09-25T05:03:51Z",
                     "open_issues": 2,
                     "owner": "Flangvik",
                     "repo": "SharpCollection",
-                    "stars": 2981,
+                    "stars": 2982,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -9820,7 +9820,7 @@
                     "open_issues": 0,
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "PowerSharpPack",
-                    "stars": 1706,
+                    "stars": 1707,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -9844,11 +9844,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-24T01:05:55Z",
+                    "last_commit": "2026-09-25T23:47:20Z",
                     "open_issues": 2,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20569,
+                    "stars": 20574,
                     "topics": [
                       "bash",
                       "batch",
@@ -9889,7 +9889,7 @@
                     "open_issues": 10,
                     "owner": "SecWiki",
                     "repo": "windows-kernel-exploits",
-                    "stars": 8738,
+                    "stars": 8739,
                     "topics": [
                       "collections",
                       "exploit",
@@ -9913,11 +9913,11 @@
                     "id": 173464070,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-17T19:43:52Z",
+                    "last_commit": "2026-09-25T00:27:52Z",
                     "open_issues": 9,
                     "owner": "bitsadmin",
                     "repo": "wesng",
-                    "stars": 4935,
+                    "stars": 4940,
                     "topics": [
                       "exploit",
                       "microsoft",
@@ -9966,7 +9966,7 @@
                     "open_issues": 1,
                     "owner": "itm4n",
                     "repo": "PrivescCheck",
-                    "stars": 3964,
+                    "stars": 3966,
                     "topics": [
                       "pentest-tool",
                       "pentesting",
@@ -9993,7 +9993,7 @@
                     "open_issues": 0,
                     "owner": "gtworek",
                     "repo": "PSBits",
-                    "stars": 3519,
+                    "stars": 3520,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -10014,7 +10014,7 @@
                     "open_issues": 0,
                     "owner": "Ascotbe",
                     "repo": "Kernelhub",
-                    "stars": 3194,
+                    "stars": 3195,
                     "topics": [
                       "cve",
                       "cve-2021-26868",
@@ -10124,7 +10124,7 @@
                     "open_issues": 2,
                     "owner": "giuliano108",
                     "repo": "SeBackupPrivilege",
-                    "stars": 471,
+                    "stars": 472,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -10148,11 +10148,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-24T01:05:55Z",
+                    "last_commit": "2026-09-25T23:47:20Z",
                     "open_issues": 2,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20569,
+                    "stars": 20574,
                     "topics": [
                       "bash",
                       "batch",
@@ -10193,7 +10193,7 @@
                     "open_issues": 22,
                     "owner": "liamg",
                     "repo": "traitor",
-                    "stars": 7164,
+                    "stars": 7165,
                     "topics": [
                       "cve-2021-3560",
                       "cve-2022-0847",
@@ -10392,7 +10392,7 @@
                     "open_issues": 20,
                     "owner": "t3l3machus",
                     "repo": "hoaxshell",
-                    "stars": 3497,
+                    "stars": 3499,
                     "topics": [
                       "hacking",
                       "open-source",
@@ -10443,7 +10443,7 @@
                     "open_issues": 11,
                     "owner": "knownsec",
                     "repo": "shellcodeloader",
-                    "stars": 1744,
+                    "stars": 1745,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -10565,7 +10565,7 @@
                     "open_issues": 18,
                     "owner": "haad",
                     "repo": "proxychains",
-                    "stars": 7960,
+                    "stars": 7961,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -10593,7 +10593,7 @@
                     "open_issues": 52,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109609,
+                    "stars": 109629,
                     "topics": [
                       "expose",
                       "firewall",
@@ -10625,7 +10625,7 @@
                     "open_issues": 527,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34235,
+                    "stars": 34239,
                     "topics": [
                       "dns",
                       "firewall",
@@ -10699,7 +10699,7 @@
                     "open_issues": 7,
                     "owner": "FunnyWolf",
                     "repo": "Viper",
-                    "stars": 5313,
+                    "stars": 5315,
                     "topics": [
                       "agent",
                       "ai",
@@ -10727,11 +10727,11 @@
                     "id": 390351016,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-11T09:32:55Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-09-25T14:31:27Z",
+                    "open_issues": 18,
                     "owner": "nicocha30",
                     "repo": "ligolo-ng",
-                    "stars": 5010,
+                    "stars": 5013,
                     "topics": [
                       "golang",
                       "offensive-security",
@@ -10762,7 +10762,7 @@
                     "open_issues": 6,
                     "owner": "ph4ntonn",
                     "repo": "Stowaway",
-                    "stars": 3419,
+                    "stars": 3420,
                     "topics": [
                       "ctf",
                       "ecc",
@@ -10828,7 +10828,7 @@
                     "open_issues": 20,
                     "owner": "sensepost",
                     "repo": "reGeorg",
-                    "stars": 3179,
+                    "stars": 3180,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -10849,7 +10849,7 @@
                     "open_issues": 2,
                     "owner": "zema1",
                     "repo": "suo5",
-                    "stars": 2813,
+                    "stars": 2814,
                     "topics": [
                       "http-proxy",
                       "http-socks5",
@@ -10927,7 +10927,7 @@
                     "open_issues": 22,
                     "owner": "yarrick",
                     "repo": "iodine",
-                    "stars": 7980,
+                    "stars": 7984,
                     "topics": [
                       "dns",
                       "dns-tunnel",
@@ -10955,7 +10955,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3970,
+                    "stars": 3971,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11075,7 +11075,7 @@
                 "open_issues": 2,
                 "owner": "wh0amitz",
                 "repo": "SharpADWS",
-                "stars": 603,
+                "stars": 604,
                 "topics": [
                   "active-directory",
                   "cybersecurity",
@@ -11126,7 +11126,7 @@
                     "open_issues": 93,
                     "owner": "SpecterOps",
                     "repo": "BloodHound-Legacy",
-                    "stars": 10609,
+                    "stars": 10611,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11143,11 +11143,11 @@
                     "id": 674367771,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-24T23:50:41Z",
-                    "open_issues": 142,
+                    "last_commit": "2026-09-26T00:01:08Z",
+                    "open_issues": 141,
                     "owner": "SpecterOps",
                     "repo": "BloodHound",
-                    "stars": 3436,
+                    "stars": 3439,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11168,7 +11168,7 @@
                     "open_issues": 34,
                     "owner": "dirkjanm",
                     "repo": "BloodHound.py",
-                    "stars": 2440,
+                    "stars": 2441,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11189,7 +11189,7 @@
                     "open_issues": 11,
                     "owner": "AD-Security",
                     "repo": "AD_Miner",
-                    "stars": 1566,
+                    "stars": 1567,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11231,7 +11231,7 @@
                     "open_issues": 9,
                     "owner": "NH-RED-TEAM",
                     "repo": "RustHound",
-                    "stars": 1171,
+                    "stars": 1172,
                     "topics": [
                       "active-directory",
                       "adcs",
@@ -11267,7 +11267,7 @@
                     "open_issues": 6,
                     "owner": "FalconForceTeam",
                     "repo": "SOAPHound",
-                    "stars": 898,
+                    "stars": 899,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11316,7 +11316,7 @@
                     "open_issues": 27,
                     "owner": "dirkjanm",
                     "repo": "ldapdomaindump",
-                    "stars": 1433,
+                    "stars": 1434,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11337,7 +11337,7 @@
                     "open_issues": 1,
                     "owner": "franc-pentest",
                     "repo": "ldeep",
-                    "stars": 606,
+                    "stars": 607,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11414,7 +11414,7 @@
                     "open_issues": 18,
                     "owner": "garrettfoster13",
                     "repo": "sccmhunter",
-                    "stars": 946,
+                    "stars": 947,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11435,7 +11435,7 @@
                     "open_issues": 8,
                     "owner": "Mayyhem",
                     "repo": "SharpSCCM",
-                    "stars": 702,
+                    "stars": 703,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11463,7 +11463,7 @@
                     "open_issues": 44,
                     "owner": "ropnop",
                     "repo": "kerbrute",
-                    "stars": 3449,
+                    "stars": 3451,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11493,7 +11493,7 @@
                 "open_issues": 3,
                 "owner": "CravateRouge",
                 "repo": "bloodyAD",
-                "stars": 2304,
+                "stars": 2306,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11520,10 +11520,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-23T13:01:42Z",
-                    "open_issues": 315,
+                    "open_issues": 318,
                     "owner": "fortra",
                     "repo": "impacket",
-                    "stars": 16121,
+                    "stars": 16125,
                     "topics": [
                       "dcerpc",
                       "dcom",
@@ -11555,7 +11555,7 @@
                     "open_issues": 10,
                     "owner": "SecWiki",
                     "repo": "windows-kernel-exploits",
-                    "stars": 8738,
+                    "stars": 8739,
                     "topics": [
                       "collections",
                       "exploit",
@@ -11793,7 +11793,7 @@
                     "open_issues": 2,
                     "owner": "dirkjanm",
                     "repo": "PrivExchange",
-                    "stars": 1080,
+                    "stars": 1081,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11884,7 +11884,7 @@
                     "open_issues": 3,
                     "owner": "testanull",
                     "repo": "ProxyNotShell-PoC",
-                    "stars": 411,
+                    "stars": 412,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11933,7 +11933,7 @@
                     "open_issues": 7,
                     "owner": "calebstewart",
                     "repo": "CVE-2021-1675",
-                    "stars": 1107,
+                    "stars": 1108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11993,10 +11993,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-23T13:01:42Z",
-                    "open_issues": 315,
+                    "open_issues": 318,
                     "owner": "fortra",
                     "repo": "impacket",
-                    "stars": 16121,
+                    "stars": 16125,
                     "topics": [
                       "dcerpc",
                       "dcom",
@@ -12049,7 +12049,7 @@
                     "open_issues": 10,
                     "owner": "p0dalirius",
                     "repo": "Coercer",
-                    "stars": 2324,
+                    "stars": 2326,
                     "topics": [
                       "authentication",
                       "automatic",
@@ -12079,7 +12079,7 @@
                     "open_issues": 0,
                     "owner": "topotam",
                     "repo": "PetitPotam",
-                    "stars": 2273,
+                    "stars": 2274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12100,7 +12100,7 @@
                     "open_issues": 18,
                     "owner": "Dec0ne",
                     "repo": "KrbRelayUp",
-                    "stars": 1688,
+                    "stars": 1689,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12142,7 +12142,7 @@
                     "open_issues": 0,
                     "owner": "leechristensen",
                     "repo": "SpoolSample",
-                    "stars": 1143,
+                    "stars": 1144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12163,7 +12163,7 @@
                     "open_issues": 2,
                     "owner": "dirkjanm",
                     "repo": "PrivExchange",
-                    "stars": 1080,
+                    "stars": 1081,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12184,7 +12184,7 @@
                     "open_issues": 4,
                     "owner": "Wh04m1001",
                     "repo": "DFSCoerce",
-                    "stars": 850,
+                    "stars": 851,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12205,7 +12205,7 @@
                     "open_issues": 6,
                     "owner": "lgandx",
                     "repo": "Responder-Windows",
-                    "stars": 576,
+                    "stars": 577,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12293,10 +12293,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-23T13:01:42Z",
-                    "open_issues": 315,
+                    "open_issues": 318,
                     "owner": "fortra",
                     "repo": "impacket",
-                    "stars": 16121,
+                    "stars": 16125,
                     "topics": [
                       "dcerpc",
                       "dcom",
@@ -12325,10 +12325,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-23T13:01:42Z",
-                    "open_issues": 315,
+                    "open_issues": 318,
                     "owner": "fortra",
                     "repo": "impacket",
-                    "stars": 16121,
+                    "stars": 16125,
                     "topics": [
                       "dcerpc",
                       "dcom",
@@ -12360,7 +12360,7 @@
                     "open_issues": 102,
                     "owner": "PowerShellMafia",
                     "repo": "PowerSploit",
-                    "stars": 13078,
+                    "stars": 13079,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12402,7 +12402,7 @@
                     "open_issues": 0,
                     "owner": "Kryp7os",
                     "repo": "SharpRBCD",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12430,7 +12430,7 @@
                     "open_issues": 0,
                     "owner": "AlmondOffSec",
                     "repo": "PassTheCert",
-                    "stars": 784,
+                    "stars": 785,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12456,7 +12456,7 @@
                         "open_issues": 25,
                         "owner": "ly4k",
                         "repo": "Certipy",
-                        "stars": 3673,
+                        "stars": 3676,
                         "topics": [
                           "adcs",
                           "pki"
@@ -12480,7 +12480,7 @@
                         "open_issues": 3,
                         "owner": "GhostPack",
                         "repo": "Certify",
-                        "stars": 2035,
+                        "stars": 2037,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12654,7 +12654,7 @@
                 "open_issues": 488,
                 "owner": "alibaba",
                 "repo": "arthas",
-                "stars": 37558,
+                "stars": 37557,
                 "topics": [
                   "agent",
                   "alibaba",
@@ -12685,7 +12685,7 @@
                 "open_issues": 7,
                 "owner": "c0ny1",
                 "repo": "java-memshell-scanner",
-                "stars": 1016,
+                "stars": 1017,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12789,7 +12789,7 @@
                 "open_issues": 26,
                 "owner": "abc123info",
                 "repo": "BlueTeamTools",
-                "stars": 1879,
+                "stars": 1880,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12920,7 +12920,7 @@
                 "open_issues": 6,
                 "owner": "feiniao112",
                 "repo": "linux",
-                "stars": 474,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -13004,7 +13004,7 @@
                 "open_issues": 30,
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10565,
+                "stars": 10566,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13031,7 +13031,7 @@
                 "open_issues": 70,
                 "owner": "hacklcx",
                 "repo": "HFish",
-                "stars": 4554,
+                "stars": 4553,
                 "topics": [
                   "honeypot",
                   "hunting"
@@ -13055,7 +13055,7 @@
                 "open_issues": 34,
                 "owner": "mushorg",
                 "repo": "conpot",
-                "stars": 1528,
+                "stars": 1529,
                 "topics": [
                   "hacktoberfest",
                   "honeypot",
@@ -13136,11 +13136,11 @@
                     "id": 67031040,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-24T12:54:03Z",
+                    "last_commit": "2026-09-25T11:53:06Z",
                     "open_issues": 21,
                     "owner": "upx",
                     "repo": "upx",
-                    "stars": 17899,
+                    "stars": 17900,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -13161,7 +13161,7 @@
                     "open_issues": 50,
                     "owner": "mrexodia",
                     "repo": "ida-pro-mcp",
-                    "stars": 12313,
+                    "stars": 12325,
                     "topics": [
                       "ai",
                       "aiagent",
@@ -13188,11 +13188,11 @@
                     "id": 40328394,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-09-24T22:30:26Z",
-                    "open_issues": 725,
+                    "last_commit": "2026-09-25T22:14:10Z",
+                    "open_issues": 729,
                     "owner": "angr",
                     "repo": "angr",
-                    "stars": 9107,
+                    "stars": 9112,
                     "topics": [
                       "analysis",
                       "angr",
@@ -13220,11 +13220,11 @@
                     "id": 20387062,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T21:34:06Z",
+                    "last_commit": "2026-09-25T21:54:44Z",
                     "open_issues": 35,
                     "owner": "horsicq",
                     "repo": "Detect-It-Easy",
-                    "stars": 11593,
+                    "stars": 11595,
                     "topics": [
                       "binary-analysis",
                       "debugger",
@@ -13287,7 +13287,7 @@
                     "open_issues": 8,
                     "owner": "ExeinfoASL",
                     "repo": "ASL",
-                    "stars": 1149,
+                    "stars": 1150,
                     "topics": [
                       "detector",
                       "exeinfo"
@@ -13314,11 +13314,11 @@
                     "id": 8859474,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-12T18:25:15Z",
-                    "open_issues": 451,
+                    "last_commit": "2026-09-25T19:48:01Z",
+                    "open_issues": 452,
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50614,
+                    "stars": 50628,
                     "topics": [
                       "android",
                       "decompiler",
@@ -13365,7 +13365,7 @@
                     "open_issues": 62,
                     "owner": "charles2gan",
                     "repo": "GDA-android-reversing-Tool",
-                    "stars": 4841,
+                    "stars": 4842,
                     "topics": [
                       "decompiler",
                       "malware-analysis",
@@ -13432,10 +13432,10 @@
                     "language": "C",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-22T19:42:04Z",
-                    "open_issues": 2906,
+                    "open_issues": 2907,
                     "owner": "Genymobile",
                     "repo": "scrcpy",
-                    "stars": 150350,
+                    "stars": 150412,
                     "topics": [
                       "android",
                       "c",
@@ -13490,10 +13490,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-20T15:49:55Z",
-                    "open_issues": 292,
+                    "open_issues": 291,
                     "owner": "pyinstaller",
                     "repo": "pyinstaller",
-                    "stars": 13109,
+                    "stars": 13111,
                     "topics": [
                       "bundle",
                       "package",
@@ -13523,7 +13523,7 @@
                     "open_issues": 22,
                     "owner": "extremecoders-re",
                     "repo": "pyinstxtractor",
-                    "stars": 4487,
+                    "stars": 4488,
                     "topics": [
                       "decompile",
                       "pyc",
@@ -13553,7 +13553,7 @@
                     "open_issues": 44,
                     "owner": "rocky",
                     "repo": "python-uncompyle6",
-                    "stars": 4322,
+                    "stars": 4323,
                     "topics": [
                       "bytecode",
                       "decompiler",
@@ -13790,7 +13790,7 @@
                 "open_issues": 5,
                 "owner": "iknowjason",
                 "repo": "Awesome-CloudSec-Labs",
-                "stars": 2195,
+                "stars": 2196,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -14328,7 +14328,7 @@
                     "open_issues": 28,
                     "owner": "docker",
                     "repo": "docker-bench-security",
-                    "stars": 9699,
+                    "stars": 9697,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -14349,7 +14349,7 @@
                     "open_issues": 15,
                     "owner": "cdk-team",
                     "repo": "CDK",
-                    "stars": 4757,
+                    "stars": 4758,
                     "topics": [
                       "blackhat",
                       "cloud-native",
@@ -14448,7 +14448,7 @@
                     "open_issues": 2,
                     "owner": "teamssix",
                     "repo": "container-escape-check",
-                    "stars": 663,
+                    "stars": 664,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -14497,8 +14497,8 @@
                     "id": 11225014,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-24T21:44:19Z",
-                    "open_issues": 351,
+                    "last_commit": "2026-09-25T15:46:02Z",
+                    "open_issues": 342,
                     "owner": "etcd-io",
                     "repo": "etcd",
                     "stars": 52310,
@@ -14529,11 +14529,11 @@
                     "id": 167596393,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-24T20:35:09Z",
-                    "open_issues": 78,
+                    "last_commit": "2026-09-25T21:20:26Z",
+                    "open_issues": 79,
                     "owner": "derailed",
                     "repo": "k9s",
-                    "stars": 34672,
+                    "stars": 34679,
                     "topics": [
                       "go",
                       "golang",
@@ -14559,11 +14559,11 @@
                     "id": 56353740,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-24T16:32:14Z",
-                    "open_issues": 606,
+                    "last_commit": "2026-09-25T08:48:56Z",
+                    "open_issues": 604,
                     "owner": "kubernetes",
                     "repo": "minikube",
-                    "stars": 32153,
+                    "stars": 32155,
                     "topics": [
                       "cluster",
                       "cncf",
@@ -14588,10 +14588,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-24T22:58:30Z",
-                    "open_issues": 244,
+                    "open_issues": 245,
                     "owner": "kubernetes-sigs",
                     "repo": "kind",
-                    "stars": 15506,
+                    "stars": 15509,
                     "topics": [
                       "docker",
                       "golang",
@@ -14619,7 +14619,7 @@
                     "open_issues": 28,
                     "owner": "docker",
                     "repo": "docker-bench-security",
-                    "stars": 9699,
+                    "stars": 9697,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -14640,7 +14640,7 @@
                     "open_issues": 108,
                     "owner": "aquasecurity",
                     "repo": "kube-bench",
-                    "stars": 8197,
+                    "stars": 8199,
                     "topics": [
                       "cis-benchmark",
                       "cis-kubernetes-benchmark",
@@ -14670,7 +14670,7 @@
                     "open_issues": 82,
                     "owner": "aquasecurity",
                     "repo": "kube-hunter",
-                    "stars": 5085,
+                    "stars": 5087,
                     "topics": [
                       "hacktoberfest",
                       "kubernetes-clusters",
@@ -14840,11 +14840,11 @@
                 "id": 77213120,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T23:10:15Z",
-                "open_issues": 2786,
+                "last_commit": "2026-09-25T04:08:34Z",
+                "open_issues": 2807,
                 "owner": "Eugeny",
                 "repo": "tabby",
-                "stars": 74674,
+                "stars": 74679,
                 "topics": [
                   "serial",
                   "ssh-client",
@@ -14867,11 +14867,11 @@
                 "id": 384219990,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-24T20:32:54Z",
-                "open_issues": 5295,
+                "last_commit": "2026-09-25T22:51:35Z",
+                "open_issues": 5304,
                 "owner": "warpdotdev",
                 "repo": "warp",
-                "stars": 65159,
+                "stars": 65161,
                 "topics": [
                   "bash",
                   "linux",
@@ -14901,7 +14901,7 @@
                 "open_issues": 1,
                 "owner": "chrisant996",
                 "repo": "clink",
-                "stars": 5515,
+                "stars": 5513,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -14919,10 +14919,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-23T00:57:31Z",
-                "open_issues": 299,
+                "open_issues": 300,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189918,
+                "stars": 189930,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -14955,11 +14955,11 @@
                 "id": 384219990,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-24T20:32:54Z",
-                "open_issues": 5295,
+                "last_commit": "2026-09-25T22:51:35Z",
+                "open_issues": 5304,
                 "owner": "warpdotdev",
                 "repo": "warp",
-                "stars": 65159,
+                "stars": 65161,
                 "topics": [
                   "bash",
                   "linux",
@@ -14983,7 +14983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:00:06.946Z",
+    "last_updated": "2026-09-26T00:09:04.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "一个攻防知识库。A knowledge base for red teaming and offensive security.",
@@ -14995,7 +14995,7 @@
       "open_issues": 2,
       "owner": "Threekiii",
       "repo": "Awesome-Redteam",
-      "stars": 4333,
+      "stars": 4334,
       "topics": [
         "command-and-control",
         "execution",
