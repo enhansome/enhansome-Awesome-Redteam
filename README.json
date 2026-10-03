@@ -6,128 +6,11 @@
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "戳这里 Click Here",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "一个攻防知识库。A knowledge base for red teaming and offensive security.",
-                "homepage": null,
-                "id": 456730436,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-06-23T00:54:00Z",
-                "open_issues": 2,
-                "owner": "Threekiii",
-                "repo": "Awesome-Redteam",
-                "stars": 4335,
-                "topics": [
-                  "command-and-control",
-                  "execution",
-                  "exploit",
-                  "initial-access",
-                  "lateral-movement",
-                  "privilege-escalation",
-                  "reconnaissance",
-                  "red-teaming"
-                ]
-              },
-              "first_seen": "2026-08-28T05:49:33.277Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "速查文档 CheatSheets"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "戳这里 Click Here",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "一个攻防知识库。A knowledge base for red teaming and offensive security.",
-                "homepage": null,
-                "id": 456730436,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-06-23T00:54:00Z",
-                "open_issues": 2,
-                "owner": "Threekiii",
-                "repo": "Awesome-Redteam",
-                "stars": 4335,
-                "topics": [
-                  "command-and-control",
-                  "execution",
-                  "exploit",
-                  "initial-access",
-                  "lateral-movement",
-                  "privilege-escalation",
-                  "reconnaissance",
-                  "red-teaming"
-                ]
-              },
-              "first_seen": "2026-08-28T05:49:33.277Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "一些代码 Scripts"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "戳这里 Click Here",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "一个攻防知识库。A knowledge base for red teaming and offensive security.",
-                "homepage": null,
-                "id": 456730436,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-06-23T00:54:00Z",
-                "open_issues": 2,
-                "owner": "Threekiii",
-                "repo": "Awesome-Redteam",
-                "stars": 4335,
-                "topics": [
-                  "command-and-control",
-                  "execution",
-                  "exploit",
-                  "initial-access",
-                  "lateral-movement",
-                  "privilege-escalation",
-                  "reconnaissance",
-                  "red-teaming"
-                ]
-              },
-              "first_seen": "2026-08-28T05:49:33.277Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "攻防知识 Tips"
-        }
-      ],
-      "title": "项目导航 Project Navigation"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
               "children": [
                 {
                   "node_type": "item",
                   "title": "gchq/CyberChef",
-                  "description": "👍",
+                  "description": "gchq/CyberChef",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -156,7 +39,7 @@
                 {
                   "node_type": "item",
                   "title": "bee-san/Ciphey",
-                  "description": null,
+                  "description": "bee-san/Ciphey",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -165,8 +48,8 @@
                     "id": 197261780,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T00:42:14Z",
-                    "open_issues": 106,
+                    "last_commit": "2026-10-03T04:23:03Z",
+                    "open_issues": 97,
                     "owner": "bee-san",
                     "repo": "Ciphey",
                     "stars": 21644,
@@ -195,7 +78,7 @@
                 {
                   "node_type": "item",
                   "title": "guyoung/CaptfEncoder",
-                  "description": null,
+                  "description": "guyoung/CaptfEncoder",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -236,7 +119,7 @@
                 {
                   "node_type": "item",
                   "title": "wangyiwy/oktools",
-                  "description": null,
+                  "description": "wangyiwy/oktools",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -264,7 +147,7 @@
                 {
                   "node_type": "item",
                   "title": "any86/any-rule",
-                  "description": null,
+                  "description": "any86/any-rule",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -291,7 +174,7 @@
                 {
                   "node_type": "item",
                   "title": "VincentSit/ChinaMobilePhoneNumberRegex",
-                  "description": null,
+                  "description": "VincentSit/ChinaMobilePhoneNumberRegex",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -605,7 +488,7 @@
                 {
                   "node_type": "item",
                   "title": "ffffffff0x 安全知识框架: https://github.com/ffffffff0x/1earn",
-                  "description": null,
+                  "description": "ffffffff0x/1earn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -664,7 +547,7 @@
                     "open_issues": 15,
                     "owner": "Ignitetechnologies",
                     "repo": "Mindmap",
-                    "stars": 9340,
+                    "stars": 9341,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -711,7 +594,7 @@
                 {
                   "node_type": "item",
                   "title": "HadessCS/Red-team-Interview-Questions",
-                  "description": null,
+                  "description": "HadessCS/Red-team-Interview-Questions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -739,7 +622,7 @@
                 {
                   "node_type": "item",
                   "title": "Purp1eW0lf/Blue-Team-Notes",
-                  "description": null,
+                  "description": "Purp1eW0lf/Blue-Team-Notes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -773,7 +656,7 @@
                 {
                   "node_type": "item",
                   "title": "WesleyWong420/OPSEC-Tradecraft",
-                  "description": null,
+                  "description": "WesleyWong420/OPSEC-Tradecraft",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -831,7 +714,7 @@
                 {
                   "node_type": "item",
                   "title": "utmapp/UTM",
-                  "description": null,
+                  "description": "utmapp/UTM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -862,7 +745,7 @@
                 {
                   "node_type": "item",
                   "title": "qemu/qemu",
-                  "description": null,
+                  "description": "qemu/qemu",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -905,7 +788,7 @@
             {
               "node_type": "item",
               "title": "Amass: https://github.com/owasp-amass/amass",
-              "description": null,
+              "description": "owasp-amass/amass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -940,7 +823,7 @@
             {
               "node_type": "item",
               "title": "fscan: https://github.com/shadow1ng/fscan",
-              "description": null,
+              "description": "shadow1ng/fscan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -968,7 +851,7 @@
             {
               "node_type": "item",
               "title": "OneForAll: https://github.com/shmilylty/OneForAll",
-              "description": null,
+              "description": "shmilylty/OneForAll",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -981,7 +864,7 @@
                 "open_issues": 108,
                 "owner": "shmilylty",
                 "repo": "OneForAll",
-                "stars": 10097,
+                "stars": 10098,
                 "topics": [
                   "altname",
                   "bugbounty",
@@ -1010,7 +893,7 @@
             {
               "node_type": "item",
               "title": "TscanPlus: https://github.com/TideSec/TscanPlus",
-              "description": null,
+              "description": "TideSec/TscanPlus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1031,7 +914,7 @@
             {
               "node_type": "item",
               "title": "kscan: https://github.com/lcvvvv/kscan",
-              "description": null,
+              "description": "lcvvvv/kscan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1063,7 +946,7 @@
             {
               "node_type": "item",
               "title": "ShuiZe: https://github.com/0x727/ShuiZe_0x727",
-              "description": null,
+              "description": "0x727/ShuiZe_0x727",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1084,7 +967,7 @@
             {
               "node_type": "item",
               "title": "dddd: https://github.com/SleepingBag945/dddd",
-              "description": null,
+              "description": "SleepingBag945/dddd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1105,7 +988,7 @@
             {
               "node_type": "item",
               "title": "Fofa Viewer: https://github.com/wgpsec/fofa_viewer",
-              "description": null,
+              "description": "wgpsec/fofa_viewer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1133,7 +1016,7 @@
             {
               "node_type": "item",
               "title": "AlliN: https://github.com/P1-Team/AlliN",
-              "description": null,
+              "description": "P1-Team/AlliN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1159,7 +1042,7 @@
             {
               "node_type": "item",
               "title": "qscan: https://github.com/qi4L/qscan",
-              "description": null,
+              "description": "qi4L/qscan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1183,7 +1066,7 @@
             {
               "node_type": "item",
               "title": "Kunyu: https://github.com/knownsec/Kunyu",
-              "description": null,
+              "description": "knownsec/Kunyu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1204,7 +1087,7 @@
             {
               "node_type": "item",
               "title": "FofaX: https://github.com/xiecat/fofax",
-              "description": null,
+              "description": "xiecat/fofax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1230,7 +1113,7 @@
             {
               "node_type": "item",
               "title": "ApolloScanner: https://github.com/b0bac/ApolloScanner",
-              "description": null,
+              "description": "b0bac/ApolloScanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1262,7 +1145,7 @@
                 {
                   "node_type": "item",
                   "title": "0x727/FingerprintHub",
-                  "description": null,
+                  "description": "0x727/FingerprintHub",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1271,7 +1154,7 @@
                     "id": 398282332,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T04:40:37Z",
+                    "last_commit": "2026-10-03T04:23:02Z",
                     "open_issues": 0,
                     "owner": "0x727",
                     "repo": "FingerprintHub",
@@ -1288,7 +1171,7 @@
                 {
                   "node_type": "item",
                   "title": "r0eXpeR/fingerprint",
-                  "description": null,
+                  "description": "r0eXpeR/fingerprint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1316,7 +1199,7 @@
                 {
                   "node_type": "item",
                   "title": "EdgeSecurityTeam/EHole",
-                  "description": null,
+                  "description": "EdgeSecurityTeam/EHole",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1337,7 +1220,7 @@
                 {
                   "node_type": "item",
                   "title": "zhzyker/dismap",
-                  "description": null,
+                  "description": "zhzyker/dismap",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1373,7 +1256,7 @@
                 {
                   "node_type": "item",
                   "title": "EASY233/Finger",
-                  "description": null,
+                  "description": "EASY233/Finger",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1394,7 +1277,7 @@
                 {
                   "node_type": "item",
                   "title": "lemonlove7/EHole_magic",
-                  "description": null,
+                  "description": "lemonlove7/EHole_magic",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1415,7 +1298,7 @@
                 {
                   "node_type": "item",
                   "title": "TideSec/TideFinger_Go",
-                  "description": null,
+                  "description": "TideSec/TideFinger_Go",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1443,7 +1326,7 @@
                 {
                   "node_type": "item",
                   "title": "EnableSecurity/wafw00f",
-                  "description": null,
+                  "description": "EnableSecurity/wafw00f",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1469,7 +1352,7 @@
                 {
                   "node_type": "item",
                   "title": "stamparm/identYwaf",
-                  "description": null,
+                  "description": "stamparm/identYwaf",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1497,7 +1380,7 @@
                 {
                   "node_type": "item",
                   "title": "MISP/misp-warninglists",
-                  "description": null,
+                  "description": "MISP/misp-warninglists",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1544,7 +1427,7 @@
                     {
                       "node_type": "item",
                       "title": "antirez/hping",
-                      "description": null,
+                      "description": "antirez/hping",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1572,7 +1455,7 @@
                     {
                       "node_type": "item",
                       "title": "projectdiscovery/subfinder",
-                      "description": null,
+                      "description": "projectdiscovery/subfinder",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1601,7 +1484,7 @@
                     {
                       "node_type": "item",
                       "title": "knownsec/ksubdomain",
-                      "description": null,
+                      "description": "knownsec/ksubdomain",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1635,7 +1518,7 @@
                     {
                       "node_type": "item",
                       "title": "OJ/gobuster",
-                      "description": null,
+                      "description": "OJ/gobuster",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1662,7 +1545,7 @@
                     {
                       "node_type": "item",
                       "title": "xmendez/wfuzz",
-                      "description": null,
+                      "description": "xmendez/wfuzz",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1675,7 +1558,7 @@
                         "open_issues": 115,
                         "owner": "xmendez",
                         "repo": "wfuzz",
-                        "stars": 6588,
+                        "stars": 6589,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -1683,7 +1566,7 @@
                     {
                       "node_type": "item",
                       "title": "s0md3v/Arjun",
-                      "description": null,
+                      "description": "s0md3v/Arjun",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1696,7 +1579,7 @@
                         "open_issues": 24,
                         "owner": "s0md3v",
                         "repo": "Arjun",
-                        "stars": 6406,
+                        "stars": 6407,
                         "topics": [
                           "api-fuzzer",
                           "api-fuzzing",
@@ -1710,7 +1593,7 @@
                     {
                       "node_type": "item",
                       "title": "pingc0y/URLFinder",
-                      "description": null,
+                      "description": "pingc0y/URLFinder",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1735,7 +1618,7 @@
                     {
                       "node_type": "item",
                       "title": "jaeles-project/gospider",
-                      "description": null,
+                      "description": "jaeles-project/gospider",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1769,7 +1652,7 @@
                     {
                       "node_type": "item",
                       "title": "ffuf/ffuf",
-                      "description": null,
+                      "description": "ffuf/ffuf",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1795,7 +1678,7 @@
                     {
                       "node_type": "item",
                       "title": "maurosoria/dirsearch",
-                      "description": null,
+                      "description": "maurosoria/dirsearch",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1804,11 +1687,11 @@
                         "id": 9774482,
                         "language": "Python",
                         "license": null,
-                        "last_commit": "2026-10-01T01:25:40Z",
+                        "last_commit": "2026-10-03T03:57:39Z",
                         "open_issues": 19,
                         "owner": "maurosoria",
                         "repo": "dirsearch",
-                        "stars": 14910,
+                        "stars": 14913,
                         "topics": [
                           "appsec",
                           "brute",
@@ -1837,7 +1720,7 @@
                     {
                       "node_type": "item",
                       "title": "H4ckForJob/dirmap",
-                      "description": null,
+                      "description": "H4ckForJob/dirmap",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1870,7 +1753,7 @@
                     {
                       "node_type": "item",
                       "title": "vanhauser-thc/thc-hydra",
-                      "description": null,
+                      "description": "vanhauser-thc/thc-hydra",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1883,7 +1766,7 @@
                         "open_issues": 49,
                         "owner": "vanhauser-thc",
                         "repo": "thc-hydra",
-                        "stars": 12324,
+                        "stars": 12325,
                         "topics": [
                           "brute-force",
                           "brute-force-attacks",
@@ -1908,7 +1791,7 @@
                     {
                       "node_type": "item",
                       "title": "evilsocket/legba",
-                      "description": null,
+                      "description": "evilsocket/legba",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1957,7 +1840,7 @@
                     {
                       "node_type": "item",
                       "title": "hashcat/hashcat",
-                      "description": null,
+                      "description": "hashcat/hashcat",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1987,7 +1870,7 @@
                     {
                       "node_type": "item",
                       "title": "openwall/john",
-                      "description": null,
+                      "description": "openwall/john",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2109,7 +1992,7 @@
                     {
                       "node_type": "item",
                       "title": "ticarpi/jwt_tool",
-                      "description": null,
+                      "description": "ticarpi/jwt_tool",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2130,7 +2013,7 @@
                     {
                       "node_type": "item",
                       "title": "brendan-rius/c-jwt-cracker",
-                      "description": null,
+                      "description": "brendan-rius/c-jwt-cracker",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2156,7 +2039,7 @@
                     {
                       "node_type": "item",
                       "title": "wallarm/jwt-secrets",
-                      "description": null,
+                      "description": "wallarm/jwt-secrets",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2177,7 +2060,7 @@
                     {
                       "node_type": "item",
                       "title": "hahwul/jwt-hack",
-                      "description": null,
+                      "description": "hahwul/jwt-hack",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2208,7 +2091,7 @@
                     {
                       "node_type": "item",
                       "title": "mazen160/jwt-pwn",
-                      "description": null,
+                      "description": "mazen160/jwt-pwn",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2234,7 +2117,7 @@
                     {
                       "node_type": "item",
                       "title": "Sjord/jwtcrack",
-                      "description": null,
+                      "description": "Sjord/jwtcrack",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2285,7 +2168,7 @@
                         "open_issues": 9,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73891,
+                        "stars": 73893,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -2293,7 +2176,7 @@
                     {
                       "node_type": "item",
                       "title": "rapid7/metasploit-framework",
-                      "description": null,
+                      "description": "rapid7/metasploit-framework",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2316,7 +2199,7 @@
                     {
                       "node_type": "item",
                       "title": "TheKingOfDuck/fuzzDicts",
-                      "description": null,
+                      "description": "TheKingOfDuck/fuzzDicts",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2347,7 +2230,7 @@
                     {
                       "node_type": "item",
                       "title": "Bo0oM/fuzz.txt",
-                      "description": null,
+                      "description": "Bo0oM/fuzz.txt",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2375,7 +2258,7 @@
                     {
                       "node_type": "item",
                       "title": "gh0stkey/Web-Fuzzing-Box",
-                      "description": null,
+                      "description": "gh0stkey/Web-Fuzzing-Box",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2403,7 +2286,7 @@
                     {
                       "node_type": "item",
                       "title": "insightglacier/Dictionary-Of-Pentesting",
-                      "description": null,
+                      "description": "insightglacier/Dictionary-Of-Pentesting",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2445,7 +2328,7 @@
                     {
                       "node_type": "item",
                       "title": "evilc0deooo/PentesterSpecialDict",
-                      "description": null,
+                      "description": "evilc0deooo/PentesterSpecialDict",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2473,7 +2356,7 @@
                     {
                       "node_type": "item",
                       "title": "assetnote/wordlists",
-                      "description": null,
+                      "description": "assetnote/wordlists",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2527,7 +2410,7 @@
                     {
                       "node_type": "item",
                       "title": "xmendez/wfuzz",
-                      "description": null,
+                      "description": "xmendez/wfuzz",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2540,7 +2423,7 @@
                         "open_issues": 115,
                         "owner": "xmendez",
                         "repo": "wfuzz",
-                        "stars": 6588,
+                        "stars": 6589,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -2548,7 +2431,7 @@
                     {
                       "node_type": "item",
                       "title": "lutfumertceylan/top25-parameter",
-                      "description": null,
+                      "description": "lutfumertceylan/top25-parameter",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2586,7 +2469,7 @@
                     {
                       "node_type": "item",
                       "title": "danielmiessler/SecLists",
-                      "description": null,
+                      "description": "danielmiessler/SecLists",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2599,7 +2482,7 @@
                         "open_issues": 9,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73891,
+                        "stars": 73893,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -2607,7 +2490,7 @@
                     {
                       "node_type": "item",
                       "title": "google/fuzzing",
-                      "description": null,
+                      "description": "google/fuzzing",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -2628,7 +2511,7 @@
                     {
                       "node_type": "item",
                       "title": "six2dez/OneListForAll",
-                      "description": null,
+                      "description": "six2dez/OneListForAll",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2657,7 +2540,7 @@
                     {
                       "node_type": "item",
                       "title": "random-robbie/bruteforce-lists",
-                      "description": null,
+                      "description": "random-robbie/bruteforce-lists",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2687,7 +2570,7 @@
                     {
                       "node_type": "item",
                       "title": "assetnote/commonspeak2-wordlists",
-                      "description": null,
+                      "description": "assetnote/commonspeak2-wordlists",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2722,7 +2605,7 @@
                     {
                       "node_type": "item",
                       "title": "Generate wordlists(offline): https://github.com/zzzteph/weakpass",
-                      "description": null,
+                      "description": "zzzteph/weakpass",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2749,7 +2632,7 @@
                     {
                       "node_type": "item",
                       "title": "Generate subdomains and wordlists(offline): https://github.com/zzzteph/probable_subdomains",
-                      "description": null,
+                      "description": "zzzteph/probable_subdomains",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -2781,7 +2664,7 @@
                     {
                       "node_type": "item",
                       "title": "pydictor: https://github.com/LandGrey/pydictor/",
-                      "description": null,
+                      "description": "LandGrey/pydictor",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2821,7 +2704,7 @@
                         {
                           "node_type": "item",
                           "title": "Windows: https://github.com/shadwork/Windows-Crunch",
-                          "description": null,
+                          "description": "shadwork/Windows-Crunch",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2903,7 +2786,7 @@
                 {
                   "node_type": "item",
                   "title": "theHarvester: 同时支持子域名查询 https://github.com/laramies/theHarvester",
-                  "description": null,
+                  "description": "laramies/theHarvester",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2916,7 +2799,7 @@
                     "open_issues": 7,
                     "owner": "laramies",
                     "repo": "theHarvester",
-                    "stars": 17760,
+                    "stars": 17766,
                     "topics": [
                       "blueteam",
                       "discovery",
@@ -2955,7 +2838,7 @@
                     "open_issues": 761,
                     "owner": "gophish",
                     "repo": "gophish",
-                    "stars": 14286,
+                    "stars": 14288,
                     "topics": [
                       "golang",
                       "gophish",
@@ -3009,7 +2892,7 @@
                 {
                   "node_type": "item",
                   "title": "DVWA: https://github.com/digininja/DVWA",
-                  "description": null,
+                  "description": "digininja/DVWA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3038,7 +2921,7 @@
                 {
                   "node_type": "item",
                   "title": "WebGoat: https://github.com/WebGoat/WebGoat",
-                  "description": null,
+                  "description": "WebGoat/WebGoat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3051,7 +2934,7 @@
                     "open_issues": 45,
                     "owner": "WebGoat",
                     "repo": "WebGoat",
-                    "stars": 9387,
+                    "stars": 9389,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -3059,7 +2942,7 @@
                 {
                   "node_type": "item",
                   "title": "Sqli-labs: https://github.com/Audi-1/sqli-labs",
-                  "description": null,
+                  "description": "Audi-1/sqli-labs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3080,7 +2963,7 @@
                 {
                   "node_type": "item",
                   "title": "Upload-labs: https://github.com/c0ny1/upload-labs",
-                  "description": null,
+                  "description": "c0ny1/upload-labs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3122,7 +3005,7 @@
                 {
                   "node_type": "item",
                   "title": "Xss-labs: https://github.com/do0dl3/xss-labs",
-                  "description": null,
+                  "description": "do0dl3/xss-labs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3150,7 +3033,7 @@
                 {
                   "node_type": "item",
                   "title": "Vulfocus: https://github.com/fofapro/vulfocus",
-                  "description": null,
+                  "description": "fofapro/vulfocus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3202,7 +3085,7 @@
                 {
                   "node_type": "item",
                   "title": "FastJsonParty: https://github.com/lemono0/FastJsonParty",
-                  "description": null,
+                  "description": "lemono0/FastJsonParty",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3230,7 +3113,7 @@
                 {
                   "node_type": "item",
                   "title": "IoT-vulhub: https://github.com/firmianay/IoT-vulhub",
-                  "description": null,
+                  "description": "Vu1nT0tal/IoT-vulhub",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3264,7 +3147,7 @@
                 {
                   "node_type": "item",
                   "title": "Game of active directory: https://github.com/Orange-Cyberdefense/GOAD",
-                  "description": null,
+                  "description": "Orange-Cyberdefense/GOAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3277,7 +3160,7 @@
                     "open_issues": 152,
                     "owner": "Orange-Cyberdefense",
                     "repo": "GOAD",
-                    "stars": 8402,
+                    "stars": 8408,
                     "topics": [
                       "active-directory",
                       "ansible",
@@ -3320,7 +3203,7 @@
                 {
                   "node_type": "item",
                   "title": "Kubernetes Goat: https://github.com/madhuakula/kubernetes-goat",
-                  "description": null,
+                  "description": "madhuakula/kubernetes-goat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3333,7 +3216,7 @@
                     "open_issues": 28,
                     "owner": "madhuakula",
                     "repo": "kubernetes-goat",
-                    "stars": 5875,
+                    "stars": 5876,
                     "topics": [
                       "blueteam",
                       "cloud-native",
@@ -3361,7 +3244,7 @@
                 {
                   "node_type": "item",
                   "title": "CloudGoat: https://github.com/RhinoSecurityLabs/cloudgoat",
-                  "description": null,
+                  "description": "RhinoSecurityLabs/cloudgoat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3382,7 +3265,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome-CloudSec-Labs: https://github.com/iknowjason/Awesome-CloudSec-Labs",
-                  "description": null,
+                  "description": "iknowjason/Awesome-CloudSec-Labs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3403,7 +3286,7 @@
                 {
                   "node_type": "item",
                   "title": "AWSGoat: https://github.com/ine-labs/AWSGoat",
-                  "description": null,
+                  "description": "ine-labs/AWSGoat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3424,7 +3307,7 @@
                 {
                   "node_type": "item",
                   "title": "Metarget: https://github.com/Metarget/metarget",
-                  "description": null,
+                  "description": "Metarget/metarget",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3460,7 +3343,7 @@
                 {
                   "node_type": "item",
                   "title": "badPods: https://github.com/BishopFox/badPods",
-                  "description": null,
+                  "description": "BishopFox/badPods",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3494,7 +3377,7 @@
                 {
                   "node_type": "item",
                   "title": "TerraformGoat: https://github.com/HXSecurity/TerraformGoat",
-                  "description": null,
+                  "description": "HXSecurity/TerraformGoat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3539,7 +3422,7 @@
                 {
                   "node_type": "item",
                   "title": "trickest/cve",
-                  "description": null,
+                  "description": "trickest/cve",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3578,7 +3461,7 @@
                 {
                   "node_type": "item",
                   "title": "nomi-sec/PoC-in-GitHub",
-                  "description": null,
+                  "description": "nomi-sec/PoC-in-GitHub",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3587,7 +3470,7 @@
                     "id": 226668668,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-03T00:32:30Z",
+                    "last_commit": "2026-10-03T01:44:41Z",
                     "open_issues": 17,
                     "owner": "nomi-sec",
                     "repo": "PoC-in-GitHub",
@@ -3605,7 +3488,7 @@
                 {
                   "node_type": "item",
                   "title": "Mr-xn/Penetration_Testing_POC",
-                  "description": null,
+                  "description": "Mr-xn/Penetration_Testing_POC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3646,7 +3529,7 @@
                 {
                   "node_type": "item",
                   "title": "coffeehb/Some-PoC-oR-ExP",
-                  "description": null,
+                  "description": "coffeehb/Some-PoC-oR-ExP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3667,7 +3550,7 @@
                 {
                   "node_type": "item",
                   "title": "helloexp/0day",
-                  "description": null,
+                  "description": "helloexp/0day",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3690,7 +3573,7 @@
                 {
                   "node_type": "item",
                   "title": "ycdxsb/PocOrExp_in_Github",
-                  "description": null,
+                  "description": "ycdxsb/PocOrExp_in_Github",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3699,7 +3582,7 @@
                     "id": 357437766,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T00:00:08Z",
+                    "last_commit": "2026-10-03T04:17:32Z",
                     "open_issues": 1,
                     "owner": "ycdxsb",
                     "repo": "PocOrExp_in_Github",
@@ -3716,7 +3599,7 @@
                 {
                   "node_type": "item",
                   "title": "DawnFlame/POChouse",
-                  "description": null,
+                  "description": "DawnFlame/POChouse",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3737,7 +3620,7 @@
                 {
                   "node_type": "item",
                   "title": "lal0ne/vulnerability",
-                  "description": null,
+                  "description": "lal0ne/vulnerability",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3758,7 +3641,7 @@
                 {
                   "node_type": "item",
                   "title": "luck-ying/Library-POC",
-                  "description": null,
+                  "description": "luck-ying/Library-POC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3795,11 +3678,11 @@
                     "id": 253044228,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T23:33:50Z",
+                    "last_commit": "2026-10-03T03:25:39Z",
                     "open_issues": 116,
                     "owner": "projectdiscovery",
                     "repo": "nuclei-templates",
-                    "stars": 13049,
+                    "stars": 13050,
                     "topics": [
                       "bugbounty",
                       "exploit-development",
@@ -3857,7 +3740,7 @@
             {
               "node_type": "item",
               "title": "projectdiscovery/nuclei",
-              "description": null,
+              "description": "projectdiscovery/nuclei",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3890,7 +3773,7 @@
             {
               "node_type": "item",
               "title": "chaitin/xray",
-              "description": null,
+              "description": "chaitin/xray",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3919,7 +3802,7 @@
             {
               "node_type": "item",
               "title": "zan8in/afrog",
-              "description": null,
+              "description": "zan8in/afrog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3928,7 +3811,7 @@
                 "id": 463027648,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T16:44:16Z",
+                "last_commit": "2026-10-03T02:30:51Z",
                 "open_issues": 111,
                 "owner": "zan8in",
                 "repo": "afrog",
@@ -3949,7 +3832,7 @@
             {
               "node_type": "item",
               "title": "zhzyker/vulmap",
-              "description": null,
+              "description": "zhzyker/vulmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3991,7 +3874,7 @@
             {
               "node_type": "item",
               "title": "chaitin/xpoc",
-              "description": null,
+              "description": "chaitin/xpoc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4023,7 +3906,7 @@
             {
               "node_type": "item",
               "title": "tabby: https://github.com/wh1t3p1g/tabby",
-              "description": null,
+              "description": "tabby-sec/tabby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4058,7 +3941,7 @@
                 {
                   "node_type": "item",
                   "title": "phith0n/zkar",
-                  "description": null,
+                  "description": "phith0n/zkar",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4096,7 +3979,7 @@
                 {
                   "node_type": "item",
                   "title": "frohoff/ysoserial",
-                  "description": null,
+                  "description": "frohoff/ysoserial",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4127,7 +4010,7 @@
                 {
                   "node_type": "item",
                   "title": "mbechler/marshalsec",
-                  "description": null,
+                  "description": "mbechler/marshalsec",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4148,7 +4031,7 @@
                 {
                   "node_type": "item",
                   "title": "welk1n/JNDI-Injection-Exploit",
-                  "description": null,
+                  "description": "welk1n/JNDI-Injection-Exploit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4169,7 +4052,7 @@
                 {
                   "node_type": "item",
                   "title": "vulhub/java-chains",
-                  "description": null,
+                  "description": "vulhub/java-chains",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4192,7 +4075,7 @@
                 {
                   "node_type": "item",
                   "title": "qi4L/JYso",
-                  "description": null,
+                  "description": "qi4L/JYso",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4225,7 +4108,7 @@
                 {
                   "node_type": "item",
                   "title": "wh1t3p1g/ysomap",
-                  "description": null,
+                  "description": "wh1t3p1g/ysomap",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4249,7 +4132,7 @@
                 {
                   "node_type": "item",
                   "title": "Y4er/ysoserial",
-                  "description": null,
+                  "description": "Y4er/ysoserial",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4272,7 +4155,7 @@
                 {
                   "node_type": "item",
                   "title": "rebeyond/JNDInjector",
-                  "description": null,
+                  "description": "rebeyond/JNDInjector",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4293,7 +4176,7 @@
                 {
                   "node_type": "item",
                   "title": "A-D-Team/attackRmi",
-                  "description": null,
+                  "description": "A-D-Team/attackRmi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4314,7 +4197,7 @@
                 {
                   "node_type": "item",
                   "title": "vulhub/JNDIExploit",
-                  "description": null,
+                  "description": "vulhub/JNDIExploit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4335,7 +4218,7 @@
                 {
                   "node_type": "item",
                   "title": "DeEpinGh0st/ysoserial",
-                  "description": null,
+                  "description": "DeEpinGh0st/ysoserial",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4398,7 +4281,7 @@
                 {
                   "node_type": "item",
                   "title": "qishibo/AnotherRedisDesktopManager",
-                  "description": null,
+                  "description": "qishibo/AnotherRedisDesktopManager",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4425,7 +4308,7 @@
                 {
                   "node_type": "item",
                   "title": "cinience/RedisStudio",
-                  "description": null,
+                  "description": "cinience/RedisStudio",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4446,7 +4329,7 @@
                 {
                   "node_type": "item",
                   "title": "n0b0dyCN/redis-rogue-server",
-                  "description": null,
+                  "description": "n0b0dyCN/redis-rogue-server",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4470,7 +4353,7 @@
                 {
                   "node_type": "item",
                   "title": "Ridter/redis-rce",
-                  "description": null,
+                  "description": "Ridter/redis-rce",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4491,7 +4374,7 @@
                 {
                   "node_type": "item",
                   "title": "yuyan-sec/RedisEXP",
-                  "description": null,
+                  "description": "yuyan-sec/RedisEXP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4512,7 +4395,7 @@
                 {
                   "node_type": "item",
                   "title": "r35tart/RedisWriteFile",
-                  "description": null,
+                  "description": "r35tart/RedisWriteFile",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4561,7 +4444,7 @@
                 {
                   "node_type": "item",
                   "title": "fnmsd/MySQL_Fake_Server",
-                  "description": null,
+                  "description": "fnmsd/MySQL_Fake_Server",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4584,7 +4467,7 @@
                 {
                   "node_type": "item",
                   "title": "4ra1n/mysql-fake-server",
-                  "description": null,
+                  "description": "4ra1n/mysql-fake-server",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4611,7 +4494,7 @@
                 {
                   "node_type": "item",
                   "title": "dushixiang/evil-mysql-server",
-                  "description": null,
+                  "description": "dushixiang/evil-mysql-server",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4672,7 +4555,7 @@
                 {
                   "node_type": "item",
                   "title": "uknowsec/SharpSQLTools",
-                  "description": null,
+                  "description": "uknowsec/SharpSQLTools",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4693,7 +4576,7 @@
                 {
                   "node_type": "item",
                   "title": "Ridter/PySQLTools",
-                  "description": null,
+                  "description": "Ridter/PySQLTools",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4726,7 +4609,7 @@
             {
               "node_type": "item",
               "title": "gitleaks: https://github.com/gitleaks/gitleaks",
-              "description": null,
+              "description": "gitleaks/gitleaks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4739,7 +4622,7 @@
                 "open_issues": 489,
                 "owner": "gitleaks",
                 "repo": "gitleaks",
-                "stars": 29622,
+                "stars": 29623,
                 "topics": [
                   "ai-powered",
                   "ci-cd",
@@ -4781,7 +4664,7 @@
                 "open_issues": 559,
                 "owner": "trufflesecurity",
                 "repo": "trufflehog",
-                "stars": 28245,
+                "stars": 28248,
                 "topics": [
                   "credentials",
                   "devsecops",
@@ -4802,7 +4685,7 @@
             {
               "node_type": "item",
               "title": "git-dumper: https://github.com/arthaud/git-dumper",
-              "description": null,
+              "description": "arthaud/git-dumper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4901,7 +4784,7 @@
             {
               "node_type": "item",
               "title": "Apt_t00ls: https://github.com/White-hua/Apt_t00ls",
-              "description": null,
+              "description": "White-hua/Apt_t00ls",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4922,7 +4805,7 @@
             {
               "node_type": "item",
               "title": "OA-EXPTOOL: https://github.com/LittleBear4/OA-EXPTOOL",
-              "description": null,
+              "description": "LittleBear4/OA-EXPTOOL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4985,7 +4868,7 @@
             {
               "node_type": "item",
               "title": "TongdaScan_go: https://github.com/Fu5r0dah/TongdaScan_go",
-              "description": null,
+              "description": "Fu5r0dah/TongdaScan_go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5079,7 +4962,7 @@
             {
               "node_type": "item",
               "title": "ConfluenceMemshell: https://github.com/Lotus6/ConfluenceMemshell",
-              "description": null,
+              "description": "Lotus6/ConfluenceMemshell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5092,7 +4975,7 @@
                 "open_issues": 1,
                 "owner": "Lotus6",
                 "repo": "ConfluenceMemshell",
-                "stars": 565,
+                "stars": 566,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:33.277Z"
@@ -5100,7 +4983,7 @@
             {
               "node_type": "item",
               "title": "CVE-2022-26134 Memshell: https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL",
-              "description": null,
+              "description": "BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5121,7 +5004,7 @@
             {
               "node_type": "item",
               "title": "CVE-2023-22527 Memshell: https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL",
-              "description": null,
+              "description": "Boogipop/CVE-2023-22527-Godzilla-MEMSHELL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5142,7 +5025,7 @@
             {
               "node_type": "item",
               "title": "druid_sessions: https://github.com/yuyan-sec/druid_sessions",
-              "description": null,
+              "description": "yuyan-sec/druid_sessions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5163,7 +5046,7 @@
             {
               "node_type": "item",
               "title": "DruidCrack: https://github.com/rabbitmask/DruidCrack",
-              "description": null,
+              "description": "rabbitmask/DruidCrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5184,7 +5067,7 @@
             {
               "node_type": "item",
               "title": "fastjson-exp: https://github.com/amaz1ngday/fastjson-exp",
-              "description": null,
+              "description": "amaz1ngday/fastjson-exp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5205,7 +5088,7 @@
             {
               "node_type": "item",
               "title": "CVE-2021-22205: https://github.com/Al1ex/CVE-2021-22205/",
-              "description": null,
+              "description": "Al1ex/CVE-2021-22205",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5228,7 +5111,7 @@
             {
               "node_type": "item",
               "title": "NacosRce: https://github.com/c0olw/NacosRce/",
-              "description": null,
+              "description": "c0olw/NacosRce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5249,7 +5132,7 @@
             {
               "node_type": "item",
               "title": "nacosleak: https://github.com/a1phaboy/nacosleak",
-              "description": null,
+              "description": "a1phaboy/nacosleak",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5270,7 +5153,7 @@
             {
               "node_type": "item",
               "title": "nacosScan: https://github.com/Whoopsunix/nacosScan",
-              "description": null,
+              "description": "Whoopsunix/nacosScan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5299,7 +5182,7 @@
             {
               "node_type": "item",
               "title": "jdwp-shellifier: python2 https://github.com/IOActive/jdwp-shellifier",
-              "description": null,
+              "description": "IOActive/jdwp-shellifier",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5320,7 +5203,7 @@
             {
               "node_type": "item",
               "title": "ShiroExploit: https://github.com/feihong-cs/ShiroExploit-Deprecated",
-              "description": null,
+              "description": "feihong-cs/ShiroExploit-Deprecated",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5348,7 +5231,7 @@
             {
               "node_type": "item",
               "title": "shiro_rce_tool: https://github.com/wyzxxz/shiro_rce_tool",
-              "description": null,
+              "description": "wyzxxz/shiro_rce_tool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5369,7 +5252,7 @@
             {
               "node_type": "item",
               "title": "ShiroExp: https://github.com/safe6Sec/ShiroExp",
-              "description": null,
+              "description": "safe6Sec/ShiroExp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5411,7 +5294,7 @@
             {
               "node_type": "item",
               "title": "Struts2VulsTools: https://github.com/shack2/Struts2VulsTools",
-              "description": null,
+              "description": "shack2/Struts2VulsTools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5432,7 +5315,7 @@
             {
               "node_type": "item",
               "title": "SpringBootVulExploit: https://github.com/LandGrey/SpringBootVulExploit",
-              "description": null,
+              "description": "LandGrey/SpringBootVulExploit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5462,7 +5345,7 @@
             {
               "node_type": "item",
               "title": "SpringBoot-Scan: https://github.com/AabyssZG/SpringBoot-Scan",
-              "description": null,
+              "description": "AabyssZG/SpringBoot-Scan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5501,7 +5384,7 @@
             {
               "node_type": "item",
               "title": "JDumpSpider: https://github.com/whwlsfb/JDumpSpider",
-              "description": null,
+              "description": "whwlsfb/JDumpSpider",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5528,7 +5411,7 @@
             {
               "node_type": "item",
               "title": "heapdump_tool: https://github.com/wyzxxz/heapdump_tool",
-              "description": null,
+              "description": "wyzxxz/heapdump_tool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5549,7 +5432,7 @@
             {
               "node_type": "item",
               "title": "swagger-exp: https://github.com/lijiejie/swagger-exp",
-              "description": null,
+              "description": "lijiejie/swagger-exp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5570,7 +5453,7 @@
             {
               "node_type": "item",
               "title": "CVE-2022-22947/CVE-2022-22963: https://github.com/savior-only/Spring_All_Reachable",
-              "description": null,
+              "description": "savior-only/Spring_All_Reachable",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5591,7 +5474,7 @@
             {
               "node_type": "item",
               "title": "CVE-2022-22963 https://github.com/mamba-2021/EXP-POC/tree/main/Spring-cloud-function-SpEL-RCE",
-              "description": null,
+              "description": "24-2021/EXP-POC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5617,7 +5500,7 @@
             {
               "node_type": "item",
               "title": "ClassHound: https://github.com/LandGrey/ClassHound",
-              "description": null,
+              "description": "LandGrey/ClassHound",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5645,7 +5528,7 @@
             {
               "node_type": "item",
               "title": "ThinkphpGUI: https://github.com/Lotus6/ThinkphpGUI",
-              "description": null,
+              "description": "Lotus6/ThinkphpGUI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5666,7 +5549,7 @@
             {
               "node_type": "item",
               "title": "thinkphp_gui_tools: https://github.com/bewhale/thinkphp_gui_tools",
-              "description": null,
+              "description": "bewhale/thinkphp_gui_tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5693,7 +5576,7 @@
             {
               "node_type": "item",
               "title": "CVE-2020-14882: https://github.com/zhzyker/exphub/blob/master/weblogic/cve-2020-14882_rce.py",
-              "description": null,
+              "description": "zhzyker/exphub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5734,7 +5617,7 @@
             {
               "node_type": "item",
               "title": "WeblogicScan: https://github.com/rabbitmask/WeblogicScan",
-              "description": null,
+              "description": "rabbitmask/WeblogicScan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5757,7 +5640,7 @@
             {
               "node_type": "item",
               "title": "weblogicScanner: https://github.com/0xn0ne/weblogicScanner",
-              "description": null,
+              "description": "0xn0ne/weblogicScanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5799,7 +5682,7 @@
             {
               "node_type": "item",
               "title": "WeblogicTool: https://github.com/KimJun1010/WeblogicTool",
-              "description": null,
+              "description": "KimJun1010/WeblogicTool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5820,7 +5703,7 @@
             {
               "node_type": "item",
               "title": "WeblogicScan: https://github.com/dr0op/WeblogicScan",
-              "description": null,
+              "description": "dr0op/WeblogicScan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5841,7 +5724,7 @@
             {
               "node_type": "item",
               "title": "weblogic-framework: https://github.com/sv3nbeast/weblogic-framework",
-              "description": null,
+              "description": "sv3nbeast/weblogic-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5862,7 +5745,7 @@
             {
               "node_type": "item",
               "title": "wscat: https://github.com/websockets/wscat",
-              "description": null,
+              "description": "websockets/wscat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5883,7 +5766,7 @@
             {
               "node_type": "item",
               "title": "VcenterKiller: https://github.com/Schira4396/VcenterKiller",
-              "description": null,
+              "description": "Schira4396/VcenterKiller",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5911,7 +5794,7 @@
             {
               "node_type": "item",
               "title": "VcenterKit: https://github.com/W01fh4cker/VcenterKit",
-              "description": null,
+              "description": "W01fh4cker/VcenterKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5978,7 +5861,7 @@
             {
               "node_type": "item",
               "title": "Yakit: https://github.com/yaklang/yakit",
-              "description": null,
+              "description": "yaklang/yakit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6033,7 +5916,7 @@
                     "open_issues": 385,
                     "owner": "immersive-translate",
                     "repo": "immersive-translate",
-                    "stars": 19157,
+                    "stars": 19159,
                     "topics": [
                       "chrome-extension",
                       "safari-extension",
@@ -6071,7 +5954,7 @@
                 {
                   "node_type": "item",
                   "title": "json-formatter: https://github.com/callumlocke/json-formatter",
-                  "description": null,
+                  "description": "callumlocke/json-formatter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6092,7 +5975,7 @@
                 {
                   "node_type": "item",
                   "title": "Cookie-Editor: https://github.com/Moustachauve/cookie-editor",
-                  "description": null,
+                  "description": "Moustachauve/cookie-editor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6105,7 +5988,7 @@
                     "open_issues": 71,
                     "owner": "Moustachauve",
                     "repo": "cookie-editor",
-                    "stars": 1720,
+                    "stars": 1719,
                     "topics": [
                       "android",
                       "browser-extension",
@@ -6134,7 +6017,7 @@
                 {
                   "node_type": "item",
                   "title": "markdown-viewer: https://github.com/simov/markdown-viewer",
-                  "description": null,
+                  "description": "simov/markdown-viewer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6209,7 +6092,7 @@
                 {
                   "node_type": "item",
                   "title": "Hack Bar: https://github.com/0140454/hackbar",
-                  "description": null,
+                  "description": "0140454/hackbar",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6453,7 +6336,7 @@
                 {
                   "node_type": "item",
                   "title": "HaeToYakit: https://github.com/youmulijiang/HaeToYakit",
-                  "description": null,
+                  "description": "youmulijiang/HaeToYakit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6493,7 +6376,7 @@
                 {
                   "node_type": "item",
                   "title": "knownsec/404StarLink",
-                  "description": null,
+                  "description": "knownsec/404StarLink",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6506,7 +6389,7 @@
                     "open_issues": 5,
                     "owner": "knownsec",
                     "repo": "404StarLink",
-                    "stars": 11313,
+                    "stars": 11314,
                     "topics": [
                       "opensource",
                       "security",
@@ -6525,7 +6408,7 @@
                 {
                   "node_type": "item",
                   "title": "DNSLog-GO: https://github.com/lanyi1998/DNSlog-GO",
-                  "description": null,
+                  "description": "lanyi1998/DNSlog-GO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6546,7 +6429,7 @@
                 {
                   "node_type": "item",
                   "title": "Alphalog: dns/http/rmi/ldap https://github.com/AlphabugX/Alphalog",
-                  "description": null,
+                  "description": "AlphabugX/Alphalog",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6594,7 +6477,7 @@
                     "open_issues": 303,
                     "owner": "ohmyzsh",
                     "repo": "ohmyzsh",
-                    "stars": 190043,
+                    "stars": 190046,
                     "topics": [
                       "cli",
                       "cli-app",
@@ -6618,7 +6501,7 @@
                 {
                   "node_type": "item",
                   "title": "jlevy/the-art-of-command-line",
-                  "description": null,
+                  "description": "jlevy/the-art-of-command-line",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6656,7 +6539,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-29T04:03:14Z",
-                    "open_issues": 2823,
+                    "open_issues": 2824,
                     "owner": "Eugeny",
                     "repo": "tabby",
                     "stars": 74783,
@@ -6686,7 +6569,7 @@
                     "open_issues": 201,
                     "owner": "BurntSushi",
                     "repo": "ripgrep",
-                    "stars": 68786,
+                    "stars": 68788,
                     "topics": [
                       "cli",
                       "command-line",
@@ -6714,11 +6597,11 @@
                     "id": 384219990,
                     "language": "Rust",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-03T00:35:04Z",
-                    "open_issues": 5326,
+                    "last_commit": "2026-10-03T03:56:32Z",
+                    "open_issues": 5328,
                     "owner": "warpdotdev",
                     "repo": "warp",
-                    "stars": 65344,
+                    "stars": 65346,
                     "topics": [
                       "bash",
                       "linux",
@@ -6748,7 +6631,7 @@
                     "open_issues": 1945,
                     "owner": "zellij-org",
                     "repo": "zellij",
-                    "stars": 35628,
+                    "stars": 35629,
                     "topics": [
                       "multiplexer",
                       "terminal",
@@ -6769,7 +6652,7 @@
                     "id": 294977469,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-02T09:16:21Z",
+                    "last_commit": "2026-10-03T01:16:20Z",
                     "open_issues": 1,
                     "owner": "chrisant996",
                     "repo": "clink",
@@ -6841,7 +6724,7 @@
                         "open_issues": 83,
                         "owner": "jaywcjlove",
                         "repo": "linux-command",
-                        "stars": 37054,
+                        "stars": 37055,
                         "topics": [
                           "bash",
                           "chrome",
@@ -6921,7 +6804,7 @@
                 {
                   "node_type": "item",
                   "title": "reverse-shell-generator: https://github.com/0dayCTF/reverse-shell-generator",
-                  "description": null,
+                  "description": "0dayCTF/reverse-shell-generator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6949,7 +6832,7 @@
                 {
                   "node_type": "item",
                   "title": "File-Download-Generator: https://github.com/r0eXpeR/File-Download-Generator",
-                  "description": null,
+                  "description": "r0eXpeR/File-Download-Generator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6982,7 +6865,7 @@
             {
               "node_type": "item",
               "title": "sqlmapproject/sqlmap",
-              "description": null,
+              "description": "sqlmapproject/sqlmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7028,7 +6911,7 @@
                 {
                   "node_type": "item",
                   "title": "lobuhi/byp4xx",
-                  "description": null,
+                  "description": "lobuhi/byp4xx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7049,7 +6932,7 @@
                 {
                   "node_type": "item",
                   "title": "devploit/nomore403",
-                  "description": null,
+                  "description": "devploit/nomore403",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7062,7 +6945,7 @@
                     "open_issues": 4,
                     "owner": "devploit",
                     "repo": "nomore403",
-                    "stars": 1890,
+                    "stars": 1891,
                     "topics": [
                       "403",
                       "403-bypass",
@@ -7085,7 +6968,7 @@
                 {
                   "node_type": "item",
                   "title": "Dheerajmadhukar/4-ZERO-3",
-                  "description": null,
+                  "description": "Dheerajmadhukar/4-ZERO-3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7106,7 +6989,7 @@
                 {
                   "node_type": "item",
                   "title": "yunemse48/403bypasser",
-                  "description": null,
+                  "description": "yunemse48/403bypasser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7139,7 +7022,7 @@
             {
               "node_type": "item",
               "title": "mzfr/liffy",
-              "description": null,
+              "description": "mzfr/liffy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7166,7 +7049,7 @@
             {
               "node_type": "item",
               "title": "hansmach1ne/LFImap",
-              "description": null,
+              "description": "hansmach1ne/LFImap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7272,7 +7155,7 @@
                 {
                   "node_type": "item",
                   "title": "wux1an/wxapkg",
-                  "description": null,
+                  "description": "wux1an/wxapkg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7301,7 +7184,7 @@
                 {
                   "node_type": "item",
                   "title": "[wxappUnpacker: https://github.com/xuedingmiaojun/wxappUnpacker]",
-                  "description": null,
+                  "description": "xdmjun/wxappUnpacker",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7322,7 +7205,7 @@
                 {
                   "node_type": "item",
                   "title": "eeeeeeeeee-code/e0e1-wx",
-                  "description": null,
+                  "description": "eeeeeeeeee-code/e0e1-wx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7343,7 +7226,7 @@
                 {
                   "node_type": "item",
                   "title": "Cherrison/CrackMinApp",
-                  "description": null,
+                  "description": "Cherrison/CrackMinApp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7392,7 +7275,7 @@
                 {
                   "node_type": "item",
                   "title": "iBotPeaches/Apktool",
-                  "description": null,
+                  "description": "iBotPeaches/Apktool",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7420,7 +7303,7 @@
                 {
                   "node_type": "item",
                   "title": "kelvinBen/AppInfoScanner",
-                  "description": null,
+                  "description": "kelvinBen/AppInfoScanner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7464,7 +7347,7 @@
                 {
                   "node_type": "item",
                   "title": "mrknow001/wx_sessionkey_decrypt",
-                  "description": null,
+                  "description": "mrknow001/wx_sessionkey_decrypt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7497,7 +7380,7 @@
             {
               "node_type": "item",
               "title": "PayloadsAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings",
-              "description": null,
+              "description": "swisskyrepo/PayloadsAllTheThings",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7510,7 +7393,7 @@
                 "open_issues": 36,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 81420,
+                "stars": 81425,
                 "topics": [
                   "bounty",
                   "bugbounty",
@@ -7536,7 +7419,7 @@
             {
               "node_type": "item",
               "title": "CVE-2021-44228-PoC-log4j-bypass-words: https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words",
-              "description": null,
+              "description": "Puliczek/CVE-2021-44228-PoC-log4j-bypass-words",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7577,7 +7460,7 @@
             {
               "node_type": "item",
               "title": "PHPFuck: https://github.com/splitline/PHPFuck",
-              "description": null,
+              "description": "splitline/PHPFuck",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7615,7 +7498,7 @@
             {
               "node_type": "item",
               "title": "rocketchat: https://github.com/RocketChat/Rocket.Chat",
-              "description": null,
+              "description": "RocketChat/Rocket.Chat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7624,8 +7507,8 @@
                 "id": 35866694,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T00:43:25Z",
-                "open_issues": 4176,
+                "last_commit": "2026-10-03T02:40:03Z",
+                "open_issues": 4173,
                 "owner": "RocketChat",
                 "repo": "Rocket.Chat",
                 "stars": 46207,
@@ -7648,7 +7531,7 @@
             {
               "node_type": "item",
               "title": "mattermost: https://github.com/mattermost/mattermost",
-              "description": null,
+              "description": "mattermost/mattermost",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7657,11 +7540,11 @@
                 "id": 37448451,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T00:34:59Z",
-                "open_issues": 1044,
+                "last_commit": "2026-10-03T04:07:21Z",
+                "open_issues": 1045,
                 "owner": "mattermost",
                 "repo": "mattermost",
-                "stars": 39248,
+                "stars": 39249,
                 "topics": [
                   "collaboration",
                   "golang",
@@ -7706,7 +7589,7 @@
             {
               "node_type": "item",
               "title": "codimd: https://github.com/hackmdio/codimd",
-              "description": null,
+              "description": "hackmdio/codimd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7734,7 +7617,7 @@
             {
               "node_type": "item",
               "title": "hedgedoc: https://github.com/hedgedoc/hedgedoc",
-              "description": null,
+              "description": "hedgedoc/hedgedoc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7747,7 +7630,7 @@
                 "open_issues": 278,
                 "owner": "hedgedoc",
                 "repo": "hedgedoc",
-                "stars": 7458,
+                "stars": 7459,
                 "topics": [
                   "codimd",
                   "collaboration",
@@ -7915,7 +7798,7 @@
             {
               "node_type": "item",
               "title": "SharpHostInfo: https://github.com/shmilylty/SharpHostInfo",
-              "description": null,
+              "description": "shmilylty/SharpHostInfo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7968,7 +7851,7 @@
             {
               "node_type": "item",
               "title": "SharpScan: https://github.com/INotGreen/SharpScan",
-              "description": null,
+              "description": "INotGreen/SharpScan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8013,7 +7896,7 @@
                     "open_issues": 316,
                     "owner": "fortra",
                     "repo": "impacket",
-                    "stars": 16140,
+                    "stars": 16142,
                     "topics": [
                       "dcerpc",
                       "dcom",
@@ -8032,7 +7915,7 @@
                 {
                   "node_type": "item",
                   "title": "LaZagne: https://github.com/AlessandroZ/LaZagne",
-                  "description": null,
+                  "description": "AlessandroZ/LaZagne",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8045,7 +7928,7 @@
                     "open_issues": 18,
                     "owner": "AlessandroZ",
                     "repo": "LaZagne",
-                    "stars": 11000,
+                    "stars": 10999,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -8074,7 +7957,7 @@
                 {
                   "node_type": "item",
                   "title": "lsassy: https://github.com/login-securite/lsassy",
-                  "description": null,
+                  "description": "login-securite/lsassy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8095,7 +7978,7 @@
                 {
                   "node_type": "item",
                   "title": "SharpDPAPI: https://github.com/GhostPack/SharpDPAPI",
-                  "description": null,
+                  "description": "GhostPack/SharpDPAPI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8116,7 +7999,7 @@
                 {
                   "node_type": "item",
                   "title": "DonPAPI: https://github.com/login-securite/DonPAPI",
-                  "description": null,
+                  "description": "login-securite/DonPAPI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8140,7 +8023,7 @@
                 {
                   "node_type": "item",
                   "title": "Pillager: https://github.com/qwqdanchun/Pillager/",
-                  "description": null,
+                  "description": "qwqdanchun/Pillager",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8165,7 +8048,7 @@
                 {
                   "node_type": "item",
                   "title": "searchall: https://github.com/Naturehi666/searchall",
-                  "description": null,
+                  "description": "Naturehi666/searchall",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8239,7 +8122,7 @@
                 {
                   "node_type": "item",
                   "title": "HackBrowserData: https://github.com/moonD4rk/HackBrowserData",
-                  "description": null,
+                  "description": "moonD4rk/HackBrowserData",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8271,7 +8154,7 @@
                 {
                   "node_type": "item",
                   "title": "firefox: https://github.com/unode/firefox_decrypt",
-                  "description": null,
+                  "description": "unode/firefox_decrypt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8284,7 +8167,7 @@
                     "open_issues": 1,
                     "owner": "unode",
                     "repo": "firefox_decrypt",
-                    "stars": 2481,
+                    "stars": 2482,
                     "topics": [
                       "command-line-tool",
                       "extract-passwords",
@@ -8303,7 +8186,7 @@
                 {
                   "node_type": "item",
                   "title": "BrowserGhost: https://github.com/QAX-A-Team/BrowserGhost",
-                  "description": null,
+                  "description": "QAX-A-Team/BrowserGhost",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8326,7 +8209,7 @@
                 {
                   "node_type": "item",
                   "title": "sunflower: https://github.com/wafinfo/Sunflower_get_Password",
-                  "description": null,
+                  "description": "wafinfo/Sunflower_get_Password",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8347,7 +8230,7 @@
                 {
                   "node_type": "item",
                   "title": "navicat: https://github.com/HyperSine/how-does-navicat-encrypt-password",
-                  "description": null,
+                  "description": "HyperSine/how-does-navicat-encrypt-password",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8368,7 +8251,7 @@
                 {
                   "node_type": "item",
                   "title": "mobaxterm: https://github.com/HyperSine/how-does-MobaXterm-encrypt-password",
-                  "description": null,
+                  "description": "HyperSine/how-does-MobaXterm-encrypt-password",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8389,7 +8272,7 @@
                 {
                   "node_type": "item",
                   "title": "sundeskQ: sunflower & todesk https://github.com/milu001/sundeskQ",
-                  "description": null,
+                  "description": "milu001/sundeskQ",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8410,7 +8293,7 @@
                 {
                   "node_type": "item",
                   "title": "FindToDeskPass: https://github.com/yangliukk/FindToDeskPass",
-                  "description": null,
+                  "description": "yangliukk/FindToDeskPass",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8431,7 +8314,7 @@
                 {
                   "node_type": "item",
                   "title": "navicat: https://github.com/Zhuoyuan1/navicat_password_decrypt",
-                  "description": null,
+                  "description": "Zhuoyuan1/navicat_password_decrypt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8455,7 +8338,7 @@
                 {
                   "node_type": "item",
                   "title": "securreCRT: https://github.com/depau/shcrt",
-                  "description": null,
+                  "description": "depau/shcrt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8488,7 +8371,7 @@
                     {
                       "node_type": "item",
                       "title": "JDArmy/SharpXDecrypt",
-                      "description": null,
+                      "description": "JDArmy/SharpXDecrypt",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8567,7 +8450,7 @@
                 {
                   "node_type": "item",
                   "title": "rapid7/metasploit-framework",
-                  "description": null,
+                  "description": "rapid7/metasploit-framework",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8590,7 +8473,7 @@
                 {
                   "node_type": "item",
                   "title": "fortra/impacket",
-                  "description": "👍",
+                  "description": "fortra/impacket",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8603,7 +8486,7 @@
                     "open_issues": 316,
                     "owner": "fortra",
                     "repo": "impacket",
-                    "stars": 16140,
+                    "stars": 16142,
                     "topics": [
                       "dcerpc",
                       "dcom",
@@ -8622,7 +8505,7 @@
                 {
                   "node_type": "item",
                   "title": "PowerShellMafia/PowerSploit",
-                  "description": null,
+                  "description": "PowerShellMafia/PowerSploit",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -8674,7 +8557,7 @@
                 {
                   "node_type": "item",
                   "title": "byt3bl33d3r/CrackMapExec",
-                  "description": "👍",
+                  "description": "byt3bl33d3r/CrackMapExec",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -8687,7 +8570,7 @@
                     "open_issues": 66,
                     "owner": "byt3bl33d3r",
                     "repo": "CrackMapExec",
-                    "stars": 9159,
+                    "stars": 9158,
                     "topics": [
                       "active-directory",
                       "networks",
@@ -8702,7 +8585,7 @@
                 {
                   "node_type": "item",
                   "title": "Pennyw0rth/NetExec",
-                  "description": null,
+                  "description": "Pennyw0rth/NetExec",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8739,7 +8622,7 @@
                 {
                   "node_type": "item",
                   "title": "k8gege/Ladon",
-                  "description": null,
+                  "description": "k8gege/Ladon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8779,7 +8662,7 @@
                 {
                   "node_type": "item",
                   "title": "GhostPack/Rubeus",
-                  "description": null,
+                  "description": "GhostPack/Rubeus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8802,7 +8685,7 @@
                 {
                   "node_type": "item",
                   "title": "Kevin-Robertson/Powermad",
-                  "description": null,
+                  "description": "Kevin-Robertson/Powermad",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8875,7 +8758,7 @@
                     {
                       "node_type": "item",
                       "title": "Awesome CobaltStrike: https://github.com/zer0yu/Awesome-CobaltStrike",
-                      "description": null,
+                      "description": "zer0yu/Awesome-CobaltStrike",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8900,7 +8783,7 @@
                     {
                       "node_type": "item",
                       "title": "Erebus: https://github.com/DeEpinGh0st/Erebus",
-                      "description": null,
+                      "description": "DeEpinGh0st/Erebus",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8923,7 +8806,7 @@
                     {
                       "node_type": "item",
                       "title": "pystinger: https://github.com/FunnyWolf/pystinger",
-                      "description": null,
+                      "description": "FunnyWolf/pystinger",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8948,7 +8831,7 @@
                     {
                       "node_type": "item",
                       "title": "LSTAR: https://github.com/lintstar/LSTAR",
-                      "description": null,
+                      "description": "lintstar/LSTAR",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8974,7 +8857,7 @@
                     {
                       "node_type": "item",
                       "title": "ElevateKit: https://github.com/rsmudge/ElevateKit",
-                      "description": null,
+                      "description": "rsmudge/ElevateKit",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8995,7 +8878,7 @@
                     {
                       "node_type": "item",
                       "title": "C2ReverseProxy: https://github.com/Daybr4ak/C2ReverseProxy",
-                      "description": null,
+                      "description": "Daybr4ak/C2ReverseProxy",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -9093,7 +8976,7 @@
                 {
                   "node_type": "item",
                   "title": "tennc/webshell",
-                  "description": null,
+                  "description": "tennc/webshell",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9124,7 +9007,7 @@
                 {
                   "node_type": "item",
                   "title": "pen4uin/java-memshell-generator",
-                  "description": "👍",
+                  "description": "pen4uin/java-memshell-generator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9151,7 +9034,7 @@
                 {
                   "node_type": "item",
                   "title": "ReaJason/MemShellParty",
-                  "description": null,
+                  "description": "ReaJason/MemShellParty",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9182,7 +9065,7 @@
                 {
                   "node_type": "item",
                   "title": "veo/wsMemShell",
-                  "description": null,
+                  "description": "veo/wsMemShell",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9208,7 +9091,7 @@
                 {
                   "node_type": "item",
                   "title": "ce-automne/TomcatMemShell",
-                  "description": null,
+                  "description": "ce-automne/TomcatMemShell",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9229,7 +9112,7 @@
                 {
                   "node_type": "item",
                   "title": "BeichenDream/GodzillaMemoryShellProject",
-                  "description": null,
+                  "description": "BeichenDream/GodzillaMemoryShellProject",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9250,7 +9133,7 @@
                 {
                   "node_type": "item",
                   "title": "novysodope/RMI_Inj_MemShell",
-                  "description": null,
+                  "description": "novysodope/RMI_Inj_MemShell",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9271,7 +9154,7 @@
                 {
                   "node_type": "item",
                   "title": "1ucky7/memShellParty-Godzilla",
-                  "description": null,
+                  "description": "1ucky7/memShellParty-Godzilla",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9299,7 +9182,7 @@
                 {
                   "node_type": "item",
                   "title": "rebeyond/Behinder",
-                  "description": null,
+                  "description": "rebeyond/Behinder",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9320,7 +9203,7 @@
                 {
                   "node_type": "item",
                   "title": "BeichenDream/Godzilla",
-                  "description": null,
+                  "description": "BeichenDream/Godzilla",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9341,7 +9224,7 @@
                 {
                   "node_type": "item",
                   "title": "shack2/skyscorpion",
-                  "description": null,
+                  "description": "shack2/skyscorpion",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9369,7 +9252,7 @@
                 {
                   "node_type": "item",
                   "title": "AabyssZG/WebShell-Bypass-Guide",
-                  "description": null,
+                  "description": "AabyssZG/WebShell-Bypass-Guide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9398,7 +9281,7 @@
                 {
                   "node_type": "item",
                   "title": "cseroad/Webshell_Generate",
-                  "description": null,
+                  "description": "cseroad/Webshell_Generate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9456,7 +9339,7 @@
                 {
                   "node_type": "item",
                   "title": "WangYihang/Platypus",
-                  "description": null,
+                  "description": "WangYihang/Platypus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9491,7 +9374,7 @@
                 {
                   "node_type": "item",
                   "title": "peass-ng/PEASS-ng",
-                  "description": null,
+                  "description": "peass-ng/PEASS-ng",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9532,7 +9415,7 @@
                 {
                   "node_type": "item",
                   "title": "peass-ng/PEASS-ng",
-                  "description": null,
+                  "description": "peass-ng/PEASS-ng",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9573,7 +9456,7 @@
                 {
                   "node_type": "item",
                   "title": "rebootuser/LinEnum",
-                  "description": null,
+                  "description": "rebootuser/LinEnum",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9622,7 +9505,7 @@
                 {
                   "node_type": "item",
                   "title": "mostaphabahadou/postenum",
-                  "description": null,
+                  "description": "mostaphabahadou/postenum",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9650,7 +9533,7 @@
                 {
                   "node_type": "item",
                   "title": "peass-ng/PEASS-ng",
-                  "description": null,
+                  "description": "peass-ng/PEASS-ng",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9691,7 +9574,7 @@
                 {
                   "node_type": "item",
                   "title": "PowerShellMafia/PowerSploit",
-                  "description": null,
+                  "description": "PowerShellMafia/PowerSploit",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9712,7 +9595,7 @@
                 {
                   "node_type": "item",
                   "title": "S3cur3Th1sSh1t/WinPwn",
-                  "description": null,
+                  "description": "S3cur3Th1sSh1t/WinPwn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9744,7 +9627,7 @@
                 {
                   "node_type": "item",
                   "title": "dafthack/MailSniper",
-                  "description": null,
+                  "description": "dafthack/MailSniper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9765,7 +9648,7 @@
                 {
                   "node_type": "item",
                   "title": "Flangvik/SharpCollection",
-                  "description": null,
+                  "description": "Flangvik/SharpCollection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9786,7 +9669,7 @@
                 {
                   "node_type": "item",
                   "title": "dafthack/DomainPasswordSpray",
-                  "description": null,
+                  "description": "dafthack/DomainPasswordSpray",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9807,7 +9690,7 @@
                 {
                   "node_type": "item",
                   "title": "S3cur3Th1sSh1t/PowerSharpPack",
-                  "description": null,
+                  "description": "S3cur3Th1sSh1t/PowerSharpPack",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9835,7 +9718,7 @@
                 {
                   "node_type": "item",
                   "title": "peass-ng/PEASS-ng",
-                  "description": null,
+                  "description": "peass-ng/PEASS-ng",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9876,7 +9759,7 @@
                 {
                   "node_type": "item",
                   "title": "SecWiki/windows-kernel-exploits",
-                  "description": null,
+                  "description": "SecWiki/windows-kernel-exploits",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9904,7 +9787,7 @@
                 {
                   "node_type": "item",
                   "title": "bitsadmin/wesng",
-                  "description": null,
+                  "description": "bitsadmin/wesng",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9932,7 +9815,7 @@
                 {
                   "node_type": "item",
                   "title": "strozfriedberg/Windows-Exploit-Suggester",
-                  "description": null,
+                  "description": "strozfriedberg/Windows-Exploit-Suggester",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9953,7 +9836,7 @@
                 {
                   "node_type": "item",
                   "title": "itm4n/PrivescCheck",
-                  "description": null,
+                  "description": "itm4n/PrivescCheck",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9980,7 +9863,7 @@
                 {
                   "node_type": "item",
                   "title": "gtworek/PSBits",
-                  "description": null,
+                  "description": "gtworek/PSBits",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10001,7 +9884,7 @@
                 {
                   "node_type": "item",
                   "title": "Ascotbe/Kernelhub",
-                  "description": null,
+                  "description": "Ascotbe/Kernelhub",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10043,7 +9926,7 @@
                 {
                   "node_type": "item",
                   "title": "BeichenDream/BadPotato",
-                  "description": null,
+                  "description": "BeichenDream/BadPotato",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10069,7 +9952,7 @@
                 {
                   "node_type": "item",
                   "title": "Al1ex/WindowsElevation",
-                  "description": null,
+                  "description": "Al1ex/WindowsElevation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10111,7 +9994,7 @@
                 {
                   "node_type": "item",
                   "title": "giuliano108/SeBackupPrivilege",
-                  "description": null,
+                  "description": "giuliano108/SeBackupPrivilege",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10139,7 +10022,7 @@
                 {
                   "node_type": "item",
                   "title": "peass-ng/PEASS-ng",
-                  "description": null,
+                  "description": "peass-ng/PEASS-ng",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10180,7 +10063,7 @@
                 {
                   "node_type": "item",
                   "title": "liamg/traitor",
-                  "description": null,
+                  "description": "liamg/traitor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10213,7 +10096,7 @@
                 {
                   "node_type": "item",
                   "title": "The-Z-Labs/linux-exploit-suggester",
-                  "description": null,
+                  "description": "The-Z-Labs/linux-exploit-suggester",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10246,7 +10129,7 @@
                 {
                   "node_type": "item",
                   "title": "InteliSecureLabs/Linux_Exploit_Suggester",
-                  "description": null,
+                  "description": "InteliSecureLabs/Linux_Exploit_Suggester",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10274,7 +10157,7 @@
                 {
                   "node_type": "item",
                   "title": "DeepFK-ai/Databasetools",
-                  "description": null,
+                  "description": "DeepFK-ai/Databasetools",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10330,7 +10213,7 @@
                 {
                   "node_type": "item",
                   "title": "Linux Kernel Hacking: https://github.com/xcellerator/linux_kernel_hacking",
-                  "description": null,
+                  "description": "xcellerator/linux_kernel_hacking",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10358,7 +10241,7 @@
                 {
                   "node_type": "item",
                   "title": "BypassAntiVirus: https://github.com/TideSec/BypassAntiVirus",
-                  "description": null,
+                  "description": "TideSec/BypassAntiVirus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10371,7 +10254,7 @@
                     "open_issues": 1,
                     "owner": "TideSec",
                     "repo": "BypassAntiVirus",
-                    "stars": 5128,
+                    "stars": 5129,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -10379,7 +10262,7 @@
                 {
                   "node_type": "item",
                   "title": "hoaxshell: https://github.com/t3l3machus/hoaxshell",
-                  "description": null,
+                  "description": "t3l3machus/hoaxshell",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10409,7 +10292,7 @@
                 {
                   "node_type": "item",
                   "title": "AV_Evasion_Tool: https://github.com/1y0n/AV_Evasion_Tool",
-                  "description": null,
+                  "description": "1y0n/AV_Evasion_Tool",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10430,7 +10313,7 @@
                 {
                   "node_type": "item",
                   "title": "shellcodeloader: https://github.com/knownsec/shellcodeloader",
-                  "description": null,
+                  "description": "knownsec/shellcodeloader",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10451,7 +10334,7 @@
                 {
                   "node_type": "item",
                   "title": "yetAnotherObfuscator: https://github.com/0xb11a1/yetAnotherObfuscator",
-                  "description": null,
+                  "description": "0xb11a1/yetAnotherObfuscator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10472,7 +10355,7 @@
                 {
                   "node_type": "item",
                   "title": "GolangBypassAV: https://github.com/safe6Sec/GolangBypassAV",
-                  "description": null,
+                  "description": "safe6Sec/GolangBypassAV",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10496,7 +10379,7 @@
                 {
                   "node_type": "item",
                   "title": "bypassAV: https://github.com/pureqh/bypassAV",
-                  "description": null,
+                  "description": "pureqh/bypassAV",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10552,7 +10435,7 @@
                 {
                   "node_type": "item",
                   "title": "Proxychains: https://github.com/haad/proxychains",
-                  "description": null,
+                  "description": "haad/proxychains",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10580,7 +10463,7 @@
                 {
                   "node_type": "item",
                   "title": "frp: https://github.com/fatedier/frp",
-                  "description": null,
+                  "description": "fatedier/frp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10593,7 +10476,7 @@
                     "open_issues": 50,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109719,
+                    "stars": 109721,
                     "topics": [
                       "expose",
                       "firewall",
@@ -10612,7 +10495,7 @@
                 {
                   "node_type": "item",
                   "title": "nps: https://github.com/ehang-io/nps",
-                  "description": null,
+                  "description": "ehang-io/nps",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10649,7 +10532,7 @@
                 {
                   "node_type": "item",
                   "title": "gost: https://github.com/ginuerzh/gost",
-                  "description": null,
+                  "description": "ginuerzh/gost",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10686,7 +10569,7 @@
                 {
                   "node_type": "item",
                   "title": "Viper: https://github.com/FunnyWolf/Viper",
-                  "description": null,
+                  "description": "FunnyWolf/Viper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10731,7 +10614,7 @@
                     "open_issues": 18,
                     "owner": "nicocha30",
                     "repo": "ligolo-ng",
-                    "stars": 5043,
+                    "stars": 5044,
                     "topics": [
                       "golang",
                       "offensive-security",
@@ -10749,7 +10632,7 @@
                 {
                   "node_type": "item",
                   "title": "Stowaway: https://github.com/ph4ntonn/Stowaway",
-                  "description": null,
+                  "description": "ph4ntonn/Stowaway",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10786,7 +10669,7 @@
                 {
                   "node_type": "item",
                   "title": "Neo-reGeorg: https://github.com/L-codes/Neo-reGeorg",
-                  "description": null,
+                  "description": "L-codes/Neo-reGeorg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10815,7 +10698,7 @@
                 {
                   "node_type": "item",
                   "title": "reGeorg: https://github.com/sensepost/reGeorg",
-                  "description": null,
+                  "description": "sensepost/reGeorg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10836,7 +10719,7 @@
                 {
                   "node_type": "item",
                   "title": "suo5: https://github.com/zema1/suo5",
-                  "description": null,
+                  "description": "zema1/suo5",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10865,7 +10748,7 @@
                 {
                   "node_type": "item",
                   "title": "rakshasa: https://github.com/Mob2003/rakshasa",
-                  "description": null,
+                  "description": "Mob2003/rakshasa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10886,7 +10769,7 @@
                 {
                   "node_type": "item",
                   "title": "frpModify: https://github.com/uknowsec/frpModify",
-                  "description": null,
+                  "description": "uknowsec/frpModify",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10914,7 +10797,7 @@
                 {
                   "node_type": "item",
                   "title": "iodine: https://github.com/yarrick/iodine",
-                  "description": null,
+                  "description": "yarrick/iodine",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10942,7 +10825,7 @@
                 {
                   "node_type": "item",
                   "title": "dnscat2: https://github.com/iagox86/dnscat2",
-                  "description": null,
+                  "description": "iagox86/dnscat2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10963,7 +10846,7 @@
                 {
                   "node_type": "item",
                   "title": "DNS-Shell: https://github.com/sensepost/DNS-Shell",
-                  "description": null,
+                  "description": "sensepost/DNS-Shell",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10991,7 +10874,7 @@
                 {
                   "node_type": "item",
                   "title": "icmpsh: https://github.com/bdamele/icmpsh",
-                  "description": null,
+                  "description": "bdamele/icmpsh",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11087,7 +10970,7 @@
             {
               "node_type": "item",
               "title": "lzzbb/Adinfo",
-              "description": null,
+              "description": "lzzbb/Adinfo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11113,7 +10996,7 @@
                 {
                   "node_type": "item",
                   "title": "SpecterOps/BloodHound-Legacy",
-                  "description": null,
+                  "description": "SpecterOps/BloodHound-Legacy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11134,7 +11017,7 @@
                 {
                   "node_type": "item",
                   "title": "SpecterOps/BloodHound",
-                  "description": null,
+                  "description": "SpecterOps/BloodHound",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11147,7 +11030,7 @@
                     "open_issues": 178,
                     "owner": "SpecterOps",
                     "repo": "BloodHound",
-                    "stars": 3454,
+                    "stars": 3455,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11155,7 +11038,7 @@
                 {
                   "node_type": "item",
                   "title": "dirkjanm/BloodHound.py",
-                  "description": null,
+                  "description": "dirkjanm/BloodHound.py",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11176,7 +11059,7 @@
                 {
                   "node_type": "item",
                   "title": "AD-Security/AD_Miner",
-                  "description": null,
+                  "description": "AD-Security/AD_Miner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11197,7 +11080,7 @@
                 {
                   "node_type": "item",
                   "title": "SpecterOps/SharpHound",
-                  "description": null,
+                  "description": "SpecterOps/SharpHound",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11218,7 +11101,7 @@
                 {
                   "node_type": "item",
                   "title": "NH-RED-TEAM/RustHound",
-                  "description": null,
+                  "description": "NH-RED-TEAM/RustHound",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11254,7 +11137,7 @@
                 {
                   "node_type": "item",
                   "title": "FalconForceTeam/SOAPHound",
-                  "description": null,
+                  "description": "FalconForceTeam/SOAPHound",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11275,7 +11158,7 @@
                 {
                   "node_type": "item",
                   "title": "CompassSecurity/BloodHoundQueries",
-                  "description": null,
+                  "description": "CompassSecurity/BloodHoundQueries",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -11303,7 +11186,7 @@
                 {
                   "node_type": "item",
                   "title": "dirkjanm/ldapdomaindump",
-                  "description": null,
+                  "description": "dirkjanm/ldapdomaindump",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11324,7 +11207,7 @@
                 {
                   "node_type": "item",
                   "title": "franc-pentest/ldeep",
-                  "description": null,
+                  "description": "franc-pentest/ldeep",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11345,7 +11228,7 @@
                 {
                   "node_type": "item",
                   "title": "yaap7/ldapsearch-ad",
-                  "description": null,
+                  "description": "yaap7/ldapsearch-ad",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11373,7 +11256,7 @@
                 {
                   "node_type": "item",
                   "title": "dirkjanm/adidnsdump",
-                  "description": null,
+                  "description": "dirkjanm/adidnsdump",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11386,7 +11269,7 @@
                     "open_issues": 5,
                     "owner": "dirkjanm",
                     "repo": "adidnsdump",
-                    "stars": 1191,
+                    "stars": 1192,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11401,7 +11284,7 @@
                 {
                   "node_type": "item",
                   "title": "garrettfoster13/sccmhunter",
-                  "description": null,
+                  "description": "garrettfoster13/sccmhunter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11410,7 +11293,7 @@
                     "id": 604183956,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-28T21:36:44Z",
+                    "last_commit": "2026-10-03T04:11:15Z",
                     "open_issues": 5,
                     "owner": "garrettfoster13",
                     "repo": "sccmhunter",
@@ -11422,7 +11305,7 @@
                 {
                   "node_type": "item",
                   "title": "Mayyhem/SharpSCCM",
-                  "description": null,
+                  "description": "Mayyhem/SharpSCCM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11450,7 +11333,7 @@
                 {
                   "node_type": "item",
                   "title": "ropnop/kerbrute",
-                  "description": null,
+                  "description": "ropnop/kerbrute",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11463,7 +11346,7 @@
                     "open_issues": 44,
                     "owner": "ropnop",
                     "repo": "kerbrute",
-                    "stars": 3460,
+                    "stars": 3461,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11480,7 +11363,7 @@
             {
               "node_type": "item",
               "title": "CravateRouge/bloodyAD",
-              "description": null,
+              "description": "CravateRouge/bloodyAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11489,8 +11372,8 @@
                 "id": 415977068,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T07:01:52Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-03T03:05:44Z",
+                "open_issues": 3,
                 "owner": "CravateRouge",
                 "repo": "bloodyAD",
                 "stars": 2310,
@@ -11510,7 +11393,7 @@
                 {
                   "node_type": "item",
                   "title": "fortra/impacket",
-                  "description": null,
+                  "description": "fortra/impacket",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11523,7 +11406,7 @@
                     "open_issues": 316,
                     "owner": "fortra",
                     "repo": "impacket",
-                    "stars": 16140,
+                    "stars": 16142,
                     "topics": [
                       "dcerpc",
                       "dcom",
@@ -11542,7 +11425,7 @@
                 {
                   "node_type": "item",
                   "title": "SecWiki/windows-kernel-exploits",
-                  "description": null,
+                  "description": "SecWiki/windows-kernel-exploits",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11570,7 +11453,7 @@
                 {
                   "node_type": "item",
                   "title": "SpiderLabs/Responder",
-                  "description": null,
+                  "description": "SpiderLabs/Responder",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -11598,7 +11481,7 @@
                 {
                   "node_type": "item",
                   "title": "Ridter/noPac",
-                  "description": null,
+                  "description": "Ridter/noPac",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11619,7 +11502,7 @@
                 {
                   "node_type": "item",
                   "title": "Amulab/advul",
-                  "description": null,
+                  "description": "Amulab/advul",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11647,7 +11530,7 @@
                 {
                   "node_type": "item",
                   "title": "bvcyber/CVE-2020-1472",
-                  "description": null,
+                  "description": "bvcyber/CVE-2020-1472",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11668,7 +11551,7 @@
                 {
                   "node_type": "item",
                   "title": "dirkjanm/CVE-2020-1472",
-                  "description": null,
+                  "description": "dirkjanm/CVE-2020-1472",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11689,7 +11572,7 @@
                 {
                   "node_type": "item",
                   "title": "risksense/zerologon",
-                  "description": null,
+                  "description": "risksense/zerologon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11710,7 +11593,7 @@
                 {
                   "node_type": "item",
                   "title": "XiaoliChan/zerologon-Shot",
-                  "description": null,
+                  "description": "XiaoliChan/zerologon-Shot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11731,7 +11614,7 @@
                 {
                   "node_type": "item",
                   "title": "Potato-py/Potato",
-                  "description": null,
+                  "description": "Potato-py/Potato",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11752,7 +11635,7 @@
                 {
                   "node_type": "item",
                   "title": "StarfireLab/AutoZerologon",
-                  "description": null,
+                  "description": "StarfireLab/AutoZerologon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11780,7 +11663,7 @@
                 {
                   "node_type": "item",
                   "title": "dirkjanm/PrivExchange",
-                  "description": null,
+                  "description": "dirkjanm/PrivExchange",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11801,7 +11684,7 @@
                 {
                   "node_type": "item",
                   "title": "dmaasland/proxyshell-poc",
-                  "description": null,
+                  "description": "dmaasland/proxyshell-poc",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -11822,7 +11705,7 @@
                 {
                   "node_type": "item",
                   "title": "hausec/ProxyLogon",
-                  "description": null,
+                  "description": "hausec/ProxyLogon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11843,7 +11726,7 @@
                 {
                   "node_type": "item",
                   "title": "Jumbo-WJB/PTH_Exchange",
-                  "description": null,
+                  "description": "Jumbo-WJB/PTH_Exchange",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11871,7 +11754,7 @@
                 {
                   "node_type": "item",
                   "title": "testanull/ProxyNotShell-PoC",
-                  "description": null,
+                  "description": "testanull/ProxyNotShell-PoC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11899,7 +11782,7 @@
                 {
                   "node_type": "item",
                   "title": "cube0x0/CVE-2021-1675",
-                  "description": null,
+                  "description": "cube0x0/CVE-2021-1675",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11912,7 +11795,7 @@
                     "open_issues": 38,
                     "owner": "cube0x0",
                     "repo": "CVE-2021-1675",
-                    "stars": 2004,
+                    "stars": 2003,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -11920,7 +11803,7 @@
                 {
                   "node_type": "item",
                   "title": "calebstewart/CVE-2021-1675",
-                  "description": null,
+                  "description": "calebstewart/CVE-2021-1675",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11941,7 +11824,7 @@
                 {
                   "node_type": "item",
                   "title": "nemo-wq/PrintNightmare-CVE-2021-34527",
-                  "description": null,
+                  "description": "nemo-wq/PrintNightmare-CVE-2021-34527",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11983,7 +11866,7 @@
                 {
                   "node_type": "item",
                   "title": "ntlmrelayx: https://github.com/fortra/impacket/blob/master/examples/ntlmrelayx.py",
-                  "description": null,
+                  "description": "fortra/impacket",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11996,7 +11879,7 @@
                     "open_issues": 316,
                     "owner": "fortra",
                     "repo": "impacket",
-                    "stars": 16140,
+                    "stars": 16142,
                     "topics": [
                       "dcerpc",
                       "dcom",
@@ -12015,7 +11898,7 @@
                 {
                   "node_type": "item",
                   "title": "Responder: https://github.com/lgandx/Responder",
-                  "description": null,
+                  "description": "lgandx/Responder",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12036,7 +11919,7 @@
                 {
                   "node_type": "item",
                   "title": "Coercer: https://github.com/p0dalirius/Coercer",
-                  "description": null,
+                  "description": "p0dalirius/Coercer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12066,7 +11949,7 @@
                 {
                   "node_type": "item",
                   "title": "PetitPotam: https://github.com/topotam/PetitPotam",
-                  "description": null,
+                  "description": "topotam/PetitPotam",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12087,7 +11970,7 @@
                 {
                   "node_type": "item",
                   "title": "KrbRelayUp: https://github.com/Dec0ne/KrbRelayUp",
-                  "description": null,
+                  "description": "Dec0ne/KrbRelayUp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12108,7 +11991,7 @@
                 {
                   "node_type": "item",
                   "title": "kerbrelayx: https://github.com/dirkjanm/krbrelayx",
-                  "description": null,
+                  "description": "dirkjanm/krbrelayx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12129,7 +12012,7 @@
                 {
                   "node_type": "item",
                   "title": "PrinterBug: https://github.com/leechristensen/SpoolSample",
-                  "description": null,
+                  "description": "leechristensen/SpoolSample",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12150,7 +12033,7 @@
                 {
                   "node_type": "item",
                   "title": "PrivExchange: https://github.com/dirkjanm/privexchange/",
-                  "description": null,
+                  "description": "dirkjanm/PrivExchange",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12171,7 +12054,7 @@
                 {
                   "node_type": "item",
                   "title": "DFSCoerce: https://github.com/Wh04m1001/DFSCoerce",
-                  "description": null,
+                  "description": "Wh04m1001/DFSCoerce",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12192,7 +12075,7 @@
                 {
                   "node_type": "item",
                   "title": "Responder-Windows: https://github.com/lgandx/Responder-Windows",
-                  "description": null,
+                  "description": "lgandx/Responder-Windows",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12213,7 +12096,7 @@
                 {
                   "node_type": "item",
                   "title": "WSPCoerce: https://github.com/slemire/WSPCoerce",
-                  "description": null,
+                  "description": "slemire/WSPCoerce",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12234,7 +12117,7 @@
                 {
                   "node_type": "item",
                   "title": "ShadowCoerce: https://github.com/ShutdownRepo/ShadowCoerce",
-                  "description": null,
+                  "description": "ShutdownRepo/ShadowCoerce",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12255,7 +12138,7 @@
                 {
                   "node_type": "item",
                   "title": "cannon: https://github.com/Amulab/cannon",
-                  "description": null,
+                  "description": "Amulab/cannon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12283,7 +12166,7 @@
                 {
                   "node_type": "item",
                   "title": "findDelegation: https://github.com/fortra/impacket/blob/master/examples/findDelegation.py",
-                  "description": null,
+                  "description": "fortra/impacket",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12296,7 +12179,7 @@
                     "open_issues": 316,
                     "owner": "fortra",
                     "repo": "impacket",
-                    "stars": 16140,
+                    "stars": 16142,
                     "topics": [
                       "dcerpc",
                       "dcom",
@@ -12315,7 +12198,7 @@
                 {
                   "node_type": "item",
                   "title": "Impacket rbcd.py: https://github.com/fortra/impacket/blob/master/examples/rbcd.py",
-                  "description": null,
+                  "description": "fortra/impacket",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12328,7 +12211,7 @@
                     "open_issues": 316,
                     "owner": "fortra",
                     "repo": "impacket",
-                    "stars": 16140,
+                    "stars": 16142,
                     "topics": [
                       "dcerpc",
                       "dcom",
@@ -12347,7 +12230,7 @@
                 {
                   "node_type": "item",
                   "title": "PowerView: https://github.com/PowerShellMafia/PowerSploit/blob/dev/Recon/PowerView.ps1",
-                  "description": null,
+                  "description": "PowerShellMafia/PowerSploit",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12368,7 +12251,7 @@
                 {
                   "node_type": "item",
                   "title": "Delegations: https://github.com/TheManticoreProject/Delegations",
-                  "description": null,
+                  "description": "TheManticoreProject/manticore-delegations",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12389,7 +12272,7 @@
                 {
                   "node_type": "item",
                   "title": "SharpRBCD: https://github.com/Kryp7os/SharpRBCD",
-                  "description": null,
+                  "description": "Kryp7os/SharpRBCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12417,7 +12300,7 @@
                 {
                   "node_type": "item",
                   "title": "PassTheCert: https://github.com/AlmondOffSec/PassTheCert",
-                  "description": null,
+                  "description": "AlmondOffSec/PassTheCert",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12430,7 +12313,7 @@
                     "open_issues": 0,
                     "owner": "AlmondOffSec",
                     "repo": "PassTheCert",
-                    "stars": 785,
+                    "stars": 786,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12443,7 +12326,7 @@
                     {
                       "node_type": "item",
                       "title": "Certipy: https://github.com/ly4k/Certipy",
-                      "description": null,
+                      "description": "ly4k/Certipy",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -12467,7 +12350,7 @@
                     {
                       "node_type": "item",
                       "title": "Certify: https://github.com/GhostPack/Certify",
-                      "description": null,
+                      "description": "GhostPack/Certify",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -12488,7 +12371,7 @@
                     {
                       "node_type": "item",
                       "title": "PKINITtools: https://github.com/dirkjanm/PKINITtools",
-                      "description": null,
+                      "description": "dirkjanm/PKINITtools",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -12501,7 +12384,7 @@
                         "open_issues": 6,
                         "owner": "dirkjanm",
                         "repo": "PKINITtools",
-                        "stars": 931,
+                        "stars": 932,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:49:33.277Z"
@@ -12509,7 +12392,7 @@
                     {
                       "node_type": "item",
                       "title": "ADCSPwn: https://github.com/bats3c/ADCSPwn",
-                      "description": null,
+                      "description": "bats3c/ADCSPwn",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -12530,7 +12413,7 @@
                     {
                       "node_type": "item",
                       "title": "certi: https://github.com/zer1t0/certi",
-                      "description": null,
+                      "description": "zer1t0/certi",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -12560,7 +12443,7 @@
                 {
                   "node_type": "item",
                   "title": "ShutdownRepo/pywhisker",
-                  "description": null,
+                  "description": "ShutdownRepo/pywhisker",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12581,7 +12464,7 @@
                 {
                   "node_type": "item",
                   "title": "ShutdownRepo/targetedKerberoast",
-                  "description": null,
+                  "description": "ShutdownRepo/targetedKerberoast",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12602,7 +12485,7 @@
                 {
                   "node_type": "item",
                   "title": "n00py/DCSync",
-                  "description": null,
+                  "description": "n00py/DCSync",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12641,7 +12524,7 @@
             {
               "node_type": "item",
               "title": "alibaba/arthas",
-              "description": null,
+              "description": "alibaba/arthas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12672,7 +12555,7 @@
             {
               "node_type": "item",
               "title": "c0ny1/java-memshell-scanner",
-              "description": null,
+              "description": "c0ny1/java-memshell-scanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12693,7 +12576,7 @@
             {
               "node_type": "item",
               "title": "LandGrey/copagent",
-              "description": null,
+              "description": "LandGrey/copagent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12714,7 +12597,7 @@
             {
               "node_type": "item",
               "title": "yzddmr6/ASP.NET-Memshell-Scanner",
-              "description": null,
+              "description": "yzddmr6/ASP.NET-Memshell-Scanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12742,7 +12625,7 @@
             {
               "node_type": "item",
               "title": "jvoisin/php-malware-finder",
-              "description": null,
+              "description": "jvoisin/php-malware-finder",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -12776,7 +12659,7 @@
             {
               "node_type": "item",
               "title": "BlueTeamTools: https://github.com/abc123info/BlueTeamTools",
-              "description": null,
+              "description": "abc123info/BlueTeamTools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12797,7 +12680,7 @@
             {
               "node_type": "item",
               "title": "CobaltStrike Decrypt: https://github.com/5ime/CS_Decrypt",
-              "description": null,
+              "description": "5ime/CS_Decrypt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12825,7 +12708,7 @@
             {
               "node_type": "item",
               "title": "xiaoyunjie/Shell_Script",
-              "description": null,
+              "description": "xiaoyunjie/Shell_Script",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12853,7 +12736,7 @@
             {
               "node_type": "item",
               "title": "grayddq/GScan",
-              "description": null,
+              "description": "grayddq/GScan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12881,7 +12764,7 @@
             {
               "node_type": "item",
               "title": "al0ne/LinuxCheck",
-              "description": null,
+              "description": "al0ne/LinuxCheck",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12907,7 +12790,7 @@
             {
               "node_type": "item",
               "title": "feiniao112/linux",
-              "description": null,
+              "description": "feiniao112/linux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12928,7 +12811,7 @@
             {
               "node_type": "item",
               "title": "ppabc/security_check",
-              "description": null,
+              "description": "ppabc/security_check",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12958,7 +12841,7 @@
                 {
                   "node_type": "item",
                   "title": "jiansiting/Decryption-Tools",
-                  "description": null,
+                  "description": "jiansiting/Decryption-Tools",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13004,7 +12887,7 @@
                 "open_issues": 30,
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10576,
+                "stars": 10579,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13018,7 +12901,7 @@
             {
               "node_type": "item",
               "title": "HFish: https://github.com/hacklcx/HFish",
-              "description": null,
+              "description": "hacklcx/HFish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13070,7 +12953,7 @@
             {
               "node_type": "item",
               "title": "Ehoney: https://github.com/seccome/Ehoney",
-              "description": null,
+              "description": "seccome/Ehoney",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13127,7 +13010,7 @@
                 {
                   "node_type": "item",
                   "title": "UPX: https://github.com/upx/upx",
-                  "description": null,
+                  "description": "upx/upx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13136,7 +13019,7 @@
                     "id": 67031040,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T21:20:28Z",
+                    "last_commit": "2026-10-03T02:55:55Z",
                     "open_issues": 24,
                     "owner": "upx",
                     "repo": "upx",
@@ -13161,7 +13044,7 @@
                     "open_issues": 51,
                     "owner": "mrexodia",
                     "repo": "ida-pro-mcp",
-                    "stars": 12442,
+                    "stars": 12446,
                     "topics": [
                       "ai",
                       "aiagent",
@@ -13188,8 +13071,8 @@
                     "id": 40328394,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-10-02T23:46:19Z",
-                    "open_issues": 743,
+                    "last_commit": "2026-10-03T04:03:07Z",
+                    "open_issues": 745,
                     "owner": "angr",
                     "repo": "angr",
                     "stars": 9123,
@@ -13211,7 +13094,7 @@
                 {
                   "node_type": "item",
                   "title": "Detect-It-Easy: https://github.com/horsicq/Detect-It-Easy",
-                  "description": null,
+                  "description": "horsicq/Detect-It-Easy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13224,7 +13107,7 @@
                     "open_issues": 35,
                     "owner": "horsicq",
                     "repo": "Detect-It-Easy",
-                    "stars": 11625,
+                    "stars": 11624,
                     "topics": [
                       "binary-analysis",
                       "debugger",
@@ -13253,7 +13136,7 @@
                 {
                   "node_type": "item",
                   "title": "checksec: https://github.com/slimm609/checksec",
-                  "description": null,
+                  "description": "slimm609/checksec",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13274,7 +13157,7 @@
                 {
                   "node_type": "item",
                   "title": "ExeinfoPE: https://github.com/ExeinfoASL/ASL",
-                  "description": null,
+                  "description": "ExeinfoASL/ASL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13305,7 +13188,7 @@
                 {
                   "node_type": "item",
                   "title": "jadx: https://github.com/skylot/jadx",
-                  "description": null,
+                  "description": "skylot/jadx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13318,7 +13201,7 @@
                     "open_issues": 455,
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50715,
+                    "stars": 50718,
                     "topics": [
                       "android",
                       "decompiler",
@@ -13331,7 +13214,7 @@
                 {
                   "node_type": "item",
                   "title": "jd-gui: https://github.com/java-decompiler/jd-gui",
-                  "description": null,
+                  "description": "java-decompiler/jd-gui",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13344,7 +13227,7 @@
                     "open_issues": 248,
                     "owner": "java-decompiler",
                     "repo": "jd-gui",
-                    "stars": 15199,
+                    "stars": 15200,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:33.277Z"
@@ -13352,7 +13235,7 @@
                 {
                   "node_type": "item",
                   "title": "GDA: https://github.com/charles2gan/GDA-android-reversing-Tool",
-                  "description": null,
+                  "description": "charles2gan/GDA-android-reversing-Tool",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13380,7 +13263,7 @@
                 {
                   "node_type": "item",
                   "title": "jar-analyzer: https://github.com/jar-analyzer/jar-analyzer/",
-                  "description": null,
+                  "description": "jar-analyzer/jar-analyzer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13422,7 +13305,7 @@
                 {
                   "node_type": "item",
                   "title": "scrcpy: https://github.com/Genymobile/scrcpy",
-                  "description": null,
+                  "description": "Genymobile/scrcpy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13435,7 +13318,7 @@
                     "open_issues": 2913,
                     "owner": "Genymobile",
                     "repo": "scrcpy",
-                    "stars": 150884,
+                    "stars": 150896,
                     "topics": [
                       "android",
                       "c",
@@ -13453,7 +13336,7 @@
                 {
                   "node_type": "item",
                   "title": "android-reverse: https://github.com/WuFengXue/android-reverse",
-                  "description": null,
+                  "description": "WuFengXue/android-reverse",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13494,7 +13377,7 @@
                     "open_issues": 289,
                     "owner": "pyinstaller",
                     "repo": "pyinstaller",
-                    "stars": 13115,
+                    "stars": 13114,
                     "topics": [
                       "bundle",
                       "package",
@@ -13587,7 +13470,7 @@
                 {
                   "node_type": "item",
                   "title": "pycDcode: https://github.com/BarakAharoni/pycDcode",
-                  "description": null,
+                  "description": "BarakAharoni/pycDcode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13718,7 +13601,7 @@
                 {
                   "node_type": "item",
                   "title": "jxhczhl/JsRpc",
-                  "description": null,
+                  "description": "jxhczhl/JsRpc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13739,7 +13622,7 @@
                 {
                   "node_type": "item",
                   "title": "0xsdeo/AntiDebug_Breaker",
-                  "description": null,
+                  "description": "0xsdeo/AntiDebug_Breaker",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13778,7 +13661,7 @@
             {
               "node_type": "item",
               "title": "Awesome-CloudSec-Labs: https://github.com/iknowjason/Awesome-CloudSec-Labs",
-              "description": null,
+              "description": "iknowjason/Awesome-CloudSec-Labs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13804,7 +13687,7 @@
                 {
                   "node_type": "item",
                   "title": "teamssix/awesome-cloud-security",
-                  "description": null,
+                  "description": "teamssix/awesome-cloud-security",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13843,7 +13726,7 @@
                 {
                   "node_type": "item",
                   "title": "EvilAnne/lzCloudSecurity",
-                  "description": null,
+                  "description": "EvilAnne/lzCloudSecurity",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -14301,7 +14184,7 @@
                     "open_issues": 216,
                     "owner": "wagoodman",
                     "repo": "dive",
-                    "stars": 54630,
+                    "stars": 54629,
                     "topics": [
                       "cli",
                       "docker",
@@ -14499,10 +14382,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-01T20:22:55Z",
-                    "open_issues": 365,
+                    "open_issues": 366,
                     "owner": "etcd-io",
                     "repo": "etcd",
-                    "stars": 52321,
+                    "stars": 52323,
                     "topics": [
                       "cncf",
                       "consensus",
@@ -14531,7 +14414,7 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-30T07:59:38Z",
-                    "open_issues": 91,
+                    "open_issues": 89,
                     "owner": "derailed",
                     "repo": "k9s",
                     "stars": 34728,
@@ -14832,7 +14715,7 @@
             {
               "node_type": "item",
               "title": "tabby: https://github.com/Eugeny/tabby",
-              "description": null,
+              "description": "Eugeny/tabby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -14842,7 +14725,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-29T04:03:14Z",
-                "open_issues": 2823,
+                "open_issues": 2824,
                 "owner": "Eugeny",
                 "repo": "tabby",
                 "stars": 74783,
@@ -14859,7 +14742,7 @@
             {
               "node_type": "item",
               "title": "warp: https://github.com/warpdotdev/Warp",
-              "description": "👍",
+              "description": "warpdotdev/warp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -14868,11 +14751,11 @@
                 "id": 384219990,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-03T00:35:04Z",
-                "open_issues": 5326,
+                "last_commit": "2026-10-03T03:56:32Z",
+                "open_issues": 5328,
                 "owner": "warpdotdev",
                 "repo": "warp",
-                "stars": 65344,
+                "stars": 65346,
                 "topics": [
                   "bash",
                   "linux",
@@ -14889,7 +14772,7 @@
             {
               "node_type": "item",
               "title": "clink: https://github.com/chrisant996/clink",
-              "description": null,
+              "description": "chrisant996/clink",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -14898,7 +14781,7 @@
                 "id": 294977469,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T09:16:21Z",
+                "last_commit": "2026-10-03T01:16:20Z",
                 "open_issues": 1,
                 "owner": "chrisant996",
                 "repo": "clink",
@@ -14910,7 +14793,7 @@
             {
               "node_type": "item",
               "title": "ohmyzsh: https://github.com/ohmyzsh/ohmyzsh",
-              "description": null,
+              "description": "ohmyzsh/ohmyzsh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -14923,7 +14806,7 @@
                 "open_issues": 303,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190043,
+                "stars": 190046,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -14947,7 +14830,7 @@
             {
               "node_type": "item",
               "title": "warp: https://github.com/warpdotdev/Warp",
-              "description": "👍",
+              "description": "warpdotdev/warp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -14956,11 +14839,11 @@
                 "id": 384219990,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-03T00:35:04Z",
-                "open_issues": 5326,
+                "last_commit": "2026-10-03T03:56:32Z",
+                "open_issues": 5328,
                 "owner": "warpdotdev",
                 "repo": "warp",
-                "stars": 65344,
+                "stars": 65346,
                 "topics": [
                   "bash",
                   "linux",
@@ -14984,7 +14867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:44:06.469Z",
+    "last_updated": "2026-10-03T04:28:27.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "一个攻防知识库。A knowledge base for red teaming and offensive security.",
