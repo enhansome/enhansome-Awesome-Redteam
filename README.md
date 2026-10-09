@@ -265,8 +265,8 @@ Flask_Session_Decryptor: Flask session注入解密
 
 #### 离线工具 *Offline Tools*
 
-* <https://github.com/gchq/CyberChef> ⭐ 36,047 | 🐛 589 | 🌐 JavaScript | 📅 2026-10-03 👍
-* <https://github.com/Ciphey/Ciphey> ⭐ 21,662 | 🐛 61 | 🌐 Rust | 📅 2026-10-07
+* <https://github.com/gchq/CyberChef> ⭐ 36,056 | 🐛 590 | 🌐 JavaScript | 📅 2026-10-03 👍
+* <https://github.com/Ciphey/Ciphey> ⭐ 21,663 | 🐛 61 | 🌐 Rust | 📅 2026-10-07
 * <https://github.com/guyoung/CaptfEncoder> ⭐ 1,299 | 🐛 63 | 🌐 JavaScript | 📅 2023-10-16
 * <https://github.com/wangyiwy/oktools> ⭐ 367 | 🐛 5 | 🌐 JavaScript | 📅 2023-06-01
 * <http://1o1o.xyz/bo_ctfcode.html>
@@ -281,7 +281,7 @@ Flask_Session_Decryptor: Flask session注入解密
 
 #### 正则表达式 *Regular Expressions*
 
-* <https://github.com/any86/any-rule> ⭐ 8,643 | 🐛 72 | 🌐 TypeScript | 📅 2024-07-21
+* <https://github.com/any86/any-rule> ⭐ 8,645 | 🐛 72 | 🌐 TypeScript | 📅 2024-07-21
 * <https://github.com/VincentSit/ChinaMobilePhoneNumberRegex> ⭐ 4,766 | 🐛 4 | 📅 2022-05-17
 * <https://regex101.com/>
 
@@ -303,7 +303,7 @@ Flask_Session_Decryptor: Flask session注入解密
 
 #### 国密算法 *SM Algorithms*
 
-* hutool-crypto: <https://github.com/dromara/hutool> ⭐ 30,259 | 🐛 2 | 🌐 Java | 📅 2026-09-30 hutool-crypto 模块，提供对称、非对称和摘要算法封装
+* hutool-crypto: <https://github.com/dromara/hutool> ⭐ 30,257 | 🐛 2 | 🌐 Java | 📅 2026-10-08 hutool-crypto 模块，提供对称、非对称和摘要算法封装
 * GmSSL: <https://github.com/guanzhi/GmSSL> ⭐ 6,165 | 🐛 410 | 🌐 C | 📅 2026-06-30 SM2/SM3/SM4/SM9/SSL
 * gmssl-python: <https://github.com/gongxian-ding/gmssl-python> ⭐ 75 | 🐛 10 | 🌐 Python | 📅 2020-09-22 SM2/SM3/SM4/SM9
 * SM4: <https://www.toolhelper.cn/SymmetricEncryption/SM4>
@@ -330,10 +330,10 @@ Flask_Session_Decryptor: Flask session注入解密
 
 #### 谷歌搜索 *Google Hacking*
 
-* <https://github.com/cipher387/Dorks-collections-list> ⭐ 2,761 | 🐛 2 | 📅 2025-04-11 Google Hacking 数据库
-* <https://github.com/obheda12/GitDorker> ⭐ 2,592 | 🐛 22 | 🌐 Python | 📅 2024-08-03 Google Hacking 命令行工具
+* <https://github.com/cipher387/Dorks-collections-list> ⭐ 2,760 | 🐛 2 | 📅 2025-04-11 Google Hacking 数据库
+* <https://github.com/obheda12/GitDorker> ⭐ 2,593 | 🐛 22 | 🌐 Python | 📅 2024-08-03 Google Hacking 命令行工具
 * <https://github.com/six2dez/dorks_hunter> ⭐ 346 | 🐛 0 | 🌐 Python | 📅 2026-07-14 Google Hacking 命令行工具
-* <https://github.com/Pa55w0rd/google-hacking-assistant> ⭐ 155 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-16 Chrome 扩展程序
+* <https://github.com/Pa55w0rd/google-hacking-assistant> ⭐ 156 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-16 Chrome 扩展程序
 * <https://www.exploit-db.com/google-hacking-database> Google Hacking 数据库
 * <https://cxsecurity.com/dorks/> Google Hacking 数据库
 * <https://dorks.faisalahmed.me/> Google Hacking 在线工具
@@ -343,7 +343,7 @@ Flask_Session_Decryptor: Flask session注入解密
 
 #### Github 搜索 *Github Dork*
 
-* <https://github.com/obheda12/GitDorker> ⭐ 2,592 | 🐛 22 | 🌐 Python | 📅 2024-08-03 Github Dork
+* <https://github.com/obheda12/GitDorker> ⭐ 2,593 | 🐛 22 | 🌐 Python | 📅 2024-08-03 Github Dork
 * <https://github.com/damit5/gitdorks_go> ⭐ 231 | 🐛 5 | 🌐 Go | 📅 2022-04-21 Github Dork
 * <https://github.com/search/advanced> Github Dork
 
@@ -414,7 +414,7 @@ Flask_Session_Decryptor: Flask session注入解密
 
 #### 思维导图/备忘录 *Mindmap/Cheat Sheets*
 
-* <https://github.com/Ignitetechnologies/Mindmap/> ⭐ 9,347 | 🐛 15 | 📅 2026-07-21 网络安全思维导图
+* <https://github.com/Ignitetechnologies/Mindmap/> ⭐ 9,348 | 🐛 15 | 📅 2026-07-21 网络安全思维导图
 * <https://github.com/WADComs/WADComs.github.io> ⭐ 1,733 | 🐛 3 | 🌐 HTML | 📅 2026-09-10 Windows/域速查表 👍
 * <https://cheatsheets.zip/> 开发者速查表
 * <https://learnxinyminutes.com/> 编程/工具/命令/操作系统/快捷键速查表
@@ -445,7 +445,7 @@ Flask_Session_Decryptor: Flask session注入解密
 
 #### 实战平台 *Learning and Practice Platforms*
 
-* echoCTF: <https://github.com/echoCTF/echoCTF.RED> ⭐ 151 | 🐛 9 | 🌐 PHP | 📅 2026-10-06 适用于 CTF 竞赛
+* echoCTF: <https://github.com/echoCTF/echoCTF.RED> ⭐ 151 | 🐛 10 | 🌐 PHP | 📅 2026-10-06 适用于 CTF 竞赛
 * Cybrary: <https://www.cybrary.it/>
 * HacktheBox: <https://www.hackthebox.com/>
 * TryHackMe: <https://tryhackme.com/>
@@ -458,26 +458,26 @@ Flask_Session_Decryptor: Flask session注入解密
 
 Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，再通过 UTM 运行：
 
-* <https://github.com/utmapp/UTM> ⭐ 35,765 | 🐛 1,115 | 🌐 Swift | 📅 2026-09-25
-* <https://github.com/qemu/qemu> ⭐ 13,822 | 🐛 0 | 🌐 C | 📅 2026-10-07
+* <https://github.com/utmapp/UTM> ⭐ 35,783 | 🐛 1,115 | 🌐 Swift | 📅 2026-09-25
+* <https://github.com/qemu/qemu> ⭐ 13,826 | 🐛 0 | 🌐 C | 📅 2026-10-07
 
 ## 信息收集 *Reconnaissance*
 
 ### 综合工具 *Nice Tools*
 
-* Amass: <https://github.com/owasp-amass/amass> ⭐ 15,322 | 🐛 243 | 🌐 Go | 📅 2026-07-19
-* fscan: <https://github.com/shadow1ng/fscan> ⭐ 14,618 | 🐛 13 | 🌐 Go | 📅 2026-10-01
-* OneForAll: <https://github.com/shmilylty/OneForAll> ⭐ 10,101 | 🐛 108 | 🌐 Python | 📅 2026-05-11
-* TscanPlus: <https://github.com/TideSec/TscanPlus> ⭐ 4,411 | 🐛 10 | 📅 2026-10-06
-* kscan: <https://github.com/lcvvvv/kscan> ⭐ 4,298 | 🐛 52 | 🌐 Go | 📅 2023-08-22
+* Amass: <https://github.com/owasp-amass/amass> ⭐ 15,326 | 🐛 243 | 🌐 Go | 📅 2026-07-19
+* fscan: <https://github.com/shadow1ng/fscan> ⭐ 14,623 | 🐛 13 | 🌐 Go | 📅 2026-10-01
+* OneForAll: <https://github.com/shmilylty/OneForAll> ⭐ 10,100 | 🐛 108 | 🌐 Python | 📅 2026-05-11
+* TscanPlus: <https://github.com/TideSec/TscanPlus> ⭐ 4,417 | 🐛 12 | 📅 2026-10-06
+* kscan: <https://github.com/lcvvvv/kscan> ⭐ 4,297 | 🐛 52 | 🌐 Go | 📅 2023-08-22
 * ShuiZe: <https://github.com/0x727/ShuiZe_0x727> ⭐ 4,021 | 🐛 163 | 🌐 Python | 📅 2024-06-13
 * dddd: <https://github.com/SleepingBag945/dddd> ⭐ 1,942 | 🐛 56 | 🌐 Go | 📅 2024-08-02
 * Fofa Viewer: <https://github.com/wgpsec/fofa_viewer> ⭐ 1,811 | 🐛 21 | 🌐 Java | 📅 2025-12-26
-* AlliN: <https://github.com/P1-Team/AlliN> ⭐ 1,287 | 🐛 2 | 🌐 Python | 📅 2025-08-22
-* qscan: <https://github.com/qi4L/qscan> ⭐ 1,211 | 🐛 1 | 🌐 Go | 📅 2026-05-24
+* AlliN: <https://github.com/P1-Team/AlliN> ⭐ 1,286 | 🐛 2 | 🌐 Python | 📅 2025-08-22
+* qscan: <https://github.com/qi4L/qscan> ⭐ 1,212 | 🐛 1 | 🌐 Go | 📅 2026-05-24
 * Kunyu: <https://github.com/knownsec/Kunyu> ⭐ 1,074 | 🐛 32 | 🌐 Python | 📅 2025-02-06
-* FofaX: <https://github.com/xiecat/fofax> ⭐ 840 | 🐛 2 | 🌐 Go | 📅 2026-03-06
-* ApolloScanner: <https://github.com/b0bac/ApolloScanner> ⭐ 746 | 🐛 18 | 🌐 JavaScript | 📅 2026-02-05
+* FofaX: <https://github.com/xiecat/fofax> ⭐ 841 | 🐛 2 | 🌐 Go | 📅 2026-03-06
+* ApolloScanner: <https://github.com/b0bac/ApolloScanner> ⭐ 745 | 🐛 18 | 🌐 JavaScript | 📅 2026-02-05
 * ENScan\_GO: <https://github.com/wgpsec/ENScan_GO>
 
 ### IP/域名/子域名 *IP/Domain/Subdomain*
@@ -521,13 +521,13 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 指纹库 *Fingerprint Collection*
 
-* <https://github.com/0x727/FingerprintHub> ⭐ 1,442 | 🐛 0 | 🌐 Rust | 📅 2026-10-07
+* <https://github.com/0x727/FingerprintHub> ⭐ 1,442 | 🐛 0 | 🌐 Rust | 📅 2026-10-08
 * <https://github.com/r0eXpeR/fingerprint> ⭐ 527 | 🐛 0 | 🌐 Ruby | 📅 2021-11-03
 
 #### 指纹识别 *Fingerprint Reconnaissance*
 
-* <https://github.com/EdgeSecurityTeam/EHole> ⭐ 3,517 | 🐛 43 | 🌐 Go | 📅 2024-04-02
-* <https://github.com/zhzyker/dismap> ⭐ 2,165 | 🐛 23 | 🌐 Go | 📅 2024-01-29
+* <https://github.com/EdgeSecurityTeam/EHole> ⭐ 3,516 | 🐛 43 | 🌐 Go | 📅 2024-04-02
+* <https://github.com/zhzyker/dismap> ⭐ 2,164 | 🐛 23 | 🌐 Go | 📅 2024-01-29
 * <https://github.com/EASY233/Finger> ⭐ 1,725 | 🐛 19 | 🌐 Python | 📅 2023-12-22
 * <https://github.com/lemonlove7/EHole_magic> ⭐ 975 | 🐛 5 | 🌐 Go | 📅 2024-03-06
 * <https://github.com/TideSec/TideFinger_Go> ⭐ 333 | 🐛 8 | 📅 2025-02-07
@@ -537,36 +537,36 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### WAF 识别 *Waf Checks*
 
-* <https://github.com/EnableSecurity/wafw00f> ⭐ 6,570 | 🐛 0 | 🌐 Python | 📅 2026-04-19
-* <https://github.com/stamparm/identYwaf> ⭐ 757 | 🐛 0 | 🌐 Python | 📅 2026-09-10
-* <https://github.com/MISP/misp-warninglists> ⭐ 655 | 🐛 50 | 🌐 Python | 📅 2026-10-05
+* <https://github.com/EnableSecurity/wafw00f> ⭐ 6,571 | 🐛 0 | 🌐 Python | 📅 2026-04-19
+* <https://github.com/stamparm/identYwaf> ⭐ 758 | 🐛 0 | 🌐 Python | 📅 2026-09-10
+* <https://github.com/MISP/misp-warninglists> ⭐ 655 | 🐛 51 | 🌐 Python | 📅 2026-10-05
 
 ### 扫描/爆破 *Brute Force*
 
 #### 扫描/爆破工具 *Brute Force Tools*
 
 * Port:
-  * <https://github.com/antirez/hping> ⭐ 1,721 | 🐛 67 | 🌐 C | 📅 2024-07-10
+  * <https://github.com/antirez/hping> ⭐ 1,722 | 🐛 67 | 🌐 C | 📅 2024-07-10
 * Subdomain:
-  * <https://github.com/projectdiscovery/subfinder> ⭐ 14,567 | 🐛 5 | 🌐 Go | 📅 2026-10-07
-  * <https://github.com/knownsec/ksubdomain> ⭐ 2,399 | 🐛 30 | 🌐 Go | 📅 2022-03-16
+  * <https://github.com/projectdiscovery/subfinder> ⭐ 14,569 | 🐛 0 | 🌐 Go | 📅 2026-10-08
+  * <https://github.com/knownsec/ksubdomain> ⭐ 2,398 | 🐛 30 | 🌐 Go | 📅 2022-03-16
 * Web:
-  * <https://github.com/OJ/gobuster> ⭐ 14,199 | 🐛 25 | 🌐 Go | 📅 2026-10-07
-  * <https://github.com/xmendez/wfuzz> ⭐ 6,591 | 🐛 115 | 🌐 Python | 📅 2026-01-21
+  * <https://github.com/OJ/gobuster> ⭐ 14,201 | 🐛 25 | 🌐 Go | 📅 2026-10-07
+  * <https://github.com/xmendez/wfuzz> ⭐ 6,592 | 🐛 115 | 🌐 Python | 📅 2026-01-21
   * <https://github.com/s0md3v/Arjun> ⭐ 6,412 | 🐛 24 | 🌐 Python | 📅 2025-02-20
-  * <https://github.com/pingc0y/URLFinder> ⭐ 3,186 | 🐛 42 | 🌐 Go | 📅 2026-06-17
-  * <https://github.com/jaeles-project/gospider> ⭐ 3,003 | 🐛 56 | 🌐 Go | 📅 2024-04-21
+  * <https://github.com/pingc0y/URLFinder> ⭐ 3,187 | 🐛 42 | 🌐 Go | 📅 2026-06-17
+  * <https://github.com/jaeles-project/gospider> ⭐ 3,004 | 🐛 56 | 🌐 Go | 📅 2024-04-21
 * Directory:
-  * <https://github.com/ffuf/ffuf> ⭐ 16,839 | 🐛 237 | 🌐 Go | 📅 2026-09-26
-  * <https://github.com/maurosoria/dirsearch> ⭐ 14,932 | 🐛 17 | 🌐 Python | 📅 2026-10-07
+  * <https://github.com/ffuf/ffuf> ⭐ 16,845 | 🐛 237 | 🌐 Go | 📅 2026-09-26
+  * <https://github.com/maurosoria/dirsearch> ⭐ 14,934 | 🐛 17 | 🌐 Python | 📅 2026-10-07
   * <https://github.com/H4ckForJob/dirmap> ⭐ 3,374 | 🐛 41 | 🌐 Python | 📅 2026-09-16
 * Password:
-  * <https://github.com/vanhauser-thc/thc-hydra> ⭐ 12,349 | 🐛 49 | 🌐 C | 📅 2026-07-30
+  * <https://github.com/vanhauser-thc/thc-hydra> ⭐ 12,351 | 🐛 49 | 🌐 C | 📅 2026-07-30
   * <https://github.com/evilsocket/legba/> ⭐ 1,949 | 🐛 1 | 🌐 Rust | 📅 2026-08-14
   * <https://github.com/galkan/crowbar> ⭐ 1,530 | 🐛 46 | 🌐 Python | 📅 2023-12-19 支持 sshkey 和 openvpn
 * Hash 破解:
-  * <https://github.com/hashcat/hashcat> ⭐ 26,955 | 🐛 239 | 🌐 C | 📅 2026-10-07
-  * <https://github.com/openwall/john> ⭐ 13,736 | 🐛 518 | 🌐 C | 📅 2026-09-30
+  * <https://github.com/hashcat/hashcat> ⭐ 26,959 | 🐛 240 | 🌐 C | 📅 2026-10-08
+  * <https://github.com/openwall/john> ⭐ 13,740 | 🐛 518 | 🌐 C | 📅 2026-09-30
   * <https://github.com/HashPals/Name-That-Hash> ⭐ 1,672 | 🐛 7 | 🌐 Python | 📅 2025-12-19 哈希类型识别
   * <https://github.com/noraj/haiti> ⭐ 1,003 | 🐛 4 | 🌐 Ruby | 📅 2026-09-24 哈希类型识别
   * <https://hashcat.net/wiki/doku.php?id=example_hashes> hashcat 示例
@@ -574,31 +574,31 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
   * <https://github.com/ticarpi/jwt_tool> ⭐ 6,778 | 🐛 76 | 🌐 Python | 📅 2025-05-01
   * <https://github.com/brendan-rius/c-jwt-cracker> ⭐ 2,563 | 🐛 16 | 🌐 C | 📅 2023-06-02
   * <https://github.com/wallarm/jwt-secrets/blob/master/jwt.secrets.list> ⭐ 1,159 | 🐛 3 | 📅 2025-03-12
-  * <https://github.com/hahwul/jwt-hack> ⭐ 1,086 | 🐛 0 | 🌐 Rust | 📅 2026-10-05
-  * <https://github.com/mazen160/jwt-pwn> ⭐ 333 | 🐛 1 | 🌐 Python | 📅 2026-03-13
+  * <https://github.com/hahwul/jwt-hack> ⭐ 1,086 | 🐛 0 | 🌐 Rust | 📅 2026-10-08
+  * <https://github.com/mazen160/jwt-pwn> ⭐ 334 | 🐛 1 | 🌐 Python | 📅 2026-03-13
   * <https://github.com/Sjord/jwtcrack> ⭐ 258 | 🐛 3 | 🌐 Python | 📅 2026-03-13
   * <https://jwt.io/>
 
 #### 扫描/爆破字典 *Brute Force Dictionaries*
 
 * Wordlists for All:
-  * <https://github.com/danielmiessler/SecLists> ⭐ 73,992 | 🐛 10 | 🌐 PHP | 📅 2026-10-07 46.4k star
-  * <https://github.com/rapid7/metasploit-framework/tree/master/data/wordlists> ⭐ 39,111 | 🐛 624 | 🌐 Ruby | 📅 2026-10-08
-  * <https://github.com/TheKingOfDuck/fuzzDicts> ⭐ 8,451 | 🐛 0 | 🌐 Python | 📅 2023-11-13
-  * <https://github.com/Bo0oM/fuzz.txt> ⭐ 3,396 | 🐛 8 | 📅 2026-07-28
-  * <https://github.com/gh0stkey/Web-Fuzzing-Box> ⭐ 2,798 | 🐛 0 | 🌐 HTML | 📅 2026-03-23
+  * <https://github.com/danielmiessler/SecLists> ⭐ 74,022 | 🐛 10 | 🌐 PHP | 📅 2026-10-08 46.4k star
+  * <https://github.com/rapid7/metasploit-framework/tree/master/data/wordlists> ⭐ 39,116 | 🐛 602 | 🌐 Ruby | 📅 2026-10-08
+  * <https://github.com/TheKingOfDuck/fuzzDicts> ⭐ 8,449 | 🐛 0 | 🌐 Python | 📅 2023-11-13
+  * <https://github.com/Bo0oM/fuzz.txt> ⭐ 3,397 | 🐛 8 | 📅 2026-07-28
+  * <https://github.com/gh0stkey/Web-Fuzzing-Box> ⭐ 2,797 | 🐛 0 | 🌐 HTML | 📅 2026-03-23
   * <https://github.com/insightglacier/Dictionary-Of-Pentesting> ⭐ 2,077 | 🐛 0 | 🌐 Shell | 📅 2023-07-21
   * <https://github.com/a3vilc0de/PentesterSpecialDict> ⭐ 1,916 | 🐛 1 | 🌐 PHP | 📅 2025-06-17
-  * <https://github.com/assetnote/wordlists> ⭐ 1,736 | 🐛 4 | 🌐 CSS | 📅 2026-02-27
+  * <https://github.com/assetnote/wordlists> ⭐ 1,737 | 🐛 4 | 🌐 CSS | 📅 2026-02-27
   * <https://github.com/SexyBeast233/SecDictionary> ⭐ 1,591 | 🐛 2 | 📅 2026-09-28 + ffuf
 * Web Fuzz Wordlists:
-  * <https://github.com/xmendez/wfuzz/tree/master/wordlist> ⭐ 6,591 | 🐛 115 | 🌐 Python | 📅 2026-01-21
+  * <https://github.com/xmendez/wfuzz/tree/master/wordlist> ⭐ 6,592 | 🐛 115 | 🌐 Python | 📅 2026-01-21
   * <https://github.com/lutfumertceylan/top25-parameter> ⭐ 1,844 | 🐛 2 | 📅 2024-06-09
 * Others (not frequently used):
-  * <https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content> ⭐ 73,992 | 🐛 10 | 🌐 PHP | 📅 2026-10-07
+  * <https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content> ⭐ 74,022 | 🐛 10 | 🌐 PHP | 📅 2026-10-08
   * <https://github.com/google/fuzzing/tree/master/dictionaries> ⚠️ Archived
-  * <https://github.com/six2dez/OneListForAll> ⭐ 3,258 | 🐛 1 | 🌐 Go | 📅 2026-09-22
-  * <https://github.com/random-robbie/bruteforce-lists> ⭐ 1,446 | 🐛 2 | 📅 2026-04-30
+  * <https://github.com/six2dez/OneListForAll> ⭐ 3,260 | 🐛 1 | 🌐 Go | 📅 2026-09-22
+  * <https://github.com/random-robbie/bruteforce-lists> ⭐ 1,446 | 🐛 3 | 📅 2026-04-30
   * <https://github.com/assetnote/commonspeak2-wordlists/tree/master/wordswithext> ⭐ 543 | 🐛 1 | 📅 2018-08-23
 
 #### 字典生成 *Generate a Custom Dictionary*
@@ -612,14 +612,14 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
   * Generate wordlists(offline): <https://github.com/zzzteph/weakpass> ⭐ 740 | 🐛 0 | 🌐 Vue | 📅 2026-08-06
   * Generate subdomains and wordlists(offline): <https://github.com/zzzteph/probable_subdomains> ⚠️ Archived
 * Offline:
-  * pydictor: <https://github.com/LandGrey/pydictor/> ⭐ 3,653 | 🐛 13 | 🌐 Python | 📅 2024-12-05
+  * pydictor: <https://github.com/LandGrey/pydictor/> ⭐ 3,651 | 🐛 13 | 🌐 Python | 📅 2024-12-05
   * crunch:
     * Windows: <https://github.com/shadwork/Windows-Crunch> ⭐ 58 | 🐛 1 | 🌐 C | 📅 2015-07-01
     * Kali/Linux: <https://sourceforge.net/projects/crunch-wordlist>
 
 #### 默认口令查询 *Default Credentials*
 
-* Default Credentials Cheat Sheet: <https://github.com/ihebski/DefaultCreds-cheat-sheet> ⭐ 6,773 | 🐛 0 | 🌐 Python | 📅 2026-09-27 3468 条默认口令
+* Default Credentials Cheat Sheet: <https://github.com/ihebski/DefaultCreds-cheat-sheet> ⭐ 6,772 | 🐛 0 | 🌐 Python | 📅 2026-09-27 3468 条默认口令
 * datarecovery: <https://datarecovery.com/rd/default-passwords/> online
 * cirt.net: <https://cirt.net/passwords> online
 * Online Router Passwords:
@@ -638,7 +638,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 邮箱 *Email*
 
-* theHarvester: 同时支持子域名查询 <https://github.com/laramies/theHarvester> ⭐ 17,869 | 🐛 6 | 🌐 Python | 📅 2026-10-07
+* theHarvester: 同时支持子域名查询 <https://github.com/laramies/theHarvester> ⭐ 17,874 | 🐛 6 | 🌐 Python | 📅 2026-10-07
 * Temporary Email:
   * <http://24mail.chacuo.net/>
   * <https://www.guerrillamail.com/>
@@ -666,7 +666,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 钓鱼 *Phishing*
 
-* gophish: <https://github.com/gophish/gophish> ⭐ 14,304 | 🐛 764 | 🌐 Go | 📅 2024-09-23 开源钓鱼工具包
+* gophish: <https://github.com/gophish/gophish> ⭐ 14,308 | 🐛 764 | 🌐 Go | 📅 2024-09-23 开源钓鱼工具包
 * SpoofWeb: <https://github.com/5icorgi/SpoofWeb> ⭐ 143 | 🐛 0 | 📅 2020-06-06 部署钓鱼网站
 
 ### 移动端 *Mobile*
@@ -680,18 +680,18 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 基础漏洞 *Basic Vulnerabilities*
 
-* DVWA: <https://github.com/digininja/DVWA> ⭐ 13,786 | 🐛 7 | 🌐 PHP | 📅 2026-10-07
-* WebGoat: <https://github.com/WebGoat/WebGoat> ⭐ 9,397 | 🐛 32 | 🌐 JavaScript | 📅 2026-10-07
-* Sqli-labs: <https://github.com/Audi-1/sqli-labs> ⭐ 5,847 | 🐛 33 | 🌐 PHP | 📅 2023-12-11
+* DVWA: <https://github.com/digininja/DVWA> ⭐ 13,799 | 🐛 7 | 🌐 PHP | 📅 2026-10-07
+* WebGoat: <https://github.com/WebGoat/WebGoat> ⭐ 9,397 | 🐛 33 | 🌐 JavaScript | 📅 2026-10-07
+* Sqli-labs: <https://github.com/Audi-1/sqli-labs> ⭐ 5,849 | 🐛 33 | 🌐 PHP | 📅 2023-12-11
 * Upload-labs: <https://github.com/c0ny1/upload-labs> ⭐ 4,201 | 🐛 26 | 🌐 PHP | 📅 2023-06-26
-* encrypt-labs: <https://github.com/SwagXz/encrypt-labs> ⭐ 577 | 🐛 2 | 🌐 PHP | 📅 2025-06-17 AES/DES/RSA
+* encrypt-labs: <https://github.com/SwagXz/encrypt-labs> ⭐ 576 | 🐛 2 | 🌐 PHP | 📅 2025-06-17 AES/DES/RSA
 * Xss-labs: <https://github.com/do0dl3/xss-labs> ⭐ 343 | 🐛 1 | 📅 2024-03-14
 
 #### 综合漏洞 *Comprehensive Vulnerabilities*
 
-* Vulfocus: <https://github.com/fofapro/vulfocus> ⭐ 3,505 | 🐛 74 | 🌐 Vue | 📅 2025-09-09
+* Vulfocus: <https://github.com/fofapro/vulfocus> ⭐ 3,504 | 🐛 74 | 🌐 Vue | 📅 2025-09-09
 * Vulstudy: <https://github.com/c0ny1/vulstudy> ⭐ 2,458 | 🐛 19 | 🌐 Shell | 📅 2020-03-25 基于 Docker 的 17 个漏洞平台
-* FastJsonParty: <https://github.com/lemono0/FastJsonParty> ⭐ 1,247 | 🐛 4 | 🌐 Python | 📅 2024-07-12
+* FastJsonParty: <https://github.com/lemono0/FastJsonParty> ⭐ 1,248 | 🐛 4 | 🌐 Python | 📅 2024-07-12
 * Vulhub: <https://vulhub.org/>
 * PortSwigger Web Security Academy: <https://portswigger.net/web-security>
 * OWASP Top10: <https://owasp.org/www-project-juice-shop/>
@@ -702,18 +702,18 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 域环境 *Vulnerable Active Directory Environment*
 
-* Game of active directory: <https://github.com/Orange-Cyberdefense/GOAD> ⭐ 8,446 | 🐛 152 | 🌐 PowerShell | 📅 2026-03-12
-* BadBlood: <https://github.com/davidprowe/BadBlood> ⭐ 2,270 | 🐛 8 | 🌐 PowerShell | 📅 2023-06-07 创建你自己的示例 Active Directory 环境
+* Game of active directory: <https://github.com/Orange-Cyberdefense/GOAD> ⭐ 8,449 | 🐛 152 | 🌐 PowerShell | 📅 2026-03-12
+* BadBlood: <https://github.com/davidprowe/BadBlood> ⭐ 2,271 | 🐛 8 | 🌐 PowerShell | 📅 2023-06-07 创建你自己的示例 Active Directory 环境
 
 #### 云环境 *Vulnerable Cloud Environments*
 
 * Kubernetes Goat: <https://github.com/madhuakula/kubernetes-goat> ⭐ 5,906 | 🐛 28 | 🌐 HTML | 📅 2026-04-16
 * CloudGoat: <https://github.com/RhinoSecurityLabs/cloudgoat> ⭐ 3,751 | 🐛 20 | 🌐 Python | 📅 2026-10-06
-* Awesome-CloudSec-Labs: <https://github.com/iknowjason/Awesome-CloudSec-Labs> ⭐ 2,200 | 🐛 5 | 📅 2025-10-01
+* Awesome-CloudSec-Labs: <https://github.com/iknowjason/Awesome-CloudSec-Labs> ⭐ 2,201 | 🐛 5 | 📅 2025-10-01
 * AWSGoat: <https://github.com/ine-labs/AWSGoat> ⭐ 2,052 | 🐛 12 | 🌐 PHP | 📅 2025-05-20
 * Metarget: <https://github.com/Metarget/metarget> ⭐ 1,422 | 🐛 44 | 🌐 Python | 📅 2026-07-22
-* badPods: <https://github.com/BishopFox/badPods> ⭐ 712 | 🐛 0 | 🌐 Shell | 📅 2025-12-30
-* TerraformGoat: <https://github.com/HXSecurity/TerraformGoat> ⭐ 643 | 🐛 8 | 🌐 HCL | 📅 2022-11-30
+* badPods: <https://github.com/BishopFox/badPods> ⭐ 713 | 🐛 0 | 🌐 Shell | 📅 2025-12-30
+* TerraformGoat: <https://github.com/HXSecurity/TerraformGoat> ⭐ 643 | 🐛 7 | 🌐 HCL | 📅 2022-11-30
 * K8s Lan Party: <https://www.k8slanparty.com/>
 * Attack Defense: <https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3>
 
@@ -723,12 +723,12 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### PoC/ExP
 
-* <https://github.com/trickest/cve> ⭐ 8,124 | 🐛 21 | 🌐 HTML | 📅 2026-10-07
-* <https://github.com/nomi-sec/PoC-in-GitHub> ⭐ 8,105 | 🐛 17 | 📅 2026-10-08
-* <https://github.com/Mr-xn/Penetration_Testing_POC> ⭐ 7,505 | 🐛 1 | 🌐 HTML | 📅 2026-10-06
+* <https://github.com/trickest/cve> ⭐ 8,125 | 🐛 21 | 🌐 HTML | 📅 2026-10-08
+* <https://github.com/nomi-sec/PoC-in-GitHub> ⭐ 8,104 | 🐛 17 | 📅 2026-10-09
+* <https://github.com/Mr-xn/Penetration_Testing_POC> ⭐ 7,503 | 🐛 1 | 🌐 HTML | 📅 2026-10-09
 * <https://github.com/coffeehb/Some-PoC-oR-ExP> ⭐ 2,501 | 🐛 2 | 🌐 Python | 📅 2025-06-24
-* <https://github.com/helloexp/0day> ⭐ 2,367 | 🐛 5 | 🌐 C | 📅 2023-09-12
-* <https://github.com/ycdxsb/PocOrExp_in_Github> ⭐ 1,215 | 🐛 1 | 🌐 Python | 📅 2026-10-08
+* <https://github.com/helloexp/0day> ⭐ 2,366 | 🐛 5 | 🌐 C | 📅 2023-09-12
+* <https://github.com/ycdxsb/PocOrExp_in_Github> ⭐ 1,215 | 🐛 1 | 🌐 Python | 📅 2026-10-09
 * <https://github.com/DawnFlame/POChouse> ⭐ 1,107 | 🐛 1 | 🌐 Python | 📅 2022-11-11
 * <https://github.com/lal0ne/vulnerability> ⭐ 970 | 🐛 1 | 🌐 Go | 📅 2025-07-27
 * <https://github.com/luck-ying/Library-POC> ⭐ 881 | 🐛 0 | 🌐 Python | 📅 2024-04-12
@@ -738,7 +738,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### PoC 模板 *PoC Templates*
 
-* <https://github.com/projectdiscovery/nuclei-templates/> ⭐ 13,065 | 🐛 113 | 🌐 JavaScript | 📅 2026-10-07 offline
+* <https://github.com/projectdiscovery/nuclei-templates/> ⭐ 13,071 | 🐛 115 | 🌐 JavaScript | 📅 2026-10-08 offline
 * <https://github.com/zeoxisca/gamma-gui> ⭐ 108 | 🐛 4 | 🌐 JavaScript | 📅 2023-03-17 online
 * <https://poc.xray.cool/>
 
@@ -746,8 +746,8 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 ### 综合工具 *Nice Tools*
 
-* <https://github.com/projectdiscovery/nuclei> ⭐ 31,807 | 🐛 140 | 🌐 Go | 📅 2026-10-07
-* <https://github.com/chaitin/xray> ⭐ 11,753 | 🐛 70 | 🌐 Vue | 📅 2024-10-29
+* <https://github.com/projectdiscovery/nuclei> ⭐ 31,833 | 🐛 135 | 🌐 Go | 📅 2026-10-08
+* <https://github.com/chaitin/xray> ⭐ 11,752 | 🐛 70 | 🌐 Vue | 📅 2024-10-29
 * <https://github.com/zan8in/afrog> ⭐ 4,430 | 🐛 110 | 🌐 Go | 📅 2026-10-08
 * <https://github.com/zhzyker/vulmap> ⭐ 3,518 | 🐛 32 | 🌐 Python | 📅 2023-04-26
 * <https://github.com/chaitin/xpoc> ⭐ 1,187 | 🐛 35 | 📅 2024-07-19
@@ -767,7 +767,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 #### Java
 
 * <https://github.com/frohoff/ysoserial> ⭐ 9,080 | 🐛 47 | 🌐 Java | 📅 2025-12-04
-* <https://github.com/mbechler/marshalsec> ⭐ 3,717 | 🐛 5 | 🌐 Java | 📅 2025-01-09
+* <https://github.com/mbechler/marshalsec> ⭐ 3,718 | 🐛 5 | 🌐 Java | 📅 2025-01-09
 * <https://github.com/welk1n/JNDI-Injection-Exploit> ⭐ 2,834 | 🐛 10 | 🌐 Java | 📅 2023-03-22
 * <https://github.com/Java-Chains/web-chains> ⭐ 2,171 | 🐛 7 | 🌐 Shell | 📅 2026-08-22
 * <https://github.com/qi4L/JYso> ⭐ 1,757 | 🐛 0 | 🌐 Java | 📅 2026-06-14
@@ -781,29 +781,29 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### PHP
 
-* <https://github.com/ambionics/phpggc> ⭐ 3,895 | 🐛 22 | 🌐 PHP | 📅 2025-09-29 PHP 反序列化漏洞利用载荷
+* <https://github.com/ambionics/phpggc> ⭐ 3,896 | 🐛 22 | 🌐 PHP | 📅 2025-09-29 PHP 反序列化漏洞利用载荷
 
 ### 数据库 *Database*
 
 #### Redis
 
-* <https://github.com/qishibo/AnotherRedisDesktopManager> ⭐ 34,786 | 🐛 164 | 🌐 JavaScript | 📅 2026-08-20
+* <https://github.com/qishibo/AnotherRedisDesktopManager> ⭐ 34,792 | 🐛 164 | 🌐 JavaScript | 📅 2026-08-20
 * <https://github.com/cinience/RedisStudio> ⭐ 1,544 | 🐛 29 | 🌐 C++ | 📅 2025-07-01
-* <https://github.com/n0b0dyCN/redis-rogue-server> ⭐ 1,170 | 🐛 6 | 🌐 C | 📅 2023-09-24
+* <https://github.com/n0b0dyCN/redis-rogue-server> ⭐ 1,171 | 🐛 6 | 🌐 C | 📅 2023-09-24
 * <https://github.com/Ridter/redis-rce> ⭐ 979 | 🐛 2 | 🌐 Python | 📅 2021-11-30
-* <https://github.com/yuyan-sec/RedisEXP> ⭐ 939 | 🐛 0 | 🌐 Go | 📅 2025-01-26
+* <https://github.com/yuyan-sec/RedisEXP> ⭐ 940 | 🐛 0 | 🌐 Go | 📅 2025-01-26
 * <https://github.com/r35tart/RedisWriteFile> ⭐ 716 | 🐛 3 | 🌐 Python | 📅 2020-05-25
 
 #### MySQL
 
-* <https://github.com/SafeGroceryStore/MDUT> ⭐ 2,275 | 🐛 2 | 📅 2026-07-23 多数据库利用工具
+* <https://github.com/SafeGroceryStore/MDUT> ⭐ 2,276 | 🐛 2 | 📅 2026-07-23 多数据库利用工具
 * <https://github.com/fnmsd/MySQL_Fake_Server> ⭐ 1,376 | 🐛 10 | 🌐 Python | 📅 2021-11-18
 * <https://github.com/4ra1n/mysql-fake-server> ⚠️ Archived
 * <https://github.com/dushixiang/evil-mysql-server> ⭐ 101 | 🐛 0 | 🌐 Go | 📅 2022-10-23
 
 #### Oracle
 
-* odat: <https://github.com/quentinhardy/odat> ⭐ 1,780 | 🐛 9 | 🌐 Python | 📅 2026-03-31 远程代码执行
+* odat: <https://github.com/quentinhardy/odat> ⭐ 1,779 | 🐛 9 | 🌐 Python | 📅 2026-03-31 远程代码执行
 * sqlplus: <https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html> 以 sysdba 身份执行
 
 #### MSSQL
@@ -813,10 +813,10 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 ### 信息泄露 *Information Disclosure*
 
-* gitleaks: <https://github.com/gitleaks/gitleaks> ⭐ 29,784 | 🐛 493 | 🌐 Go | 📅 2026-09-30
-* trufflehog: <https://github.com/trufflesecurity/trufflehog> ⭐ 28,332 | 🐛 562 | 🌐 Go | 📅 2026-10-07 发现、验证并分析泄露的凭据
+* gitleaks: <https://github.com/gitleaks/gitleaks> ⭐ 29,797 | 🐛 493 | 🌐 Go | 📅 2026-09-30
+* trufflehog: <https://github.com/trufflesecurity/trufflehog> ⭐ 28,369 | 🐛 560 | 🌐 Go | 📅 2026-10-08 发现、验证并分析泄露的凭据
 * git-dumper: <https://github.com/arthaud/git-dumper> ⭐ 2,679 | 🐛 10 | 🌐 Python | 📅 2026-09-06
-* Hawkeye: <https://github.com/0xbug/Hawkeye> ⭐ 2,037 | 🐛 58 | 🌐 Vue | 📅 2022-05-21 GitHub 敏感信息泄露监控爬虫
+* Hawkeye: <https://github.com/0xbug/Hawkeye> ⭐ 2,035 | 🐛 58 | 🌐 Vue | 📅 2022-05-21 GitHub 敏感信息泄露监控爬虫
 * dvcs-ripper: <https://github.com/kost/dvcs-ripper> ⭐ 1,788 | 🐛 11 | 🌐 Perl | 📅 2024-07-19 .svn、.hg、.cvs 信息泄露
 * ds\_store\_exp: <https://github.com/lijiejie/ds_store_exp> ⭐ 1,734 | 🐛 16 | 🌐 Python | 📅 2023-05-06 .DS\_Store 信息泄露
 
@@ -846,7 +846,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 **Fastjson**
 
-* fastjson-exp: <https://github.com/amaz1ngday/fastjson-exp> ⭐ 329 | 🐛 2 | 📅 2022-03-15
+* fastjson-exp: <https://github.com/amaz1ngday/fastjson-exp> ⭐ 330 | 🐛 2 | 📅 2022-03-15
 
 **GitLab**
 
@@ -854,7 +854,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 **Nacos**
 
-* NacosRce: <https://github.com/c0olw/NacosRce/> ⭐ 854 | 🐛 13 | 🌐 Java | 📅 2023-07-07
+* NacosRce: <https://github.com/c0olw/NacosRce/> ⭐ 855 | 🐛 13 | 🌐 Java | 📅 2023-07-07
 * nacosleak: <https://github.com/a1phaboy/nacosleak> ⭐ 117 | 🐛 4 | 🌐 Go | 📅 2024-06-28
 * nacosScan: <https://github.com/Whoopsunix/nacosScan> ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2023-08-09
 * NacosExploitGUI: <https://github.com/charonlight/NacosExploitGUI>
@@ -872,7 +872,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 **Shiro**
 
 * ShiroExploit: <https://github.com/feihong-cs/ShiroExploit-Deprecated> ⭐ 1,957 | 🐛 17 | 🌐 Java | 📅 2021-06-04
-* shiro\_rce\_tool: <https://github.com/wyzxxz/shiro_rce_tool> ⭐ 1,600 | 🐛 22 | 📅 2024-05-21
+* shiro\_rce\_tool: <https://github.com/wyzxxz/shiro_rce_tool> ⭐ 1,599 | 🐛 22 | 📅 2024-05-21
 * ShiroExp: <https://github.com/safe6Sec/ShiroExp> ⭐ 654 | 🐛 10 | 🌐 Java | 📅 2023-04-15
 * shiro\_key: <https://github.com/yanm1e/shiro_key> ⭐ 183 | 🐛 0 | 📅 2022-03-20 1000+ key
 * Shiro rememberMe Decrypt: <https://vulsee.com/tools/shiroDe/shiroDecrypt.html>
@@ -905,10 +905,10 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 **Weblogic**
 
-* CVE-2020-14882: <https://github.com/zhzyker/exphub/blob/master/weblogic/cve-2020-14882_rce.py> ⭐ 4,294 | 🐛 3 | 🌐 Python | 📅 2021-04-04
+* CVE-2020-14882: <https://github.com/zhzyker/exphub/blob/master/weblogic/cve-2020-14882_rce.py> ⭐ 4,291 | 🐛 3 | 🌐 Python | 📅 2021-04-04
 * WeblogicScan: <https://github.com/rabbitmask/WeblogicScan> ⭐ 2,258 | 🐛 9 | 🌐 Python | 📅 2023-05-22
 * weblogicScanner: <https://github.com/0xn0ne/weblogicScanner> ⭐ 2,076 | 🐛 4 | 🌐 Python | 📅 2023-11-24
-* WeblogicTool: <https://github.com/KimJun1010/WeblogicTool> ⭐ 1,803 | 🐛 4 | 📅 2023-11-01
+* WeblogicTool: <https://github.com/KimJun1010/WeblogicTool> ⭐ 1,804 | 🐛 4 | 📅 2023-11-01
 * WeblogicScan: <https://github.com/dr0op/WeblogicScan> ⭐ 962 | 🐛 5 | 🌐 Python | 📅 2024-06-16
 * weblogic-framework: <https://github.com/sv3nbeast/weblogic-framework> ⭐ 44 | 🐛 1 | 📅 2021-12-09
 
@@ -918,7 +918,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 **vCenter**
 
-* VcenterKiller: <https://github.com/Schira4396/VcenterKiller> ⭐ 1,482 | 🐛 4 | 🌐 Go | 📅 2024-04-25
+* VcenterKiller: <https://github.com/Schira4396/VcenterKiller> ⭐ 1,483 | 🐛 4 | 🌐 Go | 📅 2024-04-25
 * VcenterKit: <https://github.com/W01fh4cker/VcenterKit> ⭐ 1,276 | 🐛 0 | 🌐 Python | 📅 2025-10-24
 * vcenter\_saml\_login: <https://github.com/horizon3ai/vcenter_saml_login> ⭐ 529 | 🐛 13 | 🌐 Python | 📅 2023-09-01 提取身份提供商（IdP）证书
 
@@ -931,18 +931,18 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 ### 综合工具 *Nice Tools*
 
-* Yakit: <https://github.com/yaklang/yakit> ⭐ 7,791 | 🐛 131 | 🌐 TypeScript | 📅 2026-09-30
+* Yakit: <https://github.com/yaklang/yakit> ⭐ 7,794 | 🐛 132 | 🌐 TypeScript | 📅 2026-10-08
 * Burpsuite: <https://portswigger.net/burp>
 
 ### 渗透插件 *Extensions*
 
 #### Chrome
 
-* immersive-translate: <https://github.com/immersive-translate/immersive-translate/> ⭐ 19,220 | 🐛 385 | 📅 2026-09-30 翻译工具
-* ZeroOmega: <https://github.com/zero-peak/ZeroOmega> ⭐ 7,965 | 🐛 255 | 🌐 CoffeeScript | 📅 2026-09-09 适配 manifest v3 的 proxy switchyOmega
+* immersive-translate: <https://github.com/immersive-translate/immersive-translate/> ⭐ 19,266 | 🐛 379 | 📅 2026-09-30 翻译工具
+* ZeroOmega: <https://github.com/zero-peak/ZeroOmega> ⭐ 7,972 | 🐛 256 | 🌐 CoffeeScript | 📅 2026-09-09 适配 manifest v3 的 proxy switchyOmega
 * json-formatter: <https://github.com/callumlocke/json-formatter> ⭐ 4,134 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-04
-* Cookie-Editor: <https://github.com/Moustachauve/cookie-editor> ⭐ 1,727 | 🐛 71 | 🌐 JavaScript | 📅 2026-10-03
-* markdown-viewer: <https://github.com/simov/markdown-viewer> ⭐ 1,702 | 🐛 103 | 🌐 JavaScript | 📅 2025-12-29
+* Cookie-Editor: <https://github.com/Moustachauve/cookie-editor> ⭐ 1,729 | 🐛 71 | 🌐 JavaScript | 📅 2026-10-03
+* markdown-viewer: <https://github.com/simov/markdown-viewer> ⭐ 1,702 | 🐛 105 | 🌐 JavaScript | 📅 2025-12-29
 * Heimdallr: <https://github.com/Ghr07h/Heimdallr> ⭐ 1,683 | 🐛 4 | 🌐 JavaScript | 📅 2023-01-19 蜜罐检测工具
 * anti-honeypot:<https://github.com/cnrstar/anti-honeypot> ⭐ 890 | 🐛 5 | 🌐 JavaScript | 📅 2024-08-05 蜜罐检测工具
 * Hack Bar: <https://github.com/0140454/hackbar> ⭐ 585 | 🐛 1 | 🌐 Vue | 📅 2026-01-22
@@ -955,11 +955,11 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### Burp Suite
 
-* HaE: <https://github.com/gh0stkey/HaE> ⭐ 4,396 | 🐛 0 | 📅 2026-09-20 高亮和提取工具
-* domain hunter: <https://github.com/bit4woo/domain_hunter_pro> ⭐ 2,151 | 🐛 14 | 🌐 Java | 📅 2026-09-24 域名收集工具
+* HaE: <https://github.com/gh0stkey/HaE> ⭐ 4,397 | 🐛 0 | 📅 2026-09-20 高亮和提取工具
+* domain hunter: <https://github.com/bit4woo/domain_hunter_pro> ⭐ 2,151 | 🐛 14 | 🌐 Java | 📅 2026-10-08 域名收集工具
 * BurpCrypto: <https://github.com/whwlsfb/BurpCrypto> ⭐ 1,653 | 🐛 15 | 🌐 Java | 📅 2023-08-04 支持 AES/RSA/DES/ExecJs 加密解密
 * autoDecoder: <https://github.com/f0ng/autoDecoder> ⭐ 1,431 | 🐛 8 | 🌐 Java | 📅 2026-04-14 加解密
-* RouteVulScan: <https://github.com/F6JO/RouteVulScan> ⭐ 1,333 | 🐛 11 | 🌐 Java | 📅 2026-07-10 路由漏洞扫描工具
+* RouteVulScan: <https://github.com/F6JO/RouteVulScan> ⭐ 1,335 | 🐛 11 | 🌐 Java | 📅 2026-07-10 路由漏洞扫描工具
 * Log4j2Scan: <https://github.com/whwlsfb/Log4j2Scan> ⭐ 833 | 🐛 12 | 🌐 Java | 📅 2023-08-04 Log4j 漏洞扫描工具
 * BurpAppletPentester: <https://github.com/mrknow001/BurpAppletPentester> ⭐ 334 | 🐛 0 | 🌐 Java | 📅 2023-05-08 sessionkey 解密工具
 
@@ -971,13 +971,13 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 工具集 *Open-Source Toolkit*
 
-* <https://github.com/knownsec/404StarLink> ⭐ 11,351 | 🐛 5 | 📅 2026-07-31
+* <https://github.com/knownsec/404StarLink> ⭐ 11,361 | 🐛 5 | 📅 2026-07-31
 * <https://forum.ywhack.com/bountytips.php?tools>
 * <https://pentest-tools.com/>
 
 #### 带外通道 *DNSLog*
 
-* DNSLog-GO: <https://github.com/lanyi1998/DNSlog-GO> ⭐ 1,305 | 🐛 0 | 🌐 Go | 📅 2026-06-26
+* DNSLog-GO: <https://github.com/lanyi1998/DNSlog-GO> ⭐ 1,306 | 🐛 0 | 🌐 Go | 📅 2026-06-26
 * Alphalog: dns/http/rmi/ldap <https://github.com/AlphabugX/Alphalog> ⭐ 467 | 🐛 4 | 🌐 Go | 📅 2025-08-20
 * dig.pm: <https://dig.pm/>
 * ceye.io: <http://ceye.io/>
@@ -986,18 +986,18 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 终端优化 *Command Line*
 
-* <https://github.com/ohmyzsh/ohmyzsh> ⭐ 190,220 | 🐛 306 | 🌐 Shell | 📅 2026-10-06 zsh 命令行增强工具
-* <https://github.com/jlevy/the-art-of-command-line> ⭐ 162,589 | 🐛 256 | 📅 2024-06-25
-* <https://github.com/Eugeny/tabby> ⭐ 74,857 | 🐛 2,823 | 🌐 TypeScript | 📅 2026-10-06 适用于 Windows 的终端工具
-* <https://github.com/BurntSushi/ripgrep> ⭐ 68,906 | 🐛 202 | 🌐 Rust | 📅 2026-08-04 面向行的搜索工具（速度更快）
-* <https://github.com/warpdotdev/Warp> ⭐ 65,397 | 🐛 5,363 | 🌐 Rust | 📅 2026-10-08 适用于 Mac 的终端工具
-* <https://github.com/zellij-org/zellij> ⭐ 35,667 | 🐛 1,925 | 🌐 Rust | 📅 2026-10-07 终端复用器
-* <https://github.com/chrisant996/clink> ⭐ 5,526 | 🐛 2 | 🌐 C++ | 📅 2026-10-07 cmd.exe 命令行增强工具
+* <https://github.com/ohmyzsh/ohmyzsh> ⭐ 190,040 | 🐛 303 | 🌐 Shell | 📅 2026-10-09 zsh 命令行增强工具
+* <https://github.com/jlevy/the-art-of-command-line> ⭐ 162,393 | 🐛 256 | 📅 2024-06-25
+* <https://github.com/Eugeny/tabby> ⭐ 74,871 | 🐛 2,825 | 🌐 TypeScript | 📅 2026-10-08 适用于 Windows 的终端工具
+* <https://github.com/BurntSushi/ripgrep> ⭐ 68,935 | 🐛 202 | 🌐 Rust | 📅 2026-08-04 面向行的搜索工具（速度更快）
+* <https://github.com/warpdotdev/Warp> ⭐ 65,398 | 🐛 5,369 | 🌐 Rust | 📅 2026-10-09 适用于 Mac 的终端工具
+* <https://github.com/zellij-org/zellij> ⭐ 35,683 | 🐛 1,925 | 🌐 Rust | 📅 2026-10-08 终端复用器
+* <https://github.com/chrisant996/clink> ⭐ 5,529 | 🐛 2 | 🌐 C++ | 📅 2026-10-08 cmd.exe 命令行增强工具
 * <https://github.com/hanslub42/rlwrap> ⭐ 3,150 | 🐛 21 | 🌐 C | 📅 2026-05-24 readline 包装器
 * <https://github.com/tomnomnom/anew> ⭐ 1,659 | 🐛 8 | 🌐 Go | 📅 2024-01-12 向文件添加新行并跳过重复项的工具
 * <https://github.com/tmux> 终端复用器
 * Linux command line:
-  * <https://github.com/jaywcjlove/linux-command> ⭐ 37,083 | 🐛 84 | 🌐 Markdown | 📅 2026-09-06 在线查询工具
+  * <https://github.com/jaywcjlove/linux-command> ⭐ 37,089 | 🐛 84 | 🌐 Markdown | 📅 2026-09-06 在线查询工具
   * <https://github.com/chenjiandongx/how> ⭐ 128 | 🐛 1 | 🌐 Python | 📅 2020-05-10 python 版本
   * <https://github.com/chenjiandongx/pls> ⭐ 84 | 🐛 3 | 🌐 Go | 📅 2021-06-16 go 版本
 * <https://explainshell.com/> 解释 shell 命令含义
@@ -1010,7 +1010,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 生成器 *Generator*
 
-* reverse-shell-generator: <https://github.com/0dayCTF/reverse-shell-generator> ⭐ 4,076 | 🐛 25 | 🌐 JavaScript | 📅 2026-04-27
+* reverse-shell-generator: <https://github.com/0dayCTF/reverse-shell-generator> ⭐ 4,075 | 🐛 25 | 🌐 JavaScript | 📅 2026-04-27
 * File-Download-Generator: <https://github.com/r0eXpeR/File-Download-Generator> ⭐ 32 | 🐛 0 | 🌐 HTML | 📅 2021-03-30
 * revshells: <https://www.revshells.com/>
 * reverse-shell: <https://forum.ywhack.com/reverse-shell/>
@@ -1018,16 +1018,16 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 ### SQL 注入 *SQL Injection*
 
-* <https://github.com/sqlmapproject/sqlmap> ⭐ 38,620 | 🐛 31 | 🌐 Python | 📅 2026-10-05
+* <https://github.com/sqlmapproject/sqlmap> ⭐ 38,637 | 🐛 31 | 🌐 Python | 📅 2026-10-05
 * <https://github.com/payloadbox/sql-injection-payload-list>
 
 ### 访问控制 *Access Control*
 
 #### 403 绕过 *Bypass 40X errors*
 
-* <https://github.com/lobuhi/byp4xx> ⭐ 1,895 | 🐛 6 | 🌐 Go | 📅 2023-07-03
+* <https://github.com/lobuhi/byp4xx> ⭐ 1,896 | 🐛 6 | 🌐 Go | 📅 2023-07-03
 * <https://github.com/devploit/nomore403> ⭐ 1,892 | 🐛 4 | 🌐 Go | 📅 2026-06-21
-* <https://github.com/Dheerajmadhukar/4-ZERO-3> ⭐ 1,678 | 🐛 11 | 🌐 Shell | 📅 2022-06-06
+* <https://github.com/Dheerajmadhukar/4-ZERO-3> ⭐ 1,679 | 🐛 11 | 🌐 Shell | 📅 2022-06-06
 * <https://github.com/yunemse48/403bypasser> ⭐ 960 | 🐛 17 | 🌐 Python | 📅 2026-01-13
 
 ### 跨站脚本 *XSS*
@@ -1050,15 +1050,15 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 小程序 *Mini Program*
 
-* <https://github.com/wux1an/wxapkg> ⭐ 4,218 | 🐛 14 | 🌐 Vue | 📅 2026-04-28
+* <https://github.com/wux1an/wxapkg> ⭐ 4,224 | 🐛 14 | 🌐 Vue | 📅 2026-04-28
 * ~~\[wxappUnpacker: <https://github.com/xuedingmiaojun/wxappUnpacker> ⭐ 2,426 | 🐛 39 | 📅 2023-04-08]~~
 * <https://github.com/eeeeeeeeee-code/e0e1-wx> ⭐ 2,242 | 🐛 11 | 🌐 Python | 📅 2026-05-26
 * <https://github.com/Cherrison/CrackMinApp> ⭐ 1,342 | 🐛 25 | 🌐 JavaScript | 📅 2020-04-21
-* <https://github.com/mrknow001/API-Explorer> ⭐ 801 | 🐛 6 | 🌐 Python | 📅 2024-10-15 ak/sk 获取工具
+* <https://github.com/mrknow001/API-Explorer> ⭐ 802 | 🐛 6 | 🌐 Python | 📅 2024-10-15 ak/sk 获取工具
 
 #### 应用程序 *APK*
 
-* <https://github.com/iBotPeaches/Apktool> ⭐ 25,758 | 🐛 78 | 🌐 Java | 📅 2026-10-07
+* <https://github.com/iBotPeaches/Apktool> ⭐ 25,765 | 🐛 78 | 🌐 Java | 📅 2026-10-09
 * <https://github.com/kelvinBen/AppInfoScanner> ⭐ 3,569 | 🐛 1 | 🌐 Python | 📅 2026-09-29
 
 #### SessionKey 解密 *SessionKey*
@@ -1067,7 +1067,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 ### 载荷与绕过 *Payload and Bypass*
 
-* PayloadsAllTheThings: <https://github.com/swisskyrepo/PayloadsAllTheThings> ⭐ 81,536 | 🐛 36 | 🌐 Python | 📅 2026-08-27
+* PayloadsAllTheThings: <https://github.com/swisskyrepo/PayloadsAllTheThings> ⭐ 81,559 | 🐛 36 | 🌐 Python | 📅 2026-08-27
 * CVE-2021-44228-PoC-log4j-bypass-words: <https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words> ⭐ 950 | 🐛 1 | 🌐 Java | 📅 2022-01-15
 * PHPFuck: <https://github.com/splitline/PHPFuck> ⭐ 439 | 🐛 4 | 🌐 Python | 📅 2021-02-05
 * IP to Decimal: <https://www.browserling.com/tools/ip-to-dec> IP 转十进制（127.0.0.1 >>> 2130706433）
@@ -1079,19 +1079,19 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 ### 基础设施 *Infrastructure*
 
-* rocketchat: <https://github.com/RocketChat/Rocket.Chat> ⭐ 46,224 | 🐛 4,195 | 🌐 TypeScript | 📅 2026-10-08
-* mattermost: <https://github.com/mattermost/mattermost> ⭐ 39,289 | 🐛 1,072 | 🌐 TypeScript | 📅 2026-10-07
-* cloudreve: <https://github.com/cloudreve/Cloudreve> ⭐ 28,800 | 🐛 144 | 🌐 Go | 📅 2026-09-21 支持多云的自建文件管理系统
-* codimd: <https://github.com/hackmdio/codimd> ⭐ 10,156 | 🐛 356 | 🌐 JavaScript | 📅 2025-10-02
-* hedgedoc: <https://github.com/hedgedoc/hedgedoc> ⭐ 7,466 | 🐛 276 | 🌐 TypeScript | 📅 2026-10-07
-* updog: <https://github.com/sc0tfree/updog> ⭐ 3,421 | 🐛 14 | 🌐 Python | 📅 2025-11-16 通过 HTTP/S 上传下载文件
+* rocketchat: <https://github.com/RocketChat/Rocket.Chat> ⭐ 46,232 | 🐛 4,216 | 🌐 TypeScript | 📅 2026-10-09
+* mattermost: <https://github.com/mattermost/mattermost> ⭐ 39,297 | 🐛 1,073 | 🌐 TypeScript | 📅 2026-10-08
+* cloudreve: <https://github.com/cloudreve/Cloudreve> ⭐ 28,810 | 🐛 144 | 🌐 Go | 📅 2026-09-21 支持多云的自建文件管理系统
+* codimd: <https://github.com/hackmdio/codimd> ⭐ 10,154 | 🐛 356 | 🌐 JavaScript | 📅 2025-10-02
+* hedgedoc: <https://github.com/hedgedoc/hedgedoc> ⭐ 7,469 | 🐛 276 | 🌐 TypeScript | 📅 2026-10-08
+* updog: <https://github.com/sc0tfree/updog> ⭐ 3,422 | 🐛 14 | 🌐 Python | 📅 2025-11-16 通过 HTTP/S 上传下载文件
 * f8x: <https://github.com/ffffffff0x/f8x> ⭐ 2,164 | 🐛 1 | 🌐 Shell | 📅 2026-07-25 红队/蓝队环境自动化部署工具
-* openvpn-install: <https://github.com/hwdsl2/openvpn-install> ⭐ 1,747 | 🐛 0 | 🌐 Shell | 📅 2026-09-29 OpenVPN 服务器安装脚本
+* openvpn-install: <https://github.com/hwdsl2/openvpn-install> ⭐ 1,746 | 🐛 0 | 🌐 Shell | 📅 2026-09-29 OpenVPN 服务器安装脚本
 
 ### 信息收集 *Reconnaissance*
 
 * netspy: <https://github.com/shmilylty/netspy> ⭐ 2,237 | 🐛 8 | 🌐 Go | 📅 2023-07-25 内网网段探测
-* smbmap: <https://github.com/ShawnDEvans/smbmap> ⭐ 2,084 | 🐛 34 | 🌐 Python | 📅 2026-01-06 SMB 枚举
+* smbmap: <https://github.com/ShawnDEvans/smbmap> ⭐ 2,085 | 🐛 34 | 🌐 Python | 📅 2026-01-06 SMB 枚举
 * SharpHostInfo: <https://github.com/shmilylty/SharpHostInfo> ⭐ 635 | 🐛 5 | 🌐 C# | 📅 2022-12-15
 * SharpHunter: <https://github.com/lintstar/SharpHunter> ⭐ 559 | 🐛 1 | 🌐 C# | 📅 2025-04-15 自动化主机信息搜集工具
 * SharpScan: <https://github.com/INotGreen/SharpScan> ⭐ 478 | 🐛 5 | 🌐 C# | 📅 2024-11-20
@@ -1100,8 +1100,8 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 凭证转储 *Credential Dumping*
 
-* regsecrets & dpapidump: <https://github.com/fortra/impacket/pull/1898> ⭐ 16,157 | 🐛 320 | 🌐 Python | 📅 2026-10-01 已在 Windows 11 和 Server 2022 测试无问题
-* LaZagne: <https://github.com/AlessandroZ/LaZagne> ⭐ 11,006 | 🐛 18 | 🌐 Python | 📅 2025-09-18
+* regsecrets & dpapidump: <https://github.com/fortra/impacket/pull/1898> ⭐ 16,159 | 🐛 323 | 🌐 Python | 📅 2026-10-01 已在 Windows 11 和 Server 2022 测试无问题
+* LaZagne: <https://github.com/AlessandroZ/LaZagne> ⭐ 11,007 | 🐛 18 | 🌐 Python | 📅 2025-09-18
 * pypykatz: <https://github.com/skelsec/pypykatz> ⭐ 3,363 | 🐛 53 | 🌐 Python | 📅 2026-04-09 纯 Python 实现的 mimikatz
 * lsassy: <https://github.com/login-securite/lsassy> ⭐ 2,214 | 🐛 2 | 🌐 Python | 📅 2026-09-09
 * SharpDPAPI: <https://github.com/GhostPack/SharpDPAPI> ⭐ 1,453 | 🐛 13 | 🌐 C# | 📅 2024-06-27
@@ -1109,15 +1109,15 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 * Pillager: <https://github.com/qwqdanchun/Pillager/> ⭐ 1,295 | 🐛 4 | 🌐 C# | 📅 2024-09-07
 * searchall: <https://github.com/Naturehi666/searchall> ⭐ 991 | 🐛 9 | 🌐 Go | 📅 2024-11-23
 * PPLdump: <https://github.com/itm4n/PPLdump> ⚠️ Archived 受保护进程 LSASS 读取
-* dploot: <https://github.com/zblurx/dploot> ⭐ 575 | 🐛 7 | 🌐 Python | 📅 2026-09-14 DPAPI
+* dploot: <https://github.com/zblurx/dploot> ⭐ 576 | 🐛 7 | 🌐 Python | 📅 2026-09-14 DPAPI
 * WirelessKeyView: <https://www.nirsoft.net/utils/wireless_key.html>
 * Windows credential manager: <https://www.nirsoft.net/utils/credentials_file_view.html>
 
 #### 本地枚举 *Local Enumeration*
 
-* HackBrowserData: <https://github.com/moonD4rk/HackBrowserData> ⭐ 14,590 | 🐛 32 | 🌐 Go | 📅 2026-09-25
-* firefox: <https://github.com/unode/firefox_decrypt> ⭐ 2,488 | 🐛 1 | 🌐 Python | 📅 2026-09-28
-* BrowserGhost: <https://github.com/QAX-A-Team/BrowserGhost> ⭐ 1,456 | 🐛 5 | 🌐 C# | 📅 2022-05-21
+* HackBrowserData: <https://github.com/moonD4rk/HackBrowserData> ⭐ 14,591 | 🐛 32 | 🌐 Go | 📅 2026-09-25
+* firefox: <https://github.com/unode/firefox_decrypt> ⭐ 2,489 | 🐛 1 | 🌐 Python | 📅 2026-09-28
+* BrowserGhost: <https://github.com/QAX-A-Team/BrowserGhost> ⭐ 1,455 | 🐛 5 | 🌐 C# | 📅 2022-05-21
 * sunflower: <https://github.com/wafinfo/Sunflower_get_Password> ⭐ 925 | 🐛 9 | 🌐 Python | 📅 2021-11-01
 * navicat: <https://github.com/HyperSine/how-does-navicat-encrypt-password> ⭐ 645 | 🐛 3 | 🌐 C | 📅 2026-03-02
 * mobaxterm: <https://github.com/HyperSine/how-does-MobaXterm-encrypt-password> ⭐ 351 | 🐛 6 | 🌐 Python | 📅 2022-10-12
@@ -1128,7 +1128,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 * chrome: <http://www.nirsoft.net/utils/chromepass.html>
 * foxmail: <https://securityxploded.com/foxmail-password-decryptor.php>
 * xshell:
-  * <https://github.com/JDArmy/SharpXDecrypt> ⭐ 950 | 🐛 4 | 🌐 C# | 📅 2023-06-08
+  * <https://github.com/JDArmy/SharpXDecrypt> ⭐ 949 | 🐛 4 | 🌐 C# | 📅 2023-06-08
   * <https://github.com/RowTeam/SharpDecryptPwd> ⭐ 835 | 🐛 3 | 🌐 C# | 📅 2022-03-04 本地解密
   * <https://github.com/HyperSine/how-does-Xmanager-encrypt-password> ⭐ 291 | 🐛 5 | 🌐 Python | 📅 2024-07-03 版本 < 7.0
 
@@ -1143,41 +1143,41 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 综合工具 *Nice Tools*
 
-* <https://github.com/rapid7/metasploit-framework> ⭐ 39,111 | 🐛 624 | 🌐 Ruby | 📅 2026-10-08
-* <https://github.com/fortra/impacket> ⭐ 16,157 | 🐛 320 | 🌐 Python | 📅 2026-10-01 👍
+* <https://github.com/rapid7/metasploit-framework> ⭐ 39,116 | 🐛 602 | 🌐 Ruby | 📅 2026-10-08
+* <https://github.com/fortra/impacket> ⭐ 16,159 | 🐛 323 | 🌐 Python | 📅 2026-10-01 👍
 * <https://github.com/PowerShellMafia/PowerSploit> ⚠️ Archived
 * <https://github.com/samratashok/nishang> ⭐ 10,136 | 🐛 22 | 🌐 PowerShell | 📅 2024-04-25 PowerShell 专用
 * <https://github.com/byt3bl33d3r/CrackMapExec> ⚠️ Archived 👍
-* <https://github.com/Pennyw0rth/NetExec> ⭐ 5,912 | 🐛 158 | 🌐 Python | 📅 2026-10-04
-* <https://github.com/k8gege/Ladon> ⭐ 5,332 | 🐛 44 | 🌐 C# | 📅 2025-03-24
-* <https://github.com/GhostPack/Rubeus> ⭐ 5,189 | 🐛 49 | 🌐 C# | 📅 2026-05-21
+* <https://github.com/Pennyw0rth/NetExec> ⭐ 5,917 | 🐛 159 | 🌐 Python | 📅 2026-10-04
+* <https://github.com/k8gege/Ladon> ⭐ 5,331 | 🐛 44 | 🌐 C# | 📅 2025-03-24
+* <https://github.com/GhostPack/Rubeus> ⭐ 5,191 | 🐛 49 | 🌐 C# | 📅 2026-05-21
 * <https://github.com/Kevin-Robertson/Powermad> ⭐ 1,505 | 🐛 7 | 🌐 PowerShell | 📅 2023-01-11
 * <https://github.com/XiaoliChan/wmiexec-Pro> ⭐ 1,299 | 🐛 1 | 🌐 Python | 📅 2026-08-28 基于 wmiexec.py 的免杀执行
-* <https://github.com/ghost-ng/slinger> ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2026-10-07 轻量级 impacket 命令行工具，单会话整合多种实用功能
+* <https://github.com/ghost-ng/slinger> ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2026-10-08 轻量级 impacket 命令行工具，单会话整合多种实用功能
 * <https://docs.microsoft.com/en-us/sysinternals/downloads/pstools>
 * Cobaltstrike Extensions:
   * Awesome CobaltStrike: <https://github.com/zer0yu/Awesome-CobaltStrike> ⭐ 4,455 | 🐛 0 | 📅 2023-09-20
-  * Erebus: <https://github.com/DeEpinGh0st/Erebus> ⭐ 1,572 | 🐛 9 | 🌐 PowerShell | 📅 2021-10-28
-  * pystinger: <https://github.com/FunnyWolf/pystinger> ⭐ 1,425 | 🐛 4 | 🌐 Python | 📅 2021-09-29
+  * Erebus: <https://github.com/DeEpinGh0st/Erebus> ⭐ 1,571 | 🐛 9 | 🌐 PowerShell | 📅 2021-10-28
+  * pystinger: <https://github.com/FunnyWolf/pystinger> ⭐ 1,424 | 🐛 4 | 🌐 Python | 📅 2021-09-29
   * LSTAR: <https://github.com/lintstar/LSTAR> ⭐ 1,267 | 🐛 5 | 🌐 PowerShell | 📅 2022-01-30
-  * ElevateKit: <https://github.com/rsmudge/ElevateKit> ⭐ 932 | 🐛 0 | 🌐 PowerShell | 📅 2020-06-22
+  * ElevateKit: <https://github.com/rsmudge/ElevateKit> ⭐ 931 | 🐛 0 | 🌐 PowerShell | 📅 2020-06-22
   * C2ReverseProxy: <https://github.com/Daybr4ak/C2ReverseProxy> ⭐ 492 | 🐛 1 | 🌐 Go | 📅 2023-04-26
 
 #### 二进制库 *Binaries and Libraries*
 
-* GTFOBins: <https://github.com/GTFOBins/GTFOBins.github.io> ⭐ 13,735 | 🐛 30 | 🌐 YAML | 📅 2026-05-27 Unix 二进制利用
+* GTFOBins: <https://github.com/GTFOBins/GTFOBins.github.io> ⭐ 13,740 | 🐛 30 | 🌐 YAML | 📅 2026-05-27 Unix 二进制利用
 * LOLBAS: <https://github.com/LOLBAS-Project/LOLBAS-Project.github.io> ⭐ 90 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-26 Windows 自带二进制与脚本
 
 ### 权限维持 *Persistence*
 
 #### 内存马 *MemShell*
 
-* <https://github.com/tennc/webshell> ⭐ 10,788 | 🐛 0 | 🌐 PHP | 📅 2024-12-24
-* <https://github.com/pen4uin/java-memshell-generator> ⭐ 2,228 | 🐛 12 | 🌐 Java | 📅 2025-08-21 👍
-* <https://github.com/ReaJason/MemShellParty> ⭐ 1,602 | 🐛 22 | 🌐 Java | 📅 2026-10-01
+* <https://github.com/tennc/webshell> ⭐ 10,787 | 🐛 0 | 🌐 PHP | 📅 2024-12-24
+* <https://github.com/pen4uin/java-memshell-generator> ⭐ 2,227 | 🐛 12 | 🌐 Java | 📅 2025-08-21 👍
+* <https://github.com/ReaJason/MemShellParty> ⭐ 1,603 | 🐛 22 | 🌐 Java | 📅 2026-10-01
 * <https://github.com/veo/wsMemShell> ⭐ 1,486 | 🐛 0 | 🌐 Java | 📅 2023-04-10
 * <https://github.com/ce-automne/TomcatMemShell> ⭐ 515 | 🐛 1 | 🌐 Java | 📅 2022-08-31
-* <https://github.com/BeichenDream/GodzillaMemoryShellProject> ⭐ 313 | 🐛 0 | 🌐 Java | 📅 2025-02-27
+* <https://github.com/BeichenDream/GodzillaMemoryShellProject> ⭐ 314 | 🐛 0 | 🌐 Java | 📅 2025-02-27
 * <https://github.com/novysodope/RMI_Inj_MemShell> ⭐ 252 | 🐛 3 | 🌐 Java | 📅 2023-07-12
 * <https://github.com/1ucky7/jmg-for-Godzilla> ⭐ 245 | 🐛 1 | 📅 2026-09-14
 * <https://github.com/X1r0z/Godzilla-Suo5MemShell>
@@ -1185,13 +1185,13 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 #### Webshell 管理 *Webshell Management*
 
 * <https://github.com/rebeyond/Behinder> ⭐ 6,203 | 🐛 179 | 📅 2023-08-24
-* <https://github.com/BeichenDream/Godzilla> ⭐ 4,467 | 🐛 47 | 📅 2024-07-17
+* <https://github.com/BeichenDream/Godzilla> ⭐ 4,468 | 🐛 47 | 📅 2024-07-17
 * <https://github.com/shack2/skyscorpion> ⭐ 385 | 🐛 2 | 📅 2021-03-22
 
 #### Webshell 免杀 *Webshell Bypass*
 
 * <https://github.com/AabyssZG/WebShell-Bypass-Guide> ⭐ 1,840 | 🐛 0 | 📅 2025-05-24
-* <https://github.com/cseroad/Webshell_Generate> ⭐ 1,323 | 🐛 5 | 📅 2026-01-08
+* <https://github.com/cseroad/Webshell_Generate> ⭐ 1,324 | 🐛 5 | 📅 2026-01-08
 * <http://bypass.tidesec.com/web/>
 
 #### 反弹 Shell 管理 *Reverse Shell Management*
@@ -1203,29 +1203,29 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### Linux 本地枚举 *Linux Local Enumeration*
 
-* <https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite> ⭐ 20,634 | 🐛 0 | 🌐 C# | 📅 2026-10-06
-* <https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh> ⭐ 20,634 | 🐛 0 | 🌐 C# | 📅 2026-10-06
-* <https://github.com/rebootuser/LinEnum> ⭐ 8,048 | 🐛 25 | 🌐 Shell | 📅 2023-09-06
+* <https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite> ⭐ 20,638 | 🐛 2 | 🌐 C# | 📅 2026-10-09
+* <https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh> ⭐ 20,638 | 🐛 2 | 🌐 C# | 📅 2026-10-09
+* <https://github.com/rebootuser/LinEnum> ⭐ 8,052 | 🐛 25 | 🌐 Shell | 📅 2023-09-06
 * <https://github.com/DominicBreuker/pspy> ⭐ 6,211 | 🐛 3 | 🌐 Go | 📅 2026-03-01 无 root 监控 Linux 进程
 * <https://github.com/mostaphabahadou/postenum> ⭐ 295 | 🐛 0 | 🌐 Shell | 📅 2026-01-05
 
 #### Windows 本地枚举 *Windows Local Enumeration*
 
-* <https://github.com/carlospolop/PEASS-ng/blob/master/winPEAS/winPEASbat/winPEAS.bat> ⭐ 20,634 | 🐛 0 | 🌐 C# | 📅 2026-10-06
+* <https://github.com/carlospolop/PEASS-ng/blob/master/winPEAS/winPEASbat/winPEAS.bat> ⭐ 20,638 | 🐛 2 | 🌐 C# | 📅 2026-10-09
 * <https://github.com/PowerShellMafia/PowerSploit/blob/dev/Recon/PowerView.ps1> ⚠️ Archived
 * <https://github.com/S3cur3Th1sSh1t/WinPwn> ⭐ 3,699 | 🐛 3 | 🌐 PowerShell | 📅 2025-08-28
-* <https://github.com/dafthack/MailSniper> ⭐ 3,280 | 🐛 21 | 🌐 PowerShell | 📅 2026-09-21
-* <https://github.com/Flangvik/SharpCollection> ⭐ 2,985 | 🐛 2 | 📅 2026-10-06
+* <https://github.com/dafthack/MailSniper> ⭐ 3,279 | 🐛 21 | 🌐 PowerShell | 📅 2026-09-21
+* <https://github.com/Flangvik/SharpCollection> ⭐ 2,987 | 🐛 2 | 📅 2026-10-06
 * <https://github.com/dafthack/DomainPasswordSpray> ⭐ 2,093 | 🐛 23 | 🌐 PowerShell | 📅 2024-07-11
 * <https://github.com/S3cur3Th1sSh1t/PowerSharpPack> ⭐ 1,709 | 🐛 0 | 🌐 PowerShell | 📅 2025-04-14
 
 #### Windows 提权 *Windows Exploits*
 
-* <https://github.com/peass-ng/PEASS-ng/blob/master/winPEAS/winPEASexe/README.md> ⭐ 20,634 | 🐛 0 | 🌐 C# | 📅 2026-10-06
-* <https://github.com/SecWiki/windows-kernel-exploits> ⭐ 8,755 | 🐛 10 | 🌐 C | 📅 2021-06-11
+* <https://github.com/peass-ng/PEASS-ng/blob/master/winPEAS/winPEASexe/README.md> ⭐ 20,638 | 🐛 2 | 🌐 C# | 📅 2026-10-09
+* <https://github.com/SecWiki/windows-kernel-exploits> ⭐ 8,754 | 🐛 10 | 🌐 C | 📅 2021-06-11
 * <https://github.com/bitsadmin/wesng> ⭐ 4,951 | 🐛 9 | 🌐 Python | 📅 2026-10-03
 * <https://github.com/AonCyberLabs/Windows-Exploit-Suggester> ⚠️ Archived
-* <https://github.com/itm4n/PrivescCheck> ⭐ 3,980 | 🐛 1 | 🌐 PowerShell | 📅 2026-10-07
+* <https://github.com/itm4n/PrivescCheck> ⭐ 3,983 | 🐛 1 | 🌐 PowerShell | 📅 2026-10-07
 * <https://github.com/gtworek/PSBits/blob/master/Misc/EnableSeBackupPrivilege.ps1> ⭐ 3,517 | 🐛 0 | 🌐 C | 📅 2026-08-13
 * <https://github.com/Ascotbe/Kernelhub> ⭐ 3,197 | 🐛 0 | 🌐 C | 📅 2023-02-15
 * <https://github.com/BeichenDream/BadPotato/> ⭐ 900 | 🐛 4 | 🌐 C# | 📅 2020-05-10
@@ -1235,29 +1235,29 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### Linux 提权 *Linux Exploits*
 
-* <https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS> ⭐ 20,634 | 🐛 0 | 🌐 C# | 📅 2026-10-06
+* <https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS> ⭐ 20,638 | 🐛 2 | 🌐 C# | 📅 2026-10-09
 * <https://github.com/liamg/traitor> ⭐ 7,160 | 🐛 22 | 🌐 Go | 📅 2024-03-12
 * <https://github.com/The-Z-Labs/linux-exploit-suggester> ⭐ 6,633 | 🐛 24 | 🌐 Shell | 📅 2026-03-20
 * <https://github.com/InteliSecureLabs/Linux_Exploit_Suggester> ⭐ 1,812 | 🐛 4 | 🌐 Perl | 📅 2014-05-19
 
 #### 数据库提权 *Database Exploits*
 
-* <https://github.com/Hel10-Web/Databasetools> ⭐ 862 | 🐛 12 | 🌐 Go | 📅 2023-08-30
+* <https://github.com/Hel10-Web/Databasetools> ⭐ 863 | 🐛 12 | 🌐 Go | 📅 2023-08-30
 
 ### 防御规避 *Defense Evasion*
 
 #### Linux 防御规避 *Linux Defense Evasion*
 
-* libprocesshider: <https://github.com/gianlucaborello/libprocesshider> ⭐ 1,135 | 🐛 11 | 🌐 C | 📅 2019-08-02 使用 ld 预加载隐藏 Linux 进程
+* libprocesshider: <https://github.com/gianlucaborello/libprocesshider> ⭐ 1,136 | 🐛 11 | 🌐 C | 📅 2019-08-02 使用 ld 预加载隐藏 Linux 进程
 * Linux Kernel Hacking: <https://github.com/xcellerator/linux_kernel_hacking> ⭐ 776 | 🐛 10 | 🌐 C | 📅 2024-04-10
 * tasklist /svc && ps -aux: <https://tasklist.ffffffff0x.com/>
 
 #### Windows 防御规避 *Windows Defense Evasion*
 
-* BypassAntiVirus: <https://github.com/TideSec/BypassAntiVirus> ⭐ 5,135 | 🐛 1 | 🌐 XSLT | 📅 2024-09-14
-* hoaxshell: <https://github.com/t3l3machus/hoaxshell> ⭐ 3,500 | 🐛 20 | 🌐 Python | 📅 2025-01-19
-* AV\_Evasion\_Tool: <https://github.com/1y0n/AV_Evasion_Tool> ⭐ 2,760 | 🐛 31 | 🌐 C# | 📅 2025-08-18
-* shellcodeloader: <https://github.com/knownsec/shellcodeloader> ⭐ 1,745 | 🐛 11 | 🌐 C++ | 📅 2020-12-11
+* BypassAntiVirus: <https://github.com/TideSec/BypassAntiVirus> ⭐ 5,134 | 🐛 1 | 🌐 XSLT | 📅 2024-09-14
+* hoaxshell: <https://github.com/t3l3machus/hoaxshell> ⭐ 3,501 | 🐛 20 | 🌐 Python | 📅 2025-01-19
+* AV\_Evasion\_Tool: <https://github.com/1y0n/AV_Evasion_Tool> ⭐ 2,759 | 🐛 31 | 🌐 C# | 📅 2025-08-18
+* shellcodeloader: <https://github.com/knownsec/shellcodeloader> ⭐ 1,743 | 🐛 11 | 🌐 C++ | 📅 2020-12-11
 * yetAnotherObfuscator: <https://github.com/0xb11a1/yetAnotherObfuscator> ⭐ 830 | 🐛 6 | 🌐 C# | 📅 2023-06-04
 * GolangBypassAV: <https://github.com/safe6Sec/GolangBypassAV> ⭐ 814 | 🐛 6 | 🌐 Go | 📅 2022-04-11
 * bypassAV: <https://github.com/pureqh/bypassAV> ⭐ 451 | 🐛 1 | 🌐 Python | 📅 2021-05-18
@@ -1268,27 +1268,27 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 代理客户端 *Proxy Client*
 
-* Proxychains: <https://github.com/haad/proxychains> ⭐ 7,964 | 🐛 18 | 🌐 C | 📅 2024-06-08
+* Proxychains: <https://github.com/haad/proxychains> ⭐ 7,966 | 🐛 18 | 🌐 C | 📅 2024-06-08
 * Proxifier: <https://www.proxifier.com/>
 
 #### 代理工具 *Proxy Tools*
 
-* frp: <https://github.com/fatedier/frp> ⭐ 109,772 | 🐛 47 | 🌐 Go | 📅 2026-09-15
-* nps: <https://github.com/ehang-io/nps> ⭐ 34,253 | 🐛 527 | 🌐 Go | 📅 2024-05-30
-* gost: <https://github.com/ginuerzh/gost> ⭐ 18,237 | 🐛 291 | 🌐 Go | 📅 2026-08-30
+* frp: <https://github.com/fatedier/frp> ⭐ 109,783 | 🐛 43 | 🌐 Go | 📅 2026-10-08
+* nps: <https://github.com/ehang-io/nps> ⭐ 34,252 | 🐛 527 | 🌐 Go | 📅 2024-05-30
+* gost: <https://github.com/ginuerzh/gost> ⭐ 18,236 | 🐛 291 | 🌐 Go | 📅 2026-08-30
 * Viper: <https://github.com/FunnyWolf/Viper> ⭐ 5,321 | 🐛 7 | 📅 2026-05-31
-* ligolo-ng: <https://github.com/nicocha30/ligolo-ng> ⭐ 5,058 | 🐛 18 | 🌐 Go | 📅 2026-09-26 TUN 接口
-* Neo-reGeorg: <https://github.com/L-codes/Neo-reGeorg> ⭐ 3,424 | 🐛 8 | 🌐 Python | 📅 2026-08-14
-* Stowaway: <https://github.com/ph4ntonn/Stowaway> ⭐ 3,423 | 🐛 6 | 🌐 Go | 📅 2026-03-03
-* reGeorg: <https://github.com/sensepost/reGeorg> ⭐ 3,183 | 🐛 20 | 🌐 Python | 📅 2025-03-06
-* suo5: <https://github.com/zema1/suo5> ⭐ 2,818 | 🐛 2 | 🌐 Go | 📅 2026-07-14
+* ligolo-ng: <https://github.com/nicocha30/ligolo-ng> ⭐ 5,062 | 🐛 18 | 🌐 Go | 📅 2026-09-26 TUN 接口
+* Neo-reGeorg: <https://github.com/L-codes/Neo-reGeorg> ⭐ 3,425 | 🐛 8 | 🌐 Python | 📅 2026-08-14
+* Stowaway: <https://github.com/ph4ntonn/Stowaway> ⭐ 3,422 | 🐛 6 | 🌐 Go | 📅 2026-03-03
+* reGeorg: <https://github.com/sensepost/reGeorg> ⭐ 3,182 | 🐛 20 | 🌐 Python | 📅 2025-03-06
+* suo5: <https://github.com/zema1/suo5> ⭐ 2,819 | 🐛 2 | 🌐 Go | 📅 2026-07-14
 * rakshasa: <https://github.com/Mob2003/rakshasa> ⭐ 1,055 | 🐛 7 | 🌐 Go | 📅 2023-04-23
 * frpModify: <https://github.com/uknowsec/frpModify> ⭐ 397 | 🐛 5 | 📅 2020-12-31
 
 #### DNS 隧道 *DNS Tunnel*
 
-* iodine: <https://github.com/yarrick/iodine> ⭐ 7,994 | 🐛 17 | 🌐 C | 📅 2026-10-06
-* dnscat2: <https://github.com/iagox86/dnscat2> ⭐ 3,977 | 🐛 98 | 🌐 PHP | 📅 2024-03-14
+* iodine: <https://github.com/yarrick/iodine> ⭐ 7,994 | 🐛 17 | 🌐 C | 📅 2026-10-09
+* dnscat2: <https://github.com/iagox86/dnscat2> ⭐ 3,978 | 🐛 98 | 🌐 PHP | 📅 2024-03-14
 * DNS-Shell: <https://github.com/sensepost/DNS-Shell> ⭐ 531 | 🐛 2 | 🌐 Python | 📅 2020-10-11
 
 #### ICMP 隧道 *ICMP Tunnel*
@@ -1312,17 +1312,17 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 * <https://github.com/wh0amitz/SharpADWS> ⭐ 605 | 🐛 2 | 🌐 C# | 📅 2024-03-19 基于 Active Directory Web Services (ADWS) 协议
 * <https://github.com/lzzbb/Adinfo> ⭐ 419 | 🐛 0 | 🌐 Go | 📅 2022-09-16
 * BloodHound:
-  * <https://github.com/SpecterOps/BloodHound-Legacy/blob/master/Collectors/SharpHound.ps1> ⭐ 10,609 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
-  * <https://github.com/SpecterOps/BloodHound> ⭐ 3,466 | 🐛 173 | 🌐 Go | 📅 2026-10-07
-  * <https://github.com/dirkjanm/BloodHound.py> ⭐ 2,444 | 🐛 34 | 🌐 Python | 📅 2025-10-24
+  * <https://github.com/SpecterOps/BloodHound-Legacy/blob/master/Collectors/SharpHound.ps1> ⭐ 10,610 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+  * <https://github.com/SpecterOps/BloodHound> ⭐ 3,467 | 🐛 155 | 🌐 Go | 📅 2026-10-09
+  * <https://github.com/dirkjanm/BloodHound.py> ⭐ 2,445 | 🐛 34 | 🌐 Python | 📅 2025-10-24
   * <https://github.com/AD-Security/AD_Miner> ⭐ 1,571 | 🐛 11 | 🌐 JavaScript | 📅 2026-03-18
   * <https://github.com/BloodHoundAD/SharpHound> ⭐ 1,361 | 🐛 38 | 🌐 C# | 📅 2026-10-01
   * <https://github.com/NH-RED-TEAM/RustHound> ⭐ 1,178 | 🐛 9 | 🌐 Rust | 📅 2024-10-21
   * <https://github.com/FalconForceTeam/SOAPHound> ⭐ 899 | 🐛 6 | 🌐 C# | 📅 2024-02-03
   * <https://github.com/CompassSecurity/BloodHoundQueries> ⚠️ Archived
 * LDAP:
-  * <https://github.com/dirkjanm/ldapdomaindump> ⭐ 1,436 | 🐛 27 | 🌐 Python | 📅 2025-04-06
-  * <https://github.com/franc-pentest/ldeep> ⭐ 606 | 🐛 2 | 🌐 Python | 📅 2026-09-30
+  * <https://github.com/dirkjanm/ldapdomaindump> ⭐ 1,437 | 🐛 27 | 🌐 Python | 📅 2025-04-06
+  * <https://github.com/franc-pentest/ldeep> ⭐ 607 | 🐛 2 | 🌐 Python | 📅 2026-09-30
   * <https://github.com/yaap7/ldapsearch-ad> ⭐ 344 | 🐛 0 | 🌐 Python | 📅 2024-12-10
 * DNS:
   * <https://github.com/dirkjanm/adidnsdump> ⭐ 1,191 | 🐛 5 | 🌐 Python | 📅 2025-04-04
@@ -1330,18 +1330,18 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
   * <https://github.com/garrettfoster13/sccmhunter> ⭐ 952 | 🐛 4 | 🌐 Python | 📅 2026-10-03
   * <https://github.com/Mayyhem/SharpSCCM> ⭐ 703 | 🐛 5 | 🌐 C# | 📅 2026-09-29
 * Brute force users:
-  * <https://github.com/ropnop/kerbrute> ⭐ 3,465 | 🐛 44 | 🌐 Go | 📅 2024-08-20
+  * <https://github.com/ropnop/kerbrute> ⭐ 3,467 | 🐛 44 | 🌐 Go | 📅 2024-08-20
 
 ### 域内权限提升 *Privilege Escalation*
 
-* <https://github.com/CravateRouge/bloodyAD> ⭐ 2,313 | 🐛 3 | 🌐 Python | 📅 2026-10-03
+* <https://github.com/CravateRouge/bloodyAD> ⭐ 2,313 | 🐛 4 | 🌐 Python | 📅 2026-10-03
 
 ### 域内漏洞利用 *Known Exploited Vulnerabilities*
 
 #### MS14-068
 
-* <https://github.com/fortra/impacket/blob/master/examples/goldenPac.py> ⭐ 16,157 | 🐛 320 | 🌐 Python | 📅 2026-10-01
-* <https://github.com/SecWiki/windows-kernel-exploits/blob/master/MS14-068/pykek/ms14-068.py> ⭐ 8,755 | 🐛 10 | 🌐 C | 📅 2021-06-11
+* <https://github.com/fortra/impacket/blob/master/examples/goldenPac.py> ⭐ 16,159 | 🐛 323 | 🌐 Python | 📅 2026-10-01
+* <https://github.com/SecWiki/windows-kernel-exploits/blob/master/MS14-068/pykek/ms14-068.py> ⭐ 8,754 | 🐛 10 | 🌐 C | 📅 2021-06-11
 * <https://github.com/SpiderLabs/Responder/blob/master/tools/FindSMB2UPTime.py> ⚠️ Archived
 
 #### noPac
@@ -1389,12 +1389,12 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### Coerce and Relay
 
-* ntlmrelayx: <https://github.com/fortra/impacket/blob/master/examples/ntlmrelayx.py> ⭐ 16,157 | 🐛 320 | 🌐 Python | 📅 2026-10-01
-* Responder: <https://github.com/lgandx/Responder> ⭐ 6,616 | 🐛 30 | 🌐 Python | 📅 2026-06-10
+* ntlmrelayx: <https://github.com/fortra/impacket/blob/master/examples/ntlmrelayx.py> ⭐ 16,159 | 🐛 323 | 🌐 Python | 📅 2026-10-01
+* Responder: <https://github.com/lgandx/Responder> ⭐ 6,617 | 🐛 30 | 🌐 Python | 📅 2026-06-10
 * Coercer: <https://github.com/p0dalirius/Coercer> ⭐ 2,330 | 🐛 10 | 🌐 Python | 📅 2026-04-24
 * PetitPotam: <https://github.com/topotam/PetitPotam> ⭐ 2,281 | 🐛 0 | 🌐 C | 📅 2024-08-15
 * KrbRelayUp: <https://github.com/Dec0ne/KrbRelayUp> ⭐ 1,688 | 🐛 18 | 🌐 C# | 📅 2022-08-06
-* kerbrelayx: <https://github.com/dirkjanm/krbrelayx> ⭐ 1,673 | 🐛 18 | 🌐 Python | 📅 2026-03-11
+* kerbrelayx: <https://github.com/dirkjanm/krbrelayx> ⭐ 1,674 | 🐛 18 | 🌐 Python | 📅 2026-03-11
 * PrinterBug: <https://github.com/leechristensen/SpoolSample> ⭐ 1,146 | 🐛 0 | 🌐 C# | 📅 2024-05-29
 * PrivExchange: <https://github.com/dirkjanm/privexchange/> ⭐ 1,081 | 🐛 2 | 🌐 Python | 📅 2020-01-23
 * DFSCoerce: <https://github.com/Wh04m1001/DFSCoerce> ⭐ 851 | 🐛 4 | 🌐 Python | 📅 2022-09-09
@@ -1405,8 +1405,8 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### Delegation
 
-* findDelegation: <https://github.com/fortra/impacket/blob/master/examples/findDelegation.py> ⭐ 16,157 | 🐛 320 | 🌐 Python | 📅 2026-10-01
-* Impacket rbcd.py: <https://github.com/fortra/impacket/blob/master/examples/rbcd.py> ⭐ 16,157 | 🐛 320 | 🌐 Python | 📅 2026-10-01
+* findDelegation: <https://github.com/fortra/impacket/blob/master/examples/findDelegation.py> ⭐ 16,159 | 🐛 323 | 🌐 Python | 📅 2026-10-01
+* Impacket rbcd.py: <https://github.com/fortra/impacket/blob/master/examples/rbcd.py> ⭐ 16,159 | 🐛 323 | 🌐 Python | 📅 2026-10-01
 * PowerView: <https://github.com/PowerShellMafia/PowerSploit/blob/dev/Recon/PowerView.ps1> ⚠️ Archived
 * Delegations: <https://github.com/TheManticoreProject/Delegations> ⭐ 224 | 🐛 0 | 🌐 Go | 📅 2026-08-30
 * SharpRBCD: <https://github.com/Kryp7os/SharpRBCD> ⭐ 49 | 🐛 0 | 🌐 C# | 📅 2025-03-10
@@ -1417,15 +1417,15 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 * PassTheCert: <https://github.com/AlmondOffSec/PassTheCert> ⭐ 786 | 🐛 0 | 🌐 Python | 📅 2026-08-24
 * Active Directory Certificate Services(AD CS) 枚举与利用:
-  * Certipy: <https://github.com/ly4k/Certipy> ⭐ 3,686 | 🐛 27 | 🌐 Python | 📅 2026-07-30
-  * Certify: <https://github.com/GhostPack/Certify> ⭐ 2,040 | 🐛 0 | 🌐 C# | 📅 2026-09-30
+  * Certipy: <https://github.com/ly4k/Certipy> ⭐ 3,688 | 🐛 27 | 🌐 Python | 📅 2026-07-30
+  * Certify: <https://github.com/GhostPack/Certify> ⭐ 2,042 | 🐛 0 | 🌐 C# | 📅 2026-09-30
   * PKINITtools: <https://github.com/dirkjanm/PKINITtools> ⭐ 932 | 🐛 6 | 🌐 Python | 📅 2025-01-03
   * ADCSPwn: <https://github.com/bats3c/ADCSPwn> ⭐ 876 | 🐛 2 | 🌐 C# | 📅 2023-03-20
   * certi: <https://github.com/zer1t0/certi> ⭐ 324 | 🐛 4 | 🌐 Python | 📅 2023-02-06
 
 #### ACLs and ACEs
 
-* <https://github.com/ShutdownRepo/pywhisker> ⭐ 940 | 🐛 4 | 🌐 Python | 📅 2026-06-17
+* <https://github.com/ShutdownRepo/pywhisker> ⭐ 940 | 🐛 3 | 🌐 Python | 📅 2026-10-08
 * <https://github.com/ShutdownRepo/targetedKerberoast> ⭐ 690 | 🐛 4 | 🌐 Python | 📅 2024-12-16
 * <https://github.com/n00py/DCSync> ⭐ 117 | 🐛 0 | 🌐 Python | 📅 2022-05-02
 
@@ -1433,9 +1433,9 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 ### 内存马查杀 *Memshell Detection*
 
-* <https://github.com/alibaba/arthas> ⭐ 37,570 | 🐛 489 | 🌐 Java | 📅 2026-09-29
+* <https://github.com/alibaba/arthas> ⭐ 37,572 | 🐛 489 | 🌐 Java | 📅 2026-09-29
 * <https://github.com/c0ny1/java-memshell-scanner> ⭐ 1,018 | 🐛 7 | 🌐 Java | 📅 2023-03-09
-* <https://github.com/LandGrey/copagent> ⭐ 500 | 🐛 1 | 🌐 Java | 📅 2021-05-17
+* <https://github.com/LandGrey/copagent> ⭐ 499 | 🐛 1 | 🌐 Java | 📅 2021-05-17
 * <https://github.com/yzddmr6/ASP.NET-Memshell-Scanner> ⭐ 281 | 🐛 3 | 🌐 JavaScript | 📅 2023-08-22
 
 ### Webshell 查杀 *Webshell Detection*
@@ -1447,7 +1447,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 ### 攻击研判 *Blue Teaming*
 
-* BlueTeamTools: <https://github.com/abc123info/BlueTeamTools> ⭐ 1,882 | 🐛 26 | 📅 2026-07-25
+* BlueTeamTools: <https://github.com/abc123info/BlueTeamTools> ⭐ 1,883 | 🐛 24 | 📅 2026-07-25
 * CobaltStrike Decrypt: <https://github.com/5ime/CS_Decrypt> ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2023-10-02
 * IP Logger: <https://iplogger.org/> 记录并追踪 IP 地址
 
@@ -1459,7 +1459,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 ### 应急响应 *Incident Response*
 
 * <https://github.com/grayddq/GScan> ⭐ 2,830 | 🐛 15 | 🌐 Python | 📅 2022-08-07
-* <https://github.com/al0ne/LinuxCheck> ⭐ 2,106 | 🐛 1 | 🌐 Shell | 📅 2024-06-19
+* <https://github.com/al0ne/LinuxCheck> ⭐ 2,107 | 🐛 1 | 🌐 Shell | 📅 2024-06-19
 * <https://github.com/T0xst/linux> ⭐ 474 | 🐛 6 | 🌐 Shell | 📅 2025-04-22
 * <https://github.com/ppabc/security_check> ⭐ 182 | 🐛 0 | 🌐 Shell | 📅 2017-01-24
 
@@ -1487,8 +1487,8 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 ### 开源蜜罐 *Open-Source Honeypot*
 
-* awesome-honeypots: <https://github.com/paralax/awesome-honeypots> ⭐ 10,588 | 🐛 30 | 🌐 Python | 📅 2026-06-01 蜜罐资源汇总列表
-* HFish: <https://github.com/hacklcx/HFish> ⭐ 4,556 | 🐛 70 | 📅 2026-03-13
+* awesome-honeypots: <https://github.com/paralax/awesome-honeypots> ⭐ 10,589 | 🐛 30 | 🌐 Python | 📅 2026-06-01 蜜罐资源汇总列表
+* HFish: <https://github.com/hacklcx/HFish> ⭐ 4,555 | 🐛 70 | 📅 2026-03-13
 * conpot: <https://github.com/mushorg/conpot> ⭐ 1,532 | 🐛 27 | 🌐 Python | 📅 2026-10-01 工业控制系统（ICS）专用蜜罐
 * Ehoney: <https://github.com/seccome/Ehoney> ⭐ 1,273 | 🐛 40 | 🌐 Go | 📅 2023-10-17
 * MysqlHoneypot: <https://github.com/qigpig/MysqlHoneypot> ⭐ 219 | 🐛 5 | 🌐 Python | 📅 2021-03-23 基于 MySQL 蜜罐获取微信号
@@ -1497,9 +1497,9 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 综合工具 *Nice Tools*
 
-* UPX: <https://github.com/upx/upx> ⭐ 17,923 | 🐛 21 | 🌐 C++ | 📅 2026-10-07
-* IDA Pro MCP: <https://github.com/mrexodia/ida-pro-mcp> ⭐ 12,513 | 🐛 50 | 🌐 Python | 📅 2026-09-26 集成 AI 的 IDA Pro 工具
-* Angr: <https://github.com/angr/angr> ⭐ 9,131 | 🐛 766 | 🌐 Python | 📅 2026-10-08 二进制分析平台
+* UPX: <https://github.com/upx/upx> ⭐ 17,927 | 🐛 23 | 🌐 C++ | 📅 2026-10-07
+* IDA Pro MCP: <https://github.com/mrexodia/ida-pro-mcp> ⭐ 12,547 | 🐛 50 | 🌐 Python | 📅 2026-09-26 集成 AI 的 IDA Pro 工具
+* Angr: <https://github.com/angr/angr> ⭐ 9,132 | 🐛 760 | 🌐 Python | 📅 2026-10-09 二进制分析平台
 * OpenArk: <https://github.com/BlackINT3/OpenArk> 反 Rootkit 工具
 * python arsenal for RE: <https://pythonarsenal.com/> 逆向工程工具集
 * IDA Pro: <https://hex-rays.com/ida-pro/>
@@ -1507,9 +1507,9 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 静态分析 *Static Analysis*
 
-* Detect-It-Easy: <https://github.com/horsicq/Detect-It-Easy> ⭐ 11,643 | 🐛 36 | 🌐 JavaScript | 📅 2026-10-07
-* checksec: <https://github.com/slimm609/checksec> ⭐ 2,392 | 🐛 3 | 🌐 Go | 📅 2026-09-24
-* ExeinfoPE: <https://github.com/ExeinfoASL/ASL> ⭐ 1,155 | 🐛 8 | 📅 2026-09-11
+* Detect-It-Easy: <https://github.com/horsicq/Detect-It-Easy> ⭐ 11,649 | 🐛 36 | 🌐 JavaScript | 📅 2026-10-08
+* checksec: <https://github.com/slimm609/checksec> ⭐ 2,394 | 🐛 3 | 🌐 Go | 📅 2026-09-24
+* ExeinfoPE: <https://github.com/ExeinfoASL/ASL> ⭐ 1,156 | 🐛 8 | 📅 2026-09-11
 * PEiD: <https://www.aldeid.com/wiki/PEiD>
 * bindiff: <https://www.zynamics.com/software.html>
 * 在线编译器: <https://godbolt.org/>
@@ -1521,21 +1521,21 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### Java
 
-* jadx: <https://github.com/skylot/jadx> ⭐ 50,773 | 🐛 453 | 🌐 Java | 📅 2026-10-07
-* jd-gui: <https://github.com/java-decompiler/jd-gui> ⭐ 15,201 | 🐛 248 | 🌐 Java | 📅 2024-07-08
+* jadx: <https://github.com/skylot/jadx> ⭐ 50,783 | 🐛 449 | 🌐 Java | 📅 2026-10-08
+* jd-gui: <https://github.com/java-decompiler/jd-gui> ⭐ 15,202 | 🐛 248 | 🌐 Java | 📅 2024-07-08
 * GDA: <https://github.com/charles2gan/GDA-android-reversing-Tool> ⭐ 4,851 | 🐛 62 | 🌐 Python | 📅 2026-04-10
 * jar-analyzer: <https://github.com/jar-analyzer/jar-analyzer/> ⭐ 2,170 | 🐛 21 | 🌐 Java | 📅 2026-09-06
 * JEB: <https://www.pnfsoftware.com/>
 
 #### Mobile
 
-* scrcpy: <https://github.com/Genymobile/scrcpy> ⭐ 151,597 | 🐛 2,923 | 🌐 C | 📅 2026-10-07
-* android-reverse: <https://github.com/WuFengXue/android-reverse> ⭐ 2,007 | 🐛 0 | 📅 2025-04-27
+* scrcpy: <https://github.com/Genymobile/scrcpy> ⭐ 151,572 | 🐛 2,920 | 🌐 C | 📅 2026-10-08
+* android-reverse: <https://github.com/WuFengXue/android-reverse> ⭐ 2,009 | 🐛 0 | 📅 2025-04-27
 
 #### Python
 
-* pyinstaller: <https://github.com/pyinstaller/pyinstaller> ⭐ 13,115 | 🐛 289 | 🌐 Python | 📅 2026-10-04 py->exe
-* pyinstxtractor: <https://github.com/extremecoders-re/pyinstxtractor> ⭐ 4,495 | 🐛 22 | 🌐 Python | 📅 2026-07-22 exe->pyc
+* pyinstaller: <https://github.com/pyinstaller/pyinstaller> ⭐ 13,116 | 🐛 289 | 🌐 Python | 📅 2026-10-04 py->exe
+* pyinstxtractor: <https://github.com/extremecoders-re/pyinstxtractor> ⭐ 4,496 | 🐛 22 | 🌐 Python | 📅 2026-07-22 exe->pyc
 * pycDcode: <https://github.com/rocky/python-uncompyle6/> ⭐ 4,329 | 🐛 42 | 🌐 Python | 📅 2026-10-05 pyc->py
 * unpy2exe: <https://github.com/matiasb/unpy2exe> ⭐ 284 | 🐛 6 | 🌐 Python | 📅 2023-02-24 exe->pyc
 * pycDcode: <https://github.com/BarakAharoni/pycDcode> ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2026-05-11
@@ -1552,15 +1552,15 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 #### JavaScript
 
 * <https://github.com/jxhczhl/JsRpc> ⭐ 2,349 | 🐛 26 | 🌐 Go | 📅 2026-06-08
-* <https://github.com/0xsdeo/AntiDebug_Breaker> ⭐ 2,206 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-21
+* <https://github.com/0xsdeo/AntiDebug_Breaker> ⭐ 2,210 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-21
 
 ## 云安全 *Cloud Security*
 
 ### 开源资源 *Resources*
 
-* Awesome-CloudSec-Labs: <https://github.com/iknowjason/Awesome-CloudSec-Labs> ⭐ 2,200 | 🐛 5 | 📅 2025-10-01
+* Awesome-CloudSec-Labs: <https://github.com/iknowjason/Awesome-CloudSec-Labs> ⭐ 2,201 | 🐛 5 | 📅 2025-10-01
 * TeamsSix:
-  * <https://github.com/teamssix/awesome-cloud-security> ⭐ 2,112 | 🐛 2 | 📅 2024-10-28
+  * <https://github.com/teamssix/awesome-cloud-security> ⭐ 2,114 | 🐛 2 | 📅 2024-10-28
   * <https://wiki.teamssix.com/>
 * lzCloudSecurity:
   * <https://github.com/EvilAnne/lzCloudSecurity> ⭐ 1,058 | 🐛 2 | 📅 2023-11-05
@@ -1587,10 +1587,10 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 云管平台 *Management Tools*
 
-* <https://github.com/aliyun/oss-browser> ⭐ 3,610 | 🐛 157 | 🌐 JavaScript | 📅 2024-07-26 基于阿里云 CLI 的图形化工具
-* <https://github.com/aliyun/aliyun-cli> ⭐ 1,110 | 🐛 54 | 🌐 Go | 📅 2026-09-28 适用于阿里云 OSS
+* <https://github.com/aliyun/oss-browser> ⭐ 3,611 | 🐛 157 | 🌐 JavaScript | 📅 2024-07-26 基于阿里云 CLI 的图形化工具
+* <https://github.com/aliyun/aliyun-cli> ⭐ 1,111 | 🐛 54 | 🌐 Go | 📅 2026-09-28 适用于阿里云 OSS
 * <https://github.com/qiniu/kodo-browser> ⭐ 198 | 🐛 42 | 🌐 TypeScript | 📅 2024-11-25 适用于七牛云 OSS
-* <https://github.com/TencentCloud/tencentcloud-cli> ⭐ 134 | 🐛 18 | 🌐 Python | 📅 2026-10-04 基于腾讯云 CLI
+* <https://github.com/TencentCloud/tencentcloud-cli> ⭐ 134 | 🐛 18 | 🌐 Python | 📅 2026-10-08 基于腾讯云 CLI
 * <https://github.com/TencentCloud/cosbrowser> ⭐ 101 | 🐛 33 | 📅 2026-08-28 适用于腾讯云 COS
 * <https://yun.cloudbility.com/> 云存储图形化管理平台
 * <https://support.huaweicloud.com/browsertg-obs/obs_03_1003.html> 适用于华为云 OBS
@@ -1620,7 +1620,7 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 容器 *Docker*
 
-* <https://github.com/wagoodman/dive> ⭐ 54,627 | 🐛 217 | 🌐 Go | 📅 2025-12-15 探索 Docker 镜像各层结构
+* <https://github.com/wagoodman/dive> ⭐ 54,628 | 🐛 217 | 🌐 Go | 📅 2025-12-15 探索 Docker 镜像各层结构
 * <https://github.com/docker/docker-bench-security> ⭐ 9,702 | 🐛 28 | 🌐 Shell | 📅 2026-06-04 Docker 安全基准测试工具
 * <https://github.com/cdk-team/CDK> ⭐ 4,765 | 🐛 15 | 🌐 Go | 📅 2026-05-01 容器渗透测试工具包
 * <https://github.com/chaitin/veinmind-tools> ⭐ 1,653 | 🐛 24 | 🌐 Go | 📅 2024-01-10 容器安全工具集
@@ -1630,12 +1630,12 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 
 #### 集群 *Kubernetes*
 
-* <https://github.com/etcd-io/etcd> ⭐ 52,342 | 🐛 385 | 🌐 Go | 📅 2026-10-07 分布式键值存储（K8s 核心组件）
-* <https://github.com/derailed/k9s> ⭐ 34,759 | 🐛 92 | 🌐 Go | 📅 2026-10-07 Kubernetes 终端管理 CLI 工具
-* <https://github.com/kubernetes/minikube> ⭐ 32,182 | 🐛 635 | 🌐 Go | 📅 2026-09-28 本地 Kubernetes 集群搭建工具
-* <https://github.com/kubernetes-sigs/kind> ⭐ 15,535 | 🐛 247 | 🌐 Go | 📅 2026-09-30 基于 Docker 的本地 Kubernetes 集群工具
+* <https://github.com/etcd-io/etcd> ⭐ 52,345 | 🐛 370 | 🌐 Go | 📅 2026-10-08 分布式键值存储（K8s 核心组件）
+* <https://github.com/derailed/k9s> ⭐ 34,772 | 🐛 92 | 🌐 Go | 📅 2026-10-07 Kubernetes 终端管理 CLI 工具
+* <https://github.com/kubernetes/minikube> ⭐ 32,184 | 🐛 637 | 🌐 Go | 📅 2026-09-28 本地 Kubernetes 集群搭建工具
+* <https://github.com/kubernetes-sigs/kind> ⭐ 15,537 | 🐛 247 | 🌐 Go | 📅 2026-09-30 基于 Docker 的本地 Kubernetes 集群工具
 * <https://github.com/docker/docker-bench-security> ⭐ 9,702 | 🐛 28 | 🌐 Shell | 📅 2026-06-04 Docker CIS 基准测试分析工具
-* <https://github.com/aquasecurity/kube-bench> ⭐ 8,217 | 🐛 107 | 🌐 Go | 📅 2026-10-05 Kubernetes CIS 基准测试分析工具
+* <https://github.com/aquasecurity/kube-bench> ⭐ 8,221 | 🐛 107 | 🌐 Go | 📅 2026-10-05 Kubernetes CIS 基准测试分析工具
 * <https://github.com/aquasecurity/kube-hunter> ⭐ 5,087 | 🐛 82 | 🌐 Python | 📅 2024-03-19 Kubernetes 安全弱点探测工具
 * <https://github.com/kubernetes/kubeadm> ⭐ 4,004 | 🐛 37 | 🌐 Go | 📅 2026-08-09 生产/测试环境 Kubernetes 集群部署工具
 * <https://github.com/kubernetes-sigs/cri-tools> ⭐ 2,015 | 🐛 21 | 🌐 Go | 📅 2026-10-07 Kubelet 容器运行时接口（CRI）工具集
@@ -1677,14 +1677,14 @@ alias godzilla="cd /Users/threekiii/HackTools/C2/Godzilla_v4.0.1/ && /Library/Ja
 
 Windows 通过 tabby + clink 优化原生终端，实现命令自动补全、vps ssh/ftp/sftp、输出日志记录等功能：
 
-* tabby: <https://github.com/Eugeny/tabby> ⭐ 74,857 | 🐛 2,823 | 🌐 TypeScript | 📅 2026-10-06
-* warp: <https://github.com/warpdotdev/Warp> ⭐ 65,397 | 🐛 5,363 | 🌐 Rust | 📅 2026-10-08 👍
-* clink: <https://github.com/chrisant996/clink> ⭐ 5,526 | 🐛 2 | 🌐 C++ | 📅 2026-10-07
+* tabby: <https://github.com/Eugeny/tabby> ⭐ 74,871 | 🐛 2,825 | 🌐 TypeScript | 📅 2026-10-08
+* warp: <https://github.com/warpdotdev/Warp> ⭐ 65,398 | 🐛 5,369 | 🌐 Rust | 📅 2026-10-09 👍
+* clink: <https://github.com/chrisant996/clink> ⭐ 5,529 | 🐛 2 | 🌐 C++ | 📅 2026-10-08
 
 MacOS 通过 warp + ohmyzsh 优化原生终端，warp 自带命令自动补全，引入“块”概念，提供了更现代化的编程体验（Modern UX and Text Editing）：
 
-* ohmyzsh: <https://github.com/ohmyzsh/ohmyzsh> ⭐ 190,220 | 🐛 306 | 🌐 Shell | 📅 2026-10-06
-* warp: <https://github.com/warpdotdev/Warp> ⭐ 65,397 | 🐛 5,363 | 🌐 Rust | 📅 2026-10-08 👍
+* ohmyzsh: <https://github.com/ohmyzsh/ohmyzsh> ⭐ 190,040 | 🐛 303 | 🌐 Shell | 📅 2026-10-09
+* warp: <https://github.com/warpdotdev/Warp> ⭐ 65,398 | 🐛 5,369 | 🌐 Rust | 📅 2026-10-09 👍
 
 ### 如何解决终端中文乱码
 
@@ -1694,4 +1694,4 @@ Windows 注册表进入 `计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
